@@ -1,0 +1,15 @@
+# Obsidian config
+.obsidian/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Git
+.git/

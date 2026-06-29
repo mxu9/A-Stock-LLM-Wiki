@@ -1,0 +1,112 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_NEWS",
+      "id": "0769f4c4-2429-471a-812c-bbd818ce8817",
+      "refSeq": null,
+      "llmSearchRequest": {
+        "query": "HVDC 高压直流 800V 数据中心供电 最新研报 中恒电气 麦格米特 2026年6月",
+        "size": 12,
+        "childSearchType": null,
+        "inputStartDate": null,
+        "inputEndDate": null,
+        "traceId": "f840c9f6e99183c242f55c79e7ee592c-bd17d2d3-2385-4b01-94ed-656f469b6b03",
+        "timeSupSize": 3,
+        "decomposedSize": 3,
+        "decomposedFlag": true
+      },
+      "llmSearchResponse": {
+        "data": [
+          {
+            "code": "AP202606031823208587_1",
+            "title": "传统业务经营趋势向好，AI电源开始放量",
+            "content": "麦格米特(002851)\n证券研究报告 / 公司动态报告传统业务经营趋势向好，AI\n电源开始放量电力设备公司顺利召开 2025 年年度股东大会。股东大会上，公司分别以\n97.90%/99.95%的同意票通过使用暂时闲置自有资金/募集资金进行现金管理的议案。同时，公司以收增速存在差异的主要原因在于汇兑损益，由于公司海外收入占比高，\n值措施，但未能完全抵消外币贬值带来的损益波动，导致 26Q1 公司财 \n前已逐步完善“模块—机架—整柜”一体化供电方案，可覆盖千瓦级至\n 兆瓦级 AI 电力需求。公司为英伟达服务器电源领域指定数据中心部件提供商之一，正积极参与 Blackwell 及 Vera Rubin 系列架构数据中心电源系统及高压直流供电方案的创新设计与生态建设。同时公司也在积极\n 布局 HVDC、SST 等下一代服务器电源产品。 盈利预测与评级：我们预计公司 2026-2028 年营业收入为 135/181/230 亿 \n元，归母净利润为 9.0/17.5/27.4 亿元，对应 PE 为 87/45/29 倍，首次覆盖，给予“增持”评级。 增持 \n首次覆盖相关报告",
+            "date": "2026-06-03 17:43:52",
+            "informationType": "REPORT",
+            "entityFullName": "麦格米特",
+            "insName": "东北证券",
+            "blackListStatus": "0",
+            "rankScore": "Infinity",
+            "rating": "增持",
+            "emRatingName": "",
+            "indexAttention": false,
+            "recallIndex": "ap_BaseWithTimelinessV2-0;ap_BaseRecallV2-0;",
+            "authorityLevel": "L2-2",
+            "communityFlag": false
+          },
+          {
+            "code": "AP202606031823208587_1",
+            "title": "传统业务经营趋势向好，AI电源开始放量",
+            "content": "麦格米特(002851)\n证券研究报告 / 公司动态报告传统业务经营趋势向好，AI\n电源开始放量电力设备公司顺利召开 2025 年年度股东大会。股东大会上，公司分别以\n97.90%/99.95%的同意票通过使用暂时闲置自有资金/募集资金进行现金管理的议案。同时，公司以收增速存在差异的主要原因在于汇兑损益，由于公司海外收入占比高，\n值措施，但未能完全抵消外币贬值带来的损益波动，导致 26Q1 公司财 \n前已逐步完善“模块—机架—整柜”一体化供电方案，可覆盖千瓦级至\n 兆瓦级 AI 电力需求。公司为英伟达服务器电源领域指定数据中心部件提供商之一，正积极参与 Blackwell 及 Vera Rubin 系列架构数据中心电源系统及高压直流供电方案的创新设计与生态建设。同时公司也在积极\n 布局 HVDC、SST 等下一代服务器电源产品。 盈利预测与评级：我们预计公司 2026-2028 年营业收入为 135/181/230 亿 \n元，归母净利润为 9.0/17.5/27.4 亿元，对应 PE 为 87/45/29 倍，首次覆盖，给予“增持”评级。 增持 \n首次覆盖相关报告",
+            "date": "2026-06-03 17:43:52",
+            "informationType": "REPORT",
+            "entityFullName": "麦格米特",
+            "insName": "东北证券",
+            "blackListStatus": "0",
+            "rankScore": "Infinity",
+            "rating": "增持",
+            "emRatingName": "",
+            "indexAttention": false,
+            "recallIndex": "ap_BaseWithTimelinessV2-0;ap_BaseRecallV2-0;",
+            "authorityLevel": "L2-2",
+            "communityFlag": false
+          },
+          {
+            "code": "AP202606031823208587_6",
+            "title": "传统业务经营趋势向好，AI电源开始放量",
+            "content": "99.95%的同意票通过了 2025 年度利润分配方案。 26Q1 营收稳健增长，利润短期承压。26Q1 公司实现营收 27.88 亿元，\n同比+20.35%；实现归母净利润 1.15 亿元，同比+6.93%。利润增速与营叠加 26Q1 美元汇率、尤其是印度卢比汇率波动剧烈，公司虽有套期保务费用高达 6619 万元，而去年同期则为-94 万元。此外，公司 26Q1 扣非净利润为 0.40 亿元，同比-56.23%，短期盈利能力承压。 六大事业群经营趋势向好，电源产品贡献突出。分业务看，26Q1 电源产品事业群实现营收 8.17 亿元，同比+66.52%；新能源及轨交事业群实现营收 2.61 亿元，同比+12.77%；智能家电电控产品事业群实现营收 12.68\n亿元，同比+3.45%；工业自动化事业群实现营收 1.85 亿元，同比+19.13%；\n智能装备事业群实现营收 1.19 亿元，同比+9.27%；精密连接事业群实现营收 1.24 亿元，同比+35.07%。 发布时间：2026-06-02 AI 数据中心需求旺盛，服务器电源成核心增长引擎。公司在电源领域目",
+            "date": "2026-06-03 17:43:52",
+            "informationType": "REPORT",
+            "entityFullName": "麦格米特",
+            "insName": "东北证券",
+            "blackListStatus": "0",
+            "rankScore": 0.910521468789922,
+            "rating": "增持",
+            "emRatingName": "",
+            "indexAttention": false,
+            "recallIndex": "ap_BaseRecallV2-1;",
+            "authorityLevel": "L2-2",
+            "communityFlag": false
+          },
+          {
+            "code": "AP202606031823208587_6",
+            "title": "传统业务经营趋势向好，AI电源开始放量",
+            "content": "99.95%的同意票通过了 2025 年度利润分配方案。 26Q1 营收稳健增长，利润短期承压。26Q1 公司实现营收 27.88 亿元，\n同比+20.35%；实现归母净利润 1.15 亿元，同比+6.93%。利润增速与营叠加 26Q1 美元汇率、尤其是印度卢比汇率波动剧烈，公司虽有套期保务费用高达 6619 万元，而去年同期则为-94 万元。此外，公司 26Q1 扣非净利润为 0.40 亿元，同比-56.23%，短期盈利能力承压。 六大事业群经营趋势向好，电源产品贡献突出。分业务看，26Q1 电源产品事业群实现营收 8.17 亿元，同比+66.52%；新能源及轨交事业群实现营收 2.61 亿元，同比+12.77%；智能家电电控产品事业群实现营收 12.68\n亿元，同比+3.45%；工业自动化事业群实现营收 1.85 亿元，同比+19.13%；\n智能装备事业群实现营收 1.19 亿元，同比+9.27%；精密连接事业群实现营收 1.24 亿元，同比+35.07%。 发布时间：2026-06-02 AI 数据中心需求旺盛，服务器电源成核心增长引擎。公司在电源领域目",
+            "date": "2026-06-03 17:43:52",
+            "informationType": "REPORT",
+            "entityFullName": "麦格米特",
+            "insName": "东北证券",
+            "blackListStatus": "0",
+            "rankScore": 0.9843319528232127,
+            "rating": "增持",
+            "emRatingName": "",
+            "indexAttention": false,
+            "recallIndex": "ap_BaseRecallV2-1;",
+            "authorityLevel": "L2-2",
+            "communityFlag": false
+          }
+        ],
+        "traceId": "f840c9f6e99183c242f55c79e7ee592c-bd17d2d3-2385-4b01-94ed-656f469b6b03",
+        "code": 0,
+        "status": 0,
+        "extraInfos": {
+          "decomposedQueries": [
+            "HVDC 高压直流 800V 数据中心供电 最新研报 中恒电气 麦格米特 2026年6月",
+            "中恒电气 2026年6月 HVDC 高压直流 800V 数据中心供电 最新研报",
+            "麦格米特 2026年6月 HVDC 高压直流 800V 数据中心供电 最新研报"
+          ]
+        }
+      }
+    },
+    "stack": null
+  },
+  "requestId": "1b28383a0e354fcbbdff4307b7c537ab"
+}
