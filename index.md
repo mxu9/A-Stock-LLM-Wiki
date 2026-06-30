@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 105 | 84 entities + 18 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 103 | 84 entities + 18 concepts + 1 comparison
 
-## Entities (个股) — 57 stocks
+## Entities (个股) — 84 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -38,8 +38,11 @@
 || [[300319]] 🆕 | 麦捷科技 | — |
 || [[300870]] 🆕 | 欧陆通 | — |
 || [[301031]] | 中熔电气 🆕 | — |
+|| [[601126]] 🆕 | 四方股份 | — |
+|| [[601179]] 🆕 | 中国西电 | — |
 || [[688551]] | 科威尔 | 1 |
 || [[688663]] 🆕 | 新风光 | — |
+|| [[688676]] 🆕 | 金盘科技 | — |
 
 ### 电子
 | 代码 | 名称 | 报告数 |
@@ -146,3 +149,6 @@
 
 ## Comparisons
 - [[hvdc-three-stocks]] — HVDC三股对比
+
+## Reports — 68 reports
+- [[reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）
