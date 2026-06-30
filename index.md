@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 101 | 82 entities + 18 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 104 | 83 entities + 18 concepts + 1 comparison
 
 ## Entities (个股) — 57 stocks
 
@@ -116,10 +116,11 @@
 ### 机械设备/燃气轮机
 | 代码 | 名称 | 报告数 |
 |------|------|--------|
-| [[603308]] 🆕 | 应流股份 | 1 |
-| [[000400]] 🆕 | 许继电气 | — |
-| [[000534]] 🆕 | 万泽股份 | 1 |
-| [[002126]] 🆕 | 银轮股份 | 1 |
+|| [[603308]] 🆕 | 应流股份 | 1 |
+|| [[002353]] 🆕 | 杰瑞股份 | — |
+|| [[000400]] 🆕 | 许继电气 | — |
+|| [[000534]] 🆕 | 万泽股份 | 1 |
+|| [[002126]] 🆕 | 银轮股份 | 1 |
 
 ## Concepts (行业/概念/产业链) — 13 topics
 
