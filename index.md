@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 103 | 84 entities + 18 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 112 | 92 entities + 19 concepts + 1 comparisons
 
-## Entities (个股) — 84 stocks
+## Entities (个股) — 92 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -73,10 +73,18 @@
 | [[603005]] 🆕 | 晶方科技 | — |
 | [[688498]] | 源杰科技 🆕 | — |
 | [[688531]] | 日联科技 🆕 | — |
-| [[688112]] | 鼎阳科技 🆕 | — |
-| [[01810]]  | 小米集团 | 1 |
-| [[000988]] | 华工科技 🆕 | — |
-| [[002384]] | 东山精密 🆕 | — |
+|| [[688112]] | 鼎阳科技 🆕 | — |
+|| [[01810]]  | 小米集团 | 1 |
+|| [[000988]] | 华工科技 🆕 | — |
+|| [[002384]] | 东山精密 🆕 | — |
+|| [[300373]] 🆕 | 扬杰科技 | — |
+|| [[600460]] 🆕 | 士兰微 | — |
+|| [[603290]] 🆕 | 斯达半导 | — |
+|| [[605111]] 🆕 | 新洁能 | — |
+|| [[688187]] 🆕 | 时代电气 | — |
+|| [[688261]] 🆕 | 东微半导 | — |
+|| [[688396]] 🆕 | 华润微 | — |
+|| [[688711]] 🆕 | 宏微科技 | — |
 
 ### 化工
 | 代码 | 名称 | 报告数 |
@@ -126,7 +134,7 @@
 || [[000534]] 🆕 | 万泽股份 | 1 |
 || [[002126]] 🆕 | 银轮股份 | 1 |
 
-## Concepts (行业/概念/产业链) — 13 topics
+## Concepts (行业/概念/产业链) — 19 topics
 
 - [[800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[solid-state-transformer]] — 固态变压器(SST)
@@ -146,6 +154,7 @@
 - [[qianfan-constellation]] 🆕 — 千帆星座/G60星链（中国版Starlink，>1.5万颗）
 - [[gw-constellation]] 🆕 — GW星座/中国星网（国家战略级，1.3万颗，6G空天一体）
 - [[advanced-packaging]] 🆕 — 先进封装（甬矽103亿+长电78亿集体扩产，280亿+资本开支）
+- [[power-semiconductor]] 🆕 — 功率半导体（MOSFET/IGBT/SiC，国产替代加速，8英寸产能紧缺）
 
 ## Comparisons
 - [[hvdc-three-stocks]] — HVDC三股对比
