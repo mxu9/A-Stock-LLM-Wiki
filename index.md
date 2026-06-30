@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 113 | 93 entities + 19 concepts + 1 comparisons
+> Last updated: 2026-07-01 | Total pages: 115 | 95 entities + 19 concepts + 1 comparisons
 
-## Entities (个股) — 93 stocks
+## Entities (个股) — 95 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -55,6 +55,7 @@
 || [[002819]] | 东方中科 | 1 |
 || [[002916]] 🆕 | 深南电路 | — |
 || [[003031]] | 中瓷电子 🆕 | — |
+|| [[300316]] 🆕 | 晶盛机电 | — |
 || [[300408]] | 三环集团 🆕 | — |
 || [[300620]] | 光库科技 🆕 | — |
 || [[300747]] | 锐科激光 🆕 | — |
@@ -64,6 +65,7 @@
 || [[688234]] 🆕 | 天岳先进 | — |
 | [[600563]] | 法拉电子 | 1 |
 | [[600673]] | 东阳光 | 1 |
+| [[600703]] 🆕 | 三安光电 | — |
 | [[688025]] | 杰普特 🆕 | — |
 | [[688048]] | 长光华芯 🆕 | — |
 | [[688627]] | 精智达 | 1 |
