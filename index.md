@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 100 | 80 entities + 19 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 102 | 82 entities + 19 concepts + 1 comparison
 
 ## Entities (个股) — 57 stocks
 
@@ -105,7 +105,13 @@
 | [[301580]] | 爱迪特 🆕 | 医药 | — |
 | [[600036]] | 招商银行 | 银行 | 1 |
 | [[600901]] | 江苏金租 | 金融 | 2 |
-| [[002749]] | 国光股份 | 农业 | 1 |
+|| [[002749]] | 国光股份 | 农业 | 1 |
+
+### 农林牧渔/畜禽养殖
+|| 代码 | 名称 | 报告数 |
+||------|------|--------|
+|| [[002714]] 🆕 | 牧原股份 | — |
+|| [[300498]] 🆕 | 温氏股份 | — |
 
 ### 机械设备/燃气轮机
 | 代码 | 名称 | 报告数 |
