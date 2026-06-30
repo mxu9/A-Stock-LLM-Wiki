@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-30 | Total pages: 99 | 79 entities + 19 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 100 | 80 entities + 19 concepts + 1 comparison
 
 ## Entities (个股) — 57 stocks
 
@@ -58,6 +58,7 @@
 || [[301377]] | 鼎泰高科 🆕 | — |
 || [[600330]] 🆕 | 天通股份 | — |
 || [[600353]] | 旭光电子 🆕 | — |
+|| [[688234]] 🆕 | 天岳先进 | — |
 | [[600563]] | 法拉电子 | 1 |
 | [[600673]] | 东阳光 | 1 |
 | [[688025]] | 杰普特 🆕 | — |
