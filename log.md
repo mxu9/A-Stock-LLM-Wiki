@@ -168,3 +168,6 @@
 ### 2026-07-01 | ZSXQ 6/30每日摘要同步
 - 同步 concept: semiconductor-price-cycle, advanced-packaging, humanoid-robot, commercial-space
 - 新增报告: reports/ZSXQ/知识星球_摘要_260630.md (8页240条)
+### 2026-07-01 | 时代电气全面分析
+- 更新 entity: 688187.md（全面分析增强）
+- 新增报告: reports/260701/时代电气_全面分析_260701.md
