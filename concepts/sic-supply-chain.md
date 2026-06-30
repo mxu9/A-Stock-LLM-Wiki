@@ -222,6 +222,7 @@ sources:
 ---
 
 ## 相关概念
+- [[power-semiconductor]] — 功率半导体（SiC的上位概念，含IGBT/MOSFET/GaN全品类）
 - [[800v-hvdc]] — SiC是800V HVDC核心材料
 - [[solid-state-transformer]] — SiC MOSFET是SST核心功率器件
 
