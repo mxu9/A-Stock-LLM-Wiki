@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 104 | 83 entities + 18 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 105 | 84 entities + 18 concepts + 1 comparison
 
 ## Entities (个股) — 57 stocks
 
@@ -88,11 +88,12 @@
 |------|------|--------|
 | [[000657]] | 中钨高新 🆕 | — |
 | [[000831]] | 中国稀土 🆕 | — |
-| [[002167]] | 东方锆业 🆕 | — |
-| [[002541]] | 宏桥控股 | 1 |
-| [[600392]] | 盛和资源 🆕 | — |
-| [[600549]] | 厦门钨业 🆕 | — |
-| [[688598]] | 金博股份 🆕 | — |
+|| [[002167]] | 东方锆业 🆕 | — |
+|| [[002182]] 🆕 | 宝武镁业 | — |
+|| [[002541]] | 宏桥控股 | 1 |
+|| [[600392]] | 盛和资源 🆕 | — |
+|| [[600549]] | 厦门钨业 🆕 | — |
+|| [[688598]] | 金博股份 🆕 | — |
 
 ### 材料
 | 代码 | 名称 | 报告数 |
