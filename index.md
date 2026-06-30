@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 102 | 82 entities + 19 concepts + 1 comparison
+> Last updated: 2026-07-01 | Total pages: 101 | 82 entities + 18 concepts + 1 comparison
 
 ## Entities (个股) — 57 stocks
 
@@ -131,7 +131,6 @@
 - [[optical-test-equipment]] 🆕 — 光通信测试设备
 - [[humanoid-robot]] — 人形机器人
 - [[gas-turbine]] — 燃气轮机
-- [[oil-shipping]] — 油运板块
 - [[lithium-carbonate]] — 碳酸锂
 - [[japan-substitution]] ~~对日替代~~ → 🆕 **已升级为五大方向全景**
 - [[laser-light-source]] 🆕 — 激光光源产业链
