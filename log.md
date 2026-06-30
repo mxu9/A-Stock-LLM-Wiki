@@ -165,3 +165,6 @@
 - 新建 entity x8: 603290/688187/600460/688396/300373/605111/688261/688711
 - 新增报告: reports/260701/功率半导体_行业分析_260701.md
 - 更新 index.md: entity +8, concept +1
+### 2026-07-01 | ZSXQ 6/30每日摘要同步
+- 同步 concept: semiconductor-price-cycle, advanced-packaging, humanoid-robot, commercial-space
+- 新增报告: reports/ZSXQ/知识星球_摘要_260630.md (8页240条)

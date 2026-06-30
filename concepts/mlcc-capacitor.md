@@ -1,7 +1,7 @@
 ---
 title: MLCC/被动元件产业链
 created: 2026-06-25
-updated: 2026-06-29
+updated: 2026-07-01
 type: concept
 tags: [被动元件, 电子, 产业链, 涨价]
 sources:
