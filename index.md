@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 117 | 95 entities + 21 concepts + 1 comparisons
+> Last updated: 2026-07-01 | Total pages: 118 | 96 entities + 21 concepts + 1 comparisons
 
-## Entities (个股) — 95 stocks
+## Entities (个股) — 96 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -88,6 +88,11 @@
 || [[688396]] 🆕 | 华润微 | — |
 || [[688469]] 🆕 | 芯联集成 | — |
 || [[688711]] 🆕 | 宏微科技 | — |
+
+### 医药
+|| 代码 | 名称 | 报告数 |
+||------|------|--------|
+|| [[002422]] 🆕 | 科伦药业 | — |
 
 ### 化工
 | 代码 | 名称 | 报告数 |
