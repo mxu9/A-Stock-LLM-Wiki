@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 122 | 100 entities + 21 concepts + 1 comparisons
+> Last updated: 2026-07-01 | Total pages: 126 | 104 entities + 21 concepts + 1 comparisons
 
-## Entities (个股) — 100 stocks
+## Entities (个股) — 104 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -97,6 +97,10 @@
 || [[688235]] 🆕 | 百济神州 | — |
 || [[688331]] 🆕 | 荣昌生物 | — |
 || [[688506]] 🆕 | 百利天恒 | — |
+|| [[01801-HK]] 🆕 | 信达生物(HK) | — |
+|| [[01530-HK]] 🆕 | 三生制药(HK) | — |
+|| [[06990-HK]] 🆕 | 科伦博泰生物(HK) | — |
+|| [[09926-HK]] 🆕 | 康方生物(HK) | — |
 
 ### 化工
 | 代码 | 名称 | 报告数 |
