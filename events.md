@@ -3,7 +3,7 @@ title: 事件追踪
 slug: events
 created: 2026-07-01
 updated: 2026-07-01
-type: concept
+type: page
 tags: [事件, 政策, 地缘, 行业催化]
 ---
 
