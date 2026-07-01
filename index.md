@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 116 | 95 entities + 20 concepts + 1 comparisons
+> Last updated: 2026-07-01 | Total pages: 117 | 95 entities + 21 concepts + 1 comparisons
 
 ## Entities (个股) — 95 stocks
 
@@ -137,7 +137,7 @@
 || [[000534]] 🆕 | 万泽股份 | 1 |
 || [[002126]] 🆕 | 银轮股份 | 1 |
 
-## Concepts (行业/概念/产业链) — 20 topics
+## Concepts (行业/概念/产业链) — 21 topics
 
 - [[800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
@@ -149,6 +149,7 @@
 - [[humanoid-robot]] — 人形机器人
 - [[gas-turbine]] — 燃气轮机
 - [[lithium-carbonate]] — 碳酸锂
+- [[innovative-drugs]] 🆕 — 创新药（BD出海大时代，2026Q1 614亿$，全球占70%，PS 4.9x估值底）
 - [[japan-substitution]] ~~对日替代~~ → 🆕 **已升级为五大方向全景**
 - [[laser-light-source]] 🆕 — 激光光源产业链
 - [[pig-cycle]] 🆕 — 猪周期（去供给初期，Q2压力仍大）
