@@ -382,3 +382,5 @@ sources:
 - `raw/reports/250618/对日替代_星球追踪_250618.md`
 - `raw/reports/260615/宏桥控股_全面分析_260615.md`
 - `raw/reports/260615/麦格米特_全面分析_260615.md`
+
+- [[aidc-supply-chain]] — AIDC 全产业链（上位概念）

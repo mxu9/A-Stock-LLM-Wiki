@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 115 | 95 entities + 19 concepts + 1 comparisons
+> Last updated: 2026-07-01 | Total pages: 116 | 95 entities + 20 concepts + 1 comparisons
 
 ## Entities (个股) — 95 stocks
 
@@ -137,9 +137,10 @@
 || [[000534]] 🆕 | 万泽股份 | 1 |
 || [[002126]] 🆕 | 银轮股份 | 1 |
 
-## Concepts (行业/概念/产业链) — 19 topics
+## Concepts (行业/概念/产业链) — 20 topics
 
 - [[800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
+- [[aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[solid-state-transformer]] — 固态变压器(SST)
 - [[sic-supply-chain]] 🆕 — 碳化硅(SiC)产业链
 - [[aidc-liquid-cooling]] — AIDC液冷产业链
@@ -158,6 +159,7 @@
 - [[gw-constellation]] 🆕 — GW星座/中国星网（国家战略级，1.3万颗，6G空天一体）
 - [[advanced-packaging]] 🆕 — 先进封装（甬矽103亿+长电78亿集体扩产，280亿+资本开支）
 - [[power-semiconductor]] 🆕 — 功率半导体（MOSFET/IGBT/SiC，国产替代加速，8英寸产能紧缺）
+- [[aidc-supply-chain]] 🆕 — AIDC产业链（800V HVDC→SST供电变革，液冷CAGR 105%，SST千亿市场）
 
 ## Comparisons
 - [[hvdc-three-stocks]] — HVDC三股对比

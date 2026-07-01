@@ -43,3 +43,5 @@ sources:
 | 通用 | AIDC与传统电力扩容共振，燃机/气发/燃料电池持续受益 | 🔥 |
 
 > ^[raw/reports/ZSXQ/知识星球_摘要_260625.md]
+
+- [[aidc-supply-chain]] — AIDC 全产业链（上位概念）
