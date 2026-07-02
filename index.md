@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-02 | Total pages: 127 | 105 entities + 21 concepts + 1 comparisons
+> Last updated: 2026-07-02 | Total pages: 128 | 106 entities + 21 concepts + 1 comparisons
 
-## Entities (个股) — 105 stocks
+## Entities (个股) — 106 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -93,6 +93,7 @@
 ### 医药
 || 代码 | 名称 | 报告数 |
 ||------|------|--------|
+|| [[002202]] 🆕 | 金风科技 | 风电整机全球TOP3→绿甲醇第二曲线 |
 || [[002422]] 🆕 | 科伦药业 | — |
 || [[600276]] 🆕 | 恒瑞医药 | — |
 || [[688235]] 🆕 | 百济神州 | — |
