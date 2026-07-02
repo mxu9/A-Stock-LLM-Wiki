@@ -168,6 +168,8 @@
 - [[laser-light-source]] 🆕 — 激光光源产业链
 - [[events]] 🆕 — 事件追踪（重大政策/地缘/行业催化）
 - [[commercial-space]] 🆕 — 商业航天（可回收火箭7月验证，成本降70-90%）
+- [[gw-constellation]] 🆕 — GW星座（中国星网1.3万颗，2026年底骨干网）
+- [[qianfan-constellation]] 🆕 — 千帆星座（垣信1.5万颗，200颗在轨，324年底）
 - [[electrolyte]] 🆕 — 电解液（六氟触底+288%，7月中报暴增，Q4缺口）
 - [[pig-cycle]] 🆕 — 猪周期（去供给初期，Q2压力仍大）
 - [[semiconductor-price-cycle]] 🆕 — 半导体涨价周期（台积电全线涨价→全链传导）
