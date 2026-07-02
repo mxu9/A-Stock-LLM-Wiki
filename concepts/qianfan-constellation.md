@@ -1,7 +1,7 @@
 ---
 title: 千帆星座（G60星链）
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-07-02
 type: concept
 tags: [商业航天, 产业链, 卫星互联网, AIDC]
 sources:
