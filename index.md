@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-01 | Total pages: 126 | 104 entities + 21 concepts + 1 comparisons
+> Last updated: 2026-07-02 | Total pages: 127 | 105 entities + 21 concepts + 1 comparisons
 
-## Entities (个股) — 104 stocks
+## Entities (个股) — 105 stocks
 
 ### 军工/商业航天
 || 代码 | 名称 | 报告数 |
@@ -12,6 +12,7 @@
 || [[300065]] 🆕 | 海兰信 | — |
 || [[300136]] 🆕 | 信维通信 | — |
 || [[300762]] 🆕 | 上海瀚讯 | — |
+|| [[300751]] 🆕 | 迈为股份 | HJT整线全球龙头→泛半导体平台 |
 || [[300900]] 🆕 | 广联航空 | — |
 || [[301005]] 🆕 | 超捷股份 | — |
 || [[301232]] 🆕 | 飞沃科技 | — |
