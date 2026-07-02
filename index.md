@@ -166,6 +166,7 @@
 - [[japan-substitution]] ~~对日替代~~ → 🆕 **已升级为五大方向全景**
 - [[laser-light-source]] 🆕 — 激光光源产业链
 - [[events]] 🆕 — 事件追踪（重大政策/地缘/行业催化）
+- [[electrolyte]] 🆕 — 电解液（六氟触底+288%，7月中报暴增，Q4缺口）
 - [[pig-cycle]] 🆕 — 猪周期（去供给初期，Q2压力仍大）
 - [[semiconductor-price-cycle]] 🆕 — 半导体涨价周期（台积电全线涨价→全链传导）
 - [[mlcc-capacitor]] 🆕 — MLCC/被动元件产业链（涨价+AI需求缺口）
