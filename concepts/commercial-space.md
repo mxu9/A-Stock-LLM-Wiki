@@ -112,6 +112,8 @@ sources:
 - **7/10-13** 首飞窗口 → 年内最强催化剂
 
 ## 关联概念
+- [[gw-constellation]] — GW星座（~136颗在轨，2026骨干网建成，12,992颗规划）
+- [[qianfan-constellation]] — 千帆星座（200颗在轨，一周三发，15,000颗规划）
 - [[gas-turbine]] — 燃气轮机（应流股份/万泽股份与航天叶片重叠）
 - [[aidc-liquid-cooling]] — SpaceX Starmind部署后太空算力与地面AIDC需联动
 - [[japan-substitution]] — 航天精密零部件国产替代
