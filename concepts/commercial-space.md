@@ -114,9 +114,6 @@ sources:
 ## 关联概念
 - [[gw-constellation]] — GW星座（~136颗在轨，2026骨干网建成，12,992颗规划）
 - [[qianfan-constellation]] — 千帆星座（200颗在轨，一周三发，15,000颗规划）
-- [[gas-turbine]] — 燃气轮机（应流股份/万泽股份与航天叶片重叠）
-- [[aidc-liquid-cooling]] — SpaceX Starmind部署后太空算力与地面AIDC需联动
-- [[japan-substitution]] — 航天精密零部件国产替代
 
 ## 相关报告
 - mx-search: 长征十号乙火箭 商业航天（2026-06-28，15条研报/新闻）

@@ -85,7 +85,7 @@ sources:
 ## 关联概念
 - [[qianfan-constellation]] — 千帆星座（商业队双轨）
 - [[commercial-space]] — 商业航天
-- [[hbm-supply-chain]] — 星载芯片存储需求
+
 
 ## 相关报告
 - mx-search: GW星座 中国星网 卫星互联网 (2026-06-28, 15条)
