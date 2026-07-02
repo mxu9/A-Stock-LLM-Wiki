@@ -1,3 +1,4 @@
+## concepts (概念)
 - 800v-hvdc
 - aidc-supply-chain
 - aidc-liquid-cooling
@@ -11,3 +12,8 @@
 - humanoid-robot
 - pig-cycle
 - innovative-drugs
+## entities (标的)
+- 可立克
+- 良信股份
+- 中国卫星
+- 广联航空
