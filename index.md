@@ -2,9 +2,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-04 | Total pages: 133 | 107 entities + 25 concepts + 1 comparisons
+> Last updated: 2026-07-04 | Total pages: 134 | 108 entities + 25 concepts + 1 comparisons
 
-## Entities (个股) — 107 stocks
+## Entities (个股) — 108 stocks
 
 ### 军工/商业航天
 | 代码 | 名称 | 报告数 |
@@ -112,6 +112,7 @@
 | [[603599]] | 广信股份 | 1 |
 | [[688146]] | 中船特气 | 1 |
 | [[301292]] 🆕 | 海科新源 | 1 |
+| [[300082]] 🆕 | 奥克股份 | 1 |
 
 ### 有色
 | 代码 | 名称 | 报告数 |
