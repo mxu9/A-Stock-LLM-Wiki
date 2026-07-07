@@ -1,0 +1,67 @@
+---
+{"dg-publish":true,"permalink":"/concepts/mlcc-capacitor/","dg-note-properties":{}}
+---
+
+
+---
+title: MLCC/被动元件产业链
+created: 2026-06-25
+updated: 2026-07-04
+type: concept
+tags: [被动元件, 电子, 产业链, 涨价]
+sources_zsxq:
+  - reports/ZSXQ/知识星球_摘要_260704.md
+  - reports/ZSXQ/知识星球_摘要_260702.md
+sources:
+  - raw/reports/ZSXQ/知识星球_摘要_260625.md
+  - raw/reports/ZSXQ/知识星球_摘要_260629.md
+---
+
+# MLCC/被动元件产业链
+
+> 2026年6月，MLCC/MLPC全产业链涨价。江海股份再发涨价函，昀冢科技15亿高性能MLCC项目拟投，MLPC高端规格涨价30%，AI供需缺口Q3显现。**6/29 三星电机+太诱全线涨价，电子布持续跟涨，涨价潮从MLCC向被动元件全品类扩散。**
+
+## 涨价背景
+
+| 驱动因素 | 详情 |
+|----------|------|
+| **AI服务器需求** | 单机MLCC用量从~1,000颗→10,000+颗 |
+| **产能紧缺** | MLPC高端规格供不应求，缺口Q3扩大 |
+| **上游传导** | 半导体涨价传导至被动元件 [[concepts/semiconductor-price-cycle\|semiconductor-price-cycle]] |
+| **海外巨头跟涨** | 三星电机CSP长单5000亿韩元，太诱跟随涨价，博迁新材/国瓷材料受益 |
+| **电子布涨价** | 巨石/光远电子布继续涨价，全品类被动元件进入涨价周期 |
+
+## 产业链标的
+
+| 环节 | 标的 | 代码 | 动态 |
+|------|------|------|------|
+| **MLCC制造商** | 江海股份 | — | 再发涨价函 |
+| **MLCC制造商** | 昀冢科技 | — | 15亿高性能MLCC项目拟投 |
+| **MLCC制造商** | 三环集团 | [[entities/300408\|300408]] | MLCC/MLPC受益涨价潮，26Q1扣非+60.82% |
+| **MLCC制造商** | 艾华集团 | — | 铝电解电容+MLCC双受益 |
+| **MLCC制造商** | 法拉电子 | [[entities/600563\|600563]] | 薄膜电容龙头，MLCC涨价周期受益 |
+| **上游粉体** | 国瓷材料 | [[entities/300285\|300285]] | MLCC钛酸钡粉体国内八成份额，成本比日本低30% |
+| **上游材料** | 黑猫股份 | — | 导电炭黑受益超级电容需求 |
+
+## 关联概念
+- [[concepts/semiconductor-price-cycle\|semiconductor-price-cycle]]
+- [[concepts/japan-substitution\|japan-substitution]]
+- [[concepts/aidc-liquid-cooling\|aidc-liquid-cooling]]
+
+## 相关报告
+- `raw/reports/ZSXQ/知识星球_摘要_260625.md`（2026-06-24，24条化工/材料专题 + MLCC主线）
+
+## 🆕 7/2 最新动态
+
+|| 事件 | 详情 |
+||------|------|
+|| **韩国MLCC出口创历史新高** | 高盛6月出口追踪确认存储芯片与MLCC同时创新高 |
+|| **摩根大通重申国瓷材料增持** | MLCC产业链动能强劲，AI级产能即将放量 |
+|| **电子级氢氟酸涨价20-30%** | 台积电/三星/SK海力士批量抢购，中东地缘推高上游硫磺/硫酸成本 |
+
+## 🆕 7/4 最新动态
+
+| 事件 | 详情 |
+|------|------|
+| **华强北AI专用MLCC继续涨价** | 村田1206封装476下午再次上调报价650→670元/2000颗，热门料号全线上涨 |
+| **Intel Q3第一轮涨价落地** | Xeon 6 Granite Rapids等热门服务器CPU型号7月初正式调价 |
