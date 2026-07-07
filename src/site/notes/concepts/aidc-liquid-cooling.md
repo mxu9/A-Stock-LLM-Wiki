@@ -1,21 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-08","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md"]}}
 ---
 
-
----
-title: AIDC液冷产业链
-slug: aidc-liquid-cooling
-created: 2026-06-17
-updated: 2026-07-08
-type: concept
-tags: [液冷, 产业链, AIDC, 数据中心散热, 冷板, 浸没式]
-sources:
-  - reports/260701/AIDC产业链_行业分析_260701.md
-  - mx-search 2026-07-01: AIDC液冷全搜索
-  - raw/reports/250618/AIDC液冷产业链_行业分析_250618.md
-  - raw/reports/ZSXQ/知识星球_摘要_260625.md
----
 
 # AIDC液冷产业链
 
@@ -138,3 +124,4 @@ sources:
 
 - [[reports/260701/AIDC产业链_行业分析_260701\|AIDC 产业链 行业分析 260701]]
 - raw/reports/250618/AIDC液冷产业链_行业分析_250618.md 🆕
+

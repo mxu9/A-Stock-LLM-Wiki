@@ -1,19 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/optical-test-equipment/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/optical-test-equipment/","title":"光通信测试设备","tags":["光通信","测试设备","AI"],"dg-note-properties":{"title":"光通信测试设备","created":"2026-06-17","updated":"2026-06-17","type":"concept","tags":["光通信","测试设备","AI"],"sources":[{"mx-search":"光通信测试设备 2026-06"},"维度科技招股说明书 2026-06-05","日联科技收购菲莱测试公告 2026-06-04"]}}
 ---
 
-
----
-title: 光通信测试设备
-created: 2026-06-17
-updated: 2026-06-17
-type: concept
-tags: [光通信, 测试设备, AI]
-sources:
-  - mx-search: 光通信测试设备 2026-06
-  - 维度科技招股说明书 2026-06-05
-  - 日联科技收购菲莱测试公告 2026-06-04
----
 
 # 光通信测试设备
 
@@ -68,3 +56,4 @@ sources:
 ## 相关报告
 - mx-search: 光通信测试设备专题 2026-06
 - 维度科技招股书 (2026-06-05)
+

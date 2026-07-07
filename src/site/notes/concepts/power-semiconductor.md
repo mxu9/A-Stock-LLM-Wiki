@@ -1,18 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-08","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md"]}}
 ---
 
-
----
-title: 功率半导体
-slug: power-semiconductor
-created: 2026-07-01
-updated: 2026-07-08
-type: concept
-tags: [功率半导体, IGBT, MOSFET, SiC, 半导体, 国产替代]
-sources:
-  - reports/260701/功率半导体_行业分析_260701.md
----
 
 # 功率半导体
 
@@ -112,3 +101,4 @@ sources:
 
 ## 相关报告
 - [[reports/260701/功率半导体_行业分析_260701\|功率半导体 行业分析 260701]]
+

@@ -1,21 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/sic-supply-chain/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/sic-supply-chain/","title":"碳化硅(SiC)产业链","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"dg-note-properties":{"title":"碳化硅(SiC)产业链","created":"2026-06-22","updated":"2026-07-08","type":"concept","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"sources":[{"mx-search 2026-06-22":"SiC概念股全产业链搜索"},{"mx-search 2026-07-01":"8英寸SiC量产梯队全景"},{"entities/002617.md":"露笑科技"},"concepts/solid-state-transformer.md","concepts/800v-hvdc.md"]}}
 ---
 
-
----
-title: 碳化硅(SiC)产业链
-created: 2026-06-22
-updated: 2026-07-08
-type: concept
-tags: [SiC, 碳化硅, 第三代半导体, 产业链, 8英寸量产]
-sources:
-  - mx-search 2026-06-22: SiC概念股全产业链搜索
-  - mx-search 2026-07-01: 8英寸SiC量产梯队全景
-  - entities/002617.md: 露笑科技
-  - concepts/solid-state-transformer.md
-  - concepts/800v-hvdc.md
----
 
 # 碳化硅(SiC)产业链
 
@@ -283,3 +269,4 @@ sources:
 - [[concepts/solid-state-transformer\|solid-state-transformer]] — SiC MOSFET是SST核心功率器件
 
 ## 相关报告
+

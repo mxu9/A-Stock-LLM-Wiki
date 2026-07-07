@@ -1,21 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mlcc-capacitor/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/mlcc-capacitor/","title":"MLCC/被动元件产业链","tags":["被动元件","电子","产业链","涨价"],"dg-note-properties":{"title":"MLCC/被动元件产业链","created":"2026-06-25","updated":"2026-07-04","type":"concept","tags":["被动元件","电子","产业链","涨价"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md"]}}
 ---
 
-
----
-title: MLCC/被动元件产业链
-created: 2026-06-25
-updated: 2026-07-04
-type: concept
-tags: [被动元件, 电子, 产业链, 涨价]
-sources_zsxq:
-  - reports/ZSXQ/知识星球_摘要_260704.md
-  - reports/ZSXQ/知识星球_摘要_260702.md
-sources:
-  - raw/reports/ZSXQ/知识星球_摘要_260625.md
-  - raw/reports/ZSXQ/知识星球_摘要_260629.md
----
 
 # MLCC/被动元件产业链
 
@@ -65,3 +51,4 @@ sources:
 |------|------|
 | **华强北AI专用MLCC继续涨价** | 村田1206封装476下午再次上调报价650→670元/2000颗，热门料号全线上涨 |
 | **Intel Q3第一轮涨价落地** | Xeon 6 Granite Rapids等热门服务器CPU型号7月初正式调价 |
+

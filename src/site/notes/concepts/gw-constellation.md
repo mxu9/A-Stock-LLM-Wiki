@@ -1,18 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/gw-constellation/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/gw-constellation/","title":"GW星座（中国星网）","tags":["商业航天","卫星互联网","6G","军工"],"dg-note-properties":{"title":"GW星座（中国星网）","created":"2026-06-28","updated":"2026-07-08","type":"concept","tags":["商业航天","卫星互联网","6G","军工"],"sources":[{"mx-search 2026-06-28":"GW星座 中国星网"},{"知识星球":"华西证券/东兴证券"}]}}
 ---
 
-
----
-title: GW星座（中国星网）
-created: 2026-06-28
-updated: 2026-07-08
-type: concept
-tags: [商业航天, 卫星互联网, 6G, 军工]
-sources:
-  - mx-search 2026-06-28: GW星座 中国星网
-  - 知识星球: 华西证券/东兴证券
----
 
 # GW星座（中国星网）
 
@@ -103,3 +92,4 @@ sources:
 ## 相关报告
 - mx-search: GW星座 中国星网 卫星互联网 (2026-06-28, 15条)
 - 华西证券: 2026年通信年中投资策略 (2026-05-21)
+
