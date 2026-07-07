@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 对日替代
 created: 2026-06-17
 updated: 2026-06-17
@@ -11,6 +7,7 @@ tags: [对日替代, 产业链]
 sources:
   - raw/articles/对日替代五大方向-20260619.md
   - raw/reports/250618/对日替代_星球追踪_250618.md
+dg-publish: true
 ---
 
 # 对日替代
@@ -73,3 +70,4 @@ sources:
 ## 相关报告
 - `raw/articles/对日替代五大方向-20260619.md` — 星球原文（2026-06-19）
 - `raw/reports/250618/对日替代_星球追踪_250618.md`
+

@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 千帆星座（G60星链）
 created: 2026-06-28
 updated: 2026-07-08
@@ -11,6 +7,7 @@ tags: [商业航天, 产业链, 卫星互联网, AIDC]
 sources:
   - mx-search 2026-06-28: 千帆星座 G60 垣信卫星
   - 知识星球: 华泰通信/建投计算机/ZX航空航天
+dg-publish: true
 ---
 
 # 千帆星座（G60星链）
@@ -98,3 +95,4 @@ sources:
 
 ## 相关报告
 - mx-search: 千帆星座 G60星链 产业链 (2026-06-28, 15条)
+

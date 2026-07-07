@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 固态变压器
 created: 2026-06-17
 updated: 2026-07-08
@@ -12,7 +8,9 @@ sources:
   - raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md
   - raw/reports/260613/固态变压器_行业分析_260613.md
   - mx-search 2026-06-30: SST最新进展（6/15-22）
+dg-publish: true
 ---
+
 # 固态变压器
 
 >
@@ -417,3 +415,4 @@ sources:
 - `raw/reports/250618/AIDC液冷产业链_行业分析_250618.md`
 - `raw/reports/250618/对日替代_星球追踪_250618.md`
 - `raw/reports/260615/宏桥控股_全面分析_260615.md`
+

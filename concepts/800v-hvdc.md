@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 800V HVDC 高压直流供电
 created: 2026-06-17
 updated: 2026-07-08
@@ -20,7 +16,9 @@ sources:
   - raw/reports/250618/对日替代_星球追踪_250618.md
   - raw/reports/260615/宏桥控股_全面分析_260615.md
   - raw/reports/260615/麦格米特_全面分析_260615.md
+dg-publish: true
 ---
+
 # 800V HVDC 高压直流供电
 
 >
@@ -406,3 +404,4 @@ sources:
 - `raw/reports/260615/麦格米特_全面分析_260615.md`
 
 - [[aidc-supply-chain]] — AIDC 全产业链（上位概念）
+

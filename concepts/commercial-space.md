@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 商业航天
 created: 2026-06-28
 updated: 2026-07-08
@@ -14,6 +10,7 @@ sources:
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
   - raw/reports/ZSXQ/知识星球_摘要_260627.md
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
+dg-publish: true
 ---
 
 # 商业航天
@@ -148,3 +145,4 @@ sources:
 - 知识星球: 中信建投/中泰机械/国泰海通 商业航天研报（2026-06-24~29）
 - `raw/reports/ZSXQ/知识星球_摘要_260627.md`（商业航天5条专题）
 - `raw/reports/ZSXQ/知识星球_摘要_260625.md`（军工/航天7条）
+

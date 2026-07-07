@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 碳酸锂板块
 created: 2026-06-17
 updated: 2026-07-01
@@ -12,7 +8,9 @@ type: concept
 tags: [碳酸锂, 产业链]
 sources:
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
+dg-publish: true
 ---
+
 # 碳酸锂板块
 
 >
@@ -42,3 +40,4 @@ sources:
 - `raw/reports/250618/AIDC液冷产业链_行业分析_250618.md`
 - `raw/reports/250618/对日替代_星球追踪_250618.md`
 - `raw/reports/260615/宏桥控股_全面分析_260615.md`
+

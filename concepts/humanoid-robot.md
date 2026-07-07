@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 人形机器人
 created: 2026-06-17
 updated: 2026-07-08
@@ -22,7 +18,9 @@ sources:
   - raw/reports/250618/AIDC液冷产业链_行业分析_250618.md
   - raw/reports/250618/对日替代_星球追踪_250618.md
   - raw/reports/260615/宏桥控股_全面分析_260615.md
+dg-publish: true
 ---
+
 # 人形机器人
 
 > `SYSTEM_TIME: 2026-07-01` | 数据源: mx-search(研报/新闻) + sector_data.py(tushare) + 知识星球
@@ -215,3 +213,4 @@ sources:
 | 2026-07-05 | mx-search | 优必选发布U1全尺寸仿生人形机器人，首发订单破1.3万台；源策未来获数亿元种子轮融资 |
 | 2026-07-05 | mx-search | 东吴证券：Tesla Gen3将于7-8月推出并量产；26年为量产过渡期，27年量纲关键 |
 | 2026-07-04 | mx-search | 人形机器人百人会发布情感陪伴人形机器人发展倡议 |
+

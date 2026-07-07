@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 猪周期
 created: 2026-06-21
 updated: 2026-07-08
@@ -13,6 +9,7 @@ tags: [农业, 猪周期, 消费]
 sources:
   - raw/papers/猪周期上行时点_20260505_ocr.txt
   - mx-search 2026-07-01
+dg-publish: true
 ---
 
 # 猪周期
@@ -184,3 +181,4 @@ sources:
 
 ## 相关报告
 - `raw/papers/猪周期上行时点_20260505_ocr.txt` — 会议纪要 (2026-05-05)
+

@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 燃气轮机
 created: 2026-06-17
 updated: 2026-07-08
@@ -13,7 +9,9 @@ sources:
   - raw/reports/250618/燃气轮机_行业分析_250618.md
   - raw/papers/海外燃机供不应求_20260505_ocr.txt
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
+dg-publish: true
 ---
+
 # 燃气轮机
 
 ## Step 2: 市场概览
@@ -231,3 +229,4 @@ sources:
 | 2026-07-03 | mx-search | 全球风电紧固件龙头飞沃科技切入燃机+AIDC，燃气轮机是AIDC理想电源 (国金证券) |
 | 2026-07-01 | zsxq | GEV股价已创新高，AIDC拉动燃机需求 (知识星球 💰调研纪要) |
 | 2026-07-02 | mx-search | META/xAI/Equinix已采用气电，燃气轮机产业链景气度持续上行 (国金证券) |
+

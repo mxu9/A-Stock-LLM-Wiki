@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 半导体涨价周期
 created: 2026-06-25
 updated: 2026-07-03
@@ -16,6 +12,7 @@ sources:
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
   - reports/ZSXQ/知识星球_摘要_260630.md
+dg-publish: true
 ---
 
 # 半导体涨价周期
@@ -121,3 +118,4 @@ IC设计（联发科SoC/PMIC涨价10-15%）
 | **中报预告+AI硬件景气扩散** | 江波龙打出高度后，市场寻找AI硬件扩散方向——AI缺的不只是GPU而是整套硬件系统 |
 | **存储涨价趋势延续** | 美光毛利率大幅走高，DRAM/NAND供应持续偏紧 |
 | **华强北MLCC继续涨价** | 村田热门料号下午档口统一上调，AI专用高容MLCC需求强劲 |
+

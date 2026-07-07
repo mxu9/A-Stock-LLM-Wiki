@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: 碳化硅(SiC)产业链
 created: 2026-06-22
 updated: 2026-07-08
@@ -14,6 +10,7 @@ sources:
   - entities/002617.md: 露笑科技
   - concepts/solid-state-transformer.md
   - concepts/800v-hvdc.md
+dg-publish: true
 ---
 
 # 碳化硅(SiC)产业链
@@ -282,3 +279,4 @@ sources:
 - [[solid-state-transformer]] — SiC MOSFET是SST核心功率器件
 
 ## 相关报告
+

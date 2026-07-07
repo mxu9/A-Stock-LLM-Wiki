@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: HBM存储产业链
 created: 2026-06-17
 updated: 2026-06-17
@@ -18,7 +14,9 @@ sources:
   - raw/reports/260616/东阳光_全面分析_260616.md
   - raw/reports/260616/800V HVDC_行业分析_260616.md
   - raw/reports/ZSXQ/知识星球_摘要_250616.md
+dg-publish: true
 ---
+
 # HBM存储产业链
 
 > `SYSTEM_TIME: 2026-06-16` | 数据源: mx-search(研报/新闻) + sector_data.py(tushare财务)
@@ -177,3 +175,4 @@ sources:
 - `raw/reports/260616/东阳光_全面分析_260616.md`
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`
 - `raw/reports/ZSXQ/知识星球_摘要_250616.md`
+

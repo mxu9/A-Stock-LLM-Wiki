@@ -1,8 +1,4 @@
 ---
-dg-publish: true
----
-
----
 title: AIDC 产业链
 slug: aidc-supply-chain
 created: 2026-07-01
@@ -16,6 +12,7 @@ sources:
   - reports/260701/AIDC产业链_行业分析_260701.md
   - mx-search 2026-07-01: AIDC产业链全搜索
   - 知识星球 💰调研纪要【黑金会员】2026-07-01
+dg-publish: true
 ---
 
 # AIDC 产业链
@@ -165,3 +162,4 @@ AIDC（AI 数据中心）是当前 AI 算力基础设施投资最大的环节，
 ## 相关报告
 
 - [[reports/260701/AIDC产业链_行业分析_260701.md|AIDC 产业链 行业分析 260701]]
+
