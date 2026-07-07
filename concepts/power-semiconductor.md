@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 功率半导体
 slug: power-semiconductor
 created: 2026-07-01

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # 锐明技术 vs 中熔电气 vs 明阳电气 — HVDC 新势力三股全面对比
 
 > `SYSTEM_TIME: 2026-06-16` | 数据源: mx-data(#1)→mx-search(#2)→知识星球(#3)

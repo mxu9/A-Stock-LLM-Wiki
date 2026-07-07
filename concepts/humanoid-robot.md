@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 人形机器人
 created: 2026-06-17
 updated: 2026-07-07

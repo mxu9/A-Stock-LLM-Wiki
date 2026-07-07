@@ -3,9 +3,13 @@ title: HVDC三股对比：锐明技术 vs 中熔电气 vs 明阳电气
 created: 2026-06-17
 updated: 2026-06-17
 type: comparison
-tags: [HVDC, 对比分析, 电力设备]
+tags:
+  - HVDC
+  - 对比分析
+  - 电力设备
 sources:
   - raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md
+dg-publish: true
 ---
 
 # 锐明技术 vs 中熔电气 vs 明阳电气 — HVDC 新势力三股全面对比

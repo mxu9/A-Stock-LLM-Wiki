@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 固态变压器
 created: 2026-06-17
 updated: 2026-07-07

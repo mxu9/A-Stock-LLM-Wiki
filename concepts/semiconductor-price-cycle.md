@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 半导体涨价周期
 created: 2026-06-25
 updated: 2026-07-03

@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 光通信测试设备
 created: 2026-06-17
 updated: 2026-06-17

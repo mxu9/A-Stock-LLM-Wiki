@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: "美国逆变器禁令事件"
 date: 2026-07-01
 type: event

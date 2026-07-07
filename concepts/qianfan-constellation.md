@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 千帆星座（G60星链）
 created: 2026-06-28
 updated: 2026-07-07

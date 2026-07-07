@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 激光光源
 slug: laser-light-source
 created: 2026-06-17

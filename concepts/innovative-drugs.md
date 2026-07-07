@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 创新药
 slug: innovative-drugs
 created: 2026-07-01

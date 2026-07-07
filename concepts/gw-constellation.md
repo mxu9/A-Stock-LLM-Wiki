@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: GW星座（中国星网）
 created: 2026-06-28
 updated: 2026-07-07

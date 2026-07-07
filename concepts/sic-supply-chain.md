@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 碳化硅(SiC)产业链
 created: 2026-06-22
 updated: 2026-07-07

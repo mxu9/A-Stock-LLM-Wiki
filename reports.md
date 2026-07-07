@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # 📁 Reports — 研究报告目录
 
 > 共 76 份报告 | auto-generated

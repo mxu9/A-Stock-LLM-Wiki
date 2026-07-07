@@ -1,4 +1,8 @@
 ---
+dg-publish: true
+---
+
+---
 title: 对日替代
 created: 2026-06-17
 updated: 2026-06-17
