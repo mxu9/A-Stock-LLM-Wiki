@@ -1,3 +1,7 @@
+---
+dg-home: true
+dg-publish: true
+---
 # Wiki Index — A股投研
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
