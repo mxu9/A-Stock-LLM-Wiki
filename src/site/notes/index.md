@@ -6,7 +6,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-04 | Total pages: 134 | 108 entities + 25 concepts + 1 comparisons
+> Last updated: 2026-07-08 | Total pages: 135 | 108 entities + 26 concepts + 1 comparisons
 
 ## Entities (个股) — 108 stocks
 
@@ -158,7 +158,7 @@
 | [[entities/000534\|000534]] 🆕 | 万泽股份 | 1 |
 | [[entities/002126\|002126]] 🆕 | 银轮股份 | 1 |
 
-## Concepts (行业/概念/产业链) — 25 topics
+## Concepts (行业/概念/产业链) — 26 topics
 
 - [[concepts/800v-hvdc\|800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
@@ -173,6 +173,7 @@
 - [[concepts/innovative-drugs\|innovative-drugs]] 🆕 — 创新药（BD出海大时代，2026Q1 614亿$，全球占70%，PS 4.9x估值底）
 - [[concepts/japan-substitution\|japan-substitution]] ~~对日替代~~ → 🆕 **已升级为五大方向全景**
 - [[concepts/laser-light-source\|laser-light-source]] 🆕 — 激光光源产业链
+- [[concepts/coal-chemical\|coal-chemical]] 🆕 — 煤化工（煤油比8.07历史低位，6000亿投资热潮，华鲁+宝丰双雄）
 - [[events\|events]] 🆕 — 事件追踪（重大政策/地缘/行业催化）
 - [[concepts/commercial-space\|commercial-space]] 🆕 — 商业航天（可回收火箭7月验证，成本降70-90%）
 - [[concepts/gw-constellation\|gw-constellation]] 🆕 — GW星座（中国星网1.3万颗，2026年底骨干网）
