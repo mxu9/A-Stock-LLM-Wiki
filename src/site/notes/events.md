@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/events/","title":"事件追踪","tags":["事件","政策","地缘","行业催化"],"dg-note-properties":{"title":"事件追踪","slug":"events","created":"2026-07-01","updated":"2026-07-07","type":"page","tags":["事件","政策","地缘","行业催化"]}}
 ---
 
-
 # 事件追踪
 
 > 📡 跟踪重大行业/政策/地缘事件，每事件链接 ZSXQ 原文存档 + 影响标的分析
