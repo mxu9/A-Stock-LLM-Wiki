@@ -1,19 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/laser-light-source/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/concepts/laser-light-source/","title":"激光光源","tags":["激光光源","产业链","电子","光纤激光","光通信","CPO"],"dg-note-properties":{"title":"激光光源","slug":"laser-light-source","created":"2026-06-17","updated":"2026-07-01","type":"concept","tags":["激光光源","产业链","电子","光纤激光","光通信","CPO"],"sources":["raw/reports/260616/HBM存储产业链_行业分析_260616.md",{"mx-search 2026-07-01":"激光光源全产业链更新"}]}}
 ---
 
-
----
-title: 激光光源
-slug: laser-light-source
-created: 2026-06-17
-updated: 2026-07-01
-type: concept
-tags: [激光光源, 产业链, 电子, 光纤激光, 光通信, CPO]
-sources:
-  - raw/reports/260616/HBM存储产业链_行业分析_260616.md
-  - mx-search 2026-07-01: 激光光源全产业链更新
----
 
 # 激光光源
 
@@ -106,3 +94,4 @@ sources:
 
 - [[entities/688048\|688048]] 长光华芯 | [[entities/688498\|688498]] 源杰科技 | [[entities/300620\|300620]] 光库科技
 - [[entities/300747\|300747]] 锐科激光 | [[entities/688025\|688025]] 杰普特 | [[entities/002008\|002008]] 大族激光 | [[entities/000988\|000988]] 华工科技
+
