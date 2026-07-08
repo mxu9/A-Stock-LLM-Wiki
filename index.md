@@ -1,4 +1,5 @@
 ---
+title: 索引
 dg-home: true
 dg-publish: true
 ---
