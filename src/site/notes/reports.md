@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reports/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/reports/","title":"研究报告目录","dg-note-properties":{"title":"研究报告目录"}}
 ---
 
 # 📁 Reports — 研究报告目录

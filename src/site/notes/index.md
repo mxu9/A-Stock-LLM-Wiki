@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/index/","title":"索引","tags":["gardenEntry"],"dg-note-properties":{"title":"索引"}}
 ---
 
 # Wiki Index — A股投研

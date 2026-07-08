@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zsxq_daily/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/zsxq_daily/","title":"知识星球每日摘要","dg-note-properties":{"title":"知识星球每日摘要"}}
 ---
 
 # 📋 知识星球每日摘要
