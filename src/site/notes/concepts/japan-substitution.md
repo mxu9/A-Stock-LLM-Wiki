@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/japan-substitution/","title":"对日替代","tags":["对日替代","产业链"],"dg-note-properties":{"title":"对日替代","created":"2026-06-17","updated":"2026-06-17","type":"concept","tags":["对日替代","产业链"],"sources":["raw/articles/对日替代五大方向-20260619.md","raw/reports/250618/对日替代_星球追踪_250618.md"]}}
+{"dg-publish":true,"permalink":"/concepts/japan-substitution/","dg-note-properties":{}}
 ---
 
+
+---
+title: 对日替代
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
+tags: [对日替代, 产业链]
+sources:
+  - raw/articles/对日替代五大方向-20260619.md
+  - raw/reports/250618/对日替代_星球追踪_250618.md
+---
 
 # 对日替代
 
@@ -63,4 +74,3 @@
 ## 相关报告
 - `raw/articles/对日替代五大方向-20260619.md` — 星球原文（2026-06-19）
 - `raw/reports/250618/对日替代_星球追踪_250618.md`
-

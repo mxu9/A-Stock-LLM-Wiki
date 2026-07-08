@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/electrolyte/","title":"电解液","tags":["电解液","六氟磷酸锂","LiFSI","VC","锂电材料","添加剂"],"dg-note-properties":{"title":"电解液","slug":"electrolyte","created":"2026-07-01","updated":"2026-07-01","type":"concept","tags":["电解液","六氟磷酸锂","LiFSI","VC","锂电材料","添加剂"],"sources":["reports/260701/电解液_行业分析_260701.md",{"mx-search 2026-07-01":"电解液全搜索"},{"zsxq 2026-07-01":"知识星球电解液主题"}]}}
+{"dg-publish":true,"permalink":"/concepts/electrolyte/","dg-note-properties":{}}
 ---
 
+
+---
+title: 电解液
+slug: electrolyte
+created: 2026-07-01
+updated: 2026-07-01
+type: concept
+tags: [电解液, 六氟磷酸锂, LiFSI, VC, 锂电材料, 添加剂]
+sources:
+  - reports/260701/电解液_行业分析_260701.md
+  - mx-search 2026-07-01: 电解液全搜索
+  - zsxq 2026-07-01: 知识星球电解液主题
+---
 
 # 电解液
 
@@ -65,4 +78,3 @@ LiFSI新型锂盐（快充/800V增量）────┘
 
 - [[reports/260701/电解液_行业分析_260701\|电解液 行业分析 260701]]
 - [[reports/260701/海科新源_全面分析_260701\|海科新源 全面分析 260701]]
-

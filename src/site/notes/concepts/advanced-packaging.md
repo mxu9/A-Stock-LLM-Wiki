@@ -1,7 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-07-03","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
+{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","dg-note-properties":{}}
 ---
 
+
+---
+title: 先进封装
+created: 2026-06-29
+updated: 2026-07-03
+sources_zsxq:
+  - reports/ZSXQ/知识星球_摘要_260704.md
+  - reports/ZSXQ/知识星球_摘要_260702.md
+  - reports/ZSXQ/知识星球_摘要_260701.md
+type: concept
+tags: [先进封装, 半导体, 产业链, 国产替代]
+sources:
+  - raw/reports/ZSXQ/知识星球_摘要_260629.md
+  - mx-search 2026-06-29: 4只标的主业验证+近三月事件+订单
+---
 
 # 先进封装
 
@@ -124,4 +139,3 @@
 | 台积电初代 CoPoS 不采用玻璃基板 | 台积电首代 CoPoS 可能跳过玻璃基板，内存短缺成AI最大瓶颈，美光毛利率大幅走高 |
 | SEMI 请求美国政府克制干预存储 | SEMI公开请求美国政府克制对存储半导体市场行政干预 |
 | 存储涨价持续 | 中报预告+AI硬件景气扩散，江波龙打出高度后市场寻找下一个扩散方向 |
-

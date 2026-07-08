@@ -1,8 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/hbm-supply-chain/","title":"HBM存储产业链","tags":["HBM","产业链","电子"],"dg-note-properties":{"title":"HBM存储产业链","created":"2026-06-17","updated":"2026-06-17","type":"concept","tags":["HBM","产业链","电子"],"sources":["raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260611/催化剂日历_20260611_20260710.md","raw/reports/260611/小米集团_估值分析_260611.md","raw/reports/260616/法拉电子_全面分析_260616.md","raw/reports/260616/精智达_全面分析_260616.md","raw/reports/260616/可立克_全面分析_260616.md","raw/reports/260616/东阳光_全面分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md"]}}
+{"dg-publish":true,"permalink":"/concepts/hbm-supply-chain/","dg-note-properties":{}}
 ---
 
 
+---
+title: HBM存储产业链
+created: 2026-06-17
+updated: 2026-06-17
+type: concept
+tags: [HBM, 产业链, 电子]
+sources:
+  - raw/reports/260616/HBM存储产业链_行业分析_260616.md
+  - raw/reports/260611/催化剂日历_20260611_20260710.md
+  - raw/reports/260611/小米集团_估值分析_260611.md
+  - raw/reports/260616/法拉电子_全面分析_260616.md
+  - raw/reports/260616/精智达_全面分析_260616.md
+  - raw/reports/260616/可立克_全面分析_260616.md
+  - raw/reports/260616/东阳光_全面分析_260616.md
+  - raw/reports/260616/800V HVDC_行业分析_260616.md
+  - raw/reports/ZSXQ/知识星球_摘要_250616.md
+---
 # HBM存储产业链
 
 > `SYSTEM_TIME: 2026-06-16` | 数据源: mx-search(研报/新闻) + sector_data.py(tushare财务)
@@ -161,4 +178,3 @@
 - `raw/reports/260616/东阳光_全面分析_260616.md`
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`
 - `raw/reports/ZSXQ/知识星球_摘要_250616.md`
-

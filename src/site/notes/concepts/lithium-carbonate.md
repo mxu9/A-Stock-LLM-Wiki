@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/lithium-carbonate/","title":"碳酸锂板块","tags":["碳酸锂","产业链"],"dg-note-properties":{"title":"碳酸锂板块","created":"2026-06-17","updated":"2026-07-01","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["碳酸锂","产业链"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260629.md"]}}
+{"dg-publish":true,"permalink":"/concepts/lithium-carbonate/","dg-note-properties":{}}
 ---
 
 
+---
+title: 碳酸锂板块
+created: 2026-06-17
+updated: 2026-07-01
+sources_zsxq:
+  - reports/ZSXQ/知识星球_摘要_260701.md
+type: concept
+tags: [碳酸锂, 产业链]
+sources:
+  - raw/reports/ZSXQ/知识星球_摘要_260629.md
+---
 # 碳酸锂板块
 
 >
@@ -32,4 +43,3 @@
 - `raw/reports/250618/AIDC液冷产业链_行业分析_250618.md`
 - `raw/reports/250618/对日替代_星球追踪_250618.md`
 - `raw/reports/260615/宏桥控股_全面分析_260615.md`
-
