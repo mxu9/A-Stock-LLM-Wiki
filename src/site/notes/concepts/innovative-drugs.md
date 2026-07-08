@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","created":"2026-07-01","updated":"2026-07-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"sources":["reports/260701/创新药_行业分析_260701.md",{"mx-search 2026-07-01":"创新药全搜索"},{"zsxq 2026-07-01":"知识星球近3月创新药主题搜索"}]}}
+{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","created":"2026-07-01","updated":"2026-07-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"sources":["reports/260701/创新药_行业分析_260701.md",{"mx-search 2026-07-01":"创新药全搜索"},{"zsxq 2026-07-01":"知识星球近3月创新药主题搜索"}]}}
 ---
 
 
@@ -131,6 +131,10 @@
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
 
+| 07-06 | mx-search/华鑫证券 | 2026H1中国License-out出海总金额达997亿美元（约2024全年2倍），全球TOP10中国占8席 |
+| 07-08 | mx-search/证券时报 | 中生制药COPD新药TQC3721以最高19亿美元授权阿斯利康 |
+| 07-08 | mx-search/医药魔方 | BD出海首付款总额约50亿美元（占2025全年七成），跨国药企批量采购 |
+| 07-07 | mx-search | 11款新药密集获批（含全球首个双抗ADC、首款实体瘤CAR-T）创新药估值修复 |
 | 2026-07-07 | zsxq | 医药制造：TIDES供需紧平衡，全球医药产业链重构，中国头部企业强化全球竞争优势（华创医药） |
 | 2026-07-07 | zsxq | 瑞博生物小核酸先驱，FXI siRNA进度居首，静待肝外递送平台突破（深度报告） || 2026-07-07 | mx-search | 多重共振驱动创新药估值修复：国家医保局54个药品通过商保创新药目录初审；Q1创新药BD交易总额614亿美元超2024全年 |
 | 2026-07-07 | mx-search | 国元国际研报：恒瑞+BMS 152亿美元、信达+辉瑞105亿美元、海思科+礼来30.5亿美元，三笔BD总额287亿美元创历史纪录；ASCO中国94项口头报告创新高 |

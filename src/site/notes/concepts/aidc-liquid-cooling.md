@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-08","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md"]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-09","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md"]}}
 ---
 
 
@@ -94,10 +94,14 @@
 | 2027 | 超节点架构→光模块液冷市场打开(53% CAGR) | 第二增长曲线 |
 | 2028+ | 浸没式液冷从概念验证→规模商用 | 技术路线升级 |
 
-## 📡 最新事件追踪 (更新于 2026-07-08)
+## 📡 最新事件追踪 (更新于 2026-07-09)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+
+| 07-08 | mx-search/中金公司 | 看好2026年液冷产业订单与逻辑兑现元年，光模块液冷趋势加速 |
+| 07-06 | mx-search/中信建投 | 策略周报：液冷服务器景气板块，Rubin平台TDP突破200kW，风冷逼近极限，液冷成必选 |
+| 07-06 | mx-search/英威腾 | 液冷微模块方案亮相2026金融行业数据中心发展论坛 |
 
 | 2026-07-07 | zsxq | 北美极端高温致PJM启动二级电力应急警报，AI缺电+液冷散热需求加速，关注艾可蓝（东财汽车/天风机械） || 2026-07-07 | zsxq | ☀️液冷板块更新：继续看好AIDC液冷方向 |
 | 2026-07-06 | zsxq | 🚀【液冷板块更新】谷歌供应链大调整，液冷温控受益 |

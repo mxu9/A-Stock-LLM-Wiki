@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/humanoid-robot/","title":"人形机器人","tags":["人形机器人","产业链"],"dg-note-properties":{"title":"人形机器人","created":"2026-06-17","updated":"2026-07-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["人形机器人","产业链"],"sources":["raw/reports/260616/人形机器人_行业分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260617/科达利_全面分析_260617.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md"]}}
+{"dg-publish":true,"permalink":"/concepts/humanoid-robot/","title":"人形机器人","tags":["人形机器人","产业链"],"dg-note-properties":{"title":"人形机器人","created":"2026-06-17","updated":"2026-07-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["人形机器人","产业链"],"sources":["raw/reports/260616/人形机器人_行业分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260617/科达利_全面分析_260617.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md"]}}
 ---
 
 
@@ -181,6 +181,10 @@
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
 
+| 07-07 | mx-search/工信部 | Q1人形机器人出口同比+210%，全年整机产量有望突破10万台 |
+| 07-08 | mx-search/央广网 | 人形机器人开启降价潮，宇树R1降至2.99万、松延小布米下探至万元以下 |
+| 07-06 | mx-search | 清华火神队搭载加速进化Booster T1卫冕RoboCup人形组冠军 |
+| 07-08 | mx-search/荣耀 | 荣耀机器人CTO主导研发"闪电"（半马冠军）和"元气仔"两款人形机器人 |
 | 2026-07-07 | zsxq | 福赛科技依托北美大客户切入机器人轻量化结构件，PEEK功能件已获十余个料号，预计Q3贡献收入Q4放量（方正汽车） || 2026-07-07 | mx-search | 高盛发布研报：全球人形机器人市场2035年将达140万台（2025年约2万台），广泛商业部署预计2027-2029年出现；"物理AI"概念受关注 |
 | 2026-07-07 | mx-search | 人形机器人加速进入工业产线：Q1我国人形机器人出口同比+210%；应用场景从娱乐向3C质检、物流分拣、汽车制造拓展 |
 | 2026-07-07 | mx-search | 华福证券：产业从"技术突破"切换至"需求兑现和量产交付"；立中集团签5年7500万元定点采购协议，隆盛科技签超10万套谐波减速器年度订单 |

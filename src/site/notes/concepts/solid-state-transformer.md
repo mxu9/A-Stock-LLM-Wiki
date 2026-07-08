@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-08","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":["raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"}]}}
+{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-09","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":["raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"}]}}
 ---
 
 
@@ -381,6 +381,9 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-06 | mx-search/国盛证券 | 秦淮数据投运行业首个SST智能直流供电商业化项目，10kV→800V一步转换，效率98.5% |
+| 07-08 | mx-search/科大智能 | 下线SST系列新品，单机1.25-2.5MW，搭载SiC器件，效率突破98.5% |
+| 07-08 | mx-search | 基本半导体以"中国碳化硅功率芯片第一股"登陆港交所，为SST产业化提供器件支撑 |
 | 2026-07-07 | mx-search | 英伟达锁定SST固态变压器为800V算力供电核心，碳化硅概念异动，露笑科技触及涨停；台达/维谛/ABB联合英伟达推出600kW级SST样机，Q3起批量交付 |
 | 2026-07-07 | mx-search | 北京中电普瑞发布第二代"瑞"系全场景固态变压器（SST）系列（瑞磐/瑞霆/瑞融/瑞枢），覆盖AI超算中心/超充站/新能源并网/智能电网四大场景 |
 | 2026-07-07 | mx-search | 行业判断：2026年为SST样机规模化验证关键窗口期，2027年全行业正式开启规模化商用 |

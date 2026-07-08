@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-08","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md"]}}
+{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-09","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md"]}}
 ---
 
 
@@ -74,10 +74,16 @@
 | 2026Q3-Q4 | 国内 8 英寸 SiC 衬底量产验证 | [[entities/688234\|天岳先进]]/[[entities/688469\|芯联集成]] |
 | 2026H2 | AI 服务器电源 DrMOS 订单释放 | 新洁能/[[entities/688469\|芯联集成]] |
 
-## 📡 最新事件追踪 (更新于 2026-07-08)
+## 📡 最新事件追踪 (更新于 2026-07-09)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+
+| 07-08 | mx-search/第三代半导体 | 第四代半导体重大进展！两项氮化铝功率器件指标刷新全球文献纪录 |
+| 07-08 | mx-search | 半导体设备材料"涨价+替代"双驱动，高压IGBT/SiC模块翻倍 |
+| 07-07 | mx-search/界面新闻 | CSPSD2026：芯联集成/英诺赛科/积塔/北方华创/扬杰获奖 |
+| 07-07 | mx-search/Omdia | 中国半导体市场2026年超8000亿美元(+92.9%)，存储暴涨262.9% |
+| 07-07 | mx-search/第一财经 | 费城半导体指数跌逾5%，AMD跌逾7% |
 
 | 2026-07-07 | zsxq | 国产算力链从强预期进入强现实，H1算力链业绩兑现，AI芯片国产崛起趋势持续向好（国联民生电子/DCJSJ） || 2026-07-06 | mx-search | 上市公司互动：代理功率半导体品类齐全（功率IC/MOS/IGBT/SiC/GaN），覆盖消费电子/工业/储能/汽车/算力 |
 | 2026-07-06 | mx-search | 民德电子定增募集说明书：2025年全球功率半导体市场755亿美元（中国291亿占39%），AI算力中心/新能源汽车驱动增长 |

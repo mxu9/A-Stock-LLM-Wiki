@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/pig-cycle/","title":"猪周期","tags":["农业","猪周期","消费"],"dg-note-properties":{"title":"猪周期","created":"2026-06-21","updated":"2026-07-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["农业","猪周期","消费"],"sources":["raw/papers/猪周期上行时点_20260505_ocr.txt","mx-search 2026-07-01"]}}
+{"dg-publish":true,"permalink":"/concepts/pig-cycle/","title":"猪周期","tags":["农业","猪周期","消费"],"dg-note-properties":{"title":"猪周期","created":"2026-06-21","updated":"2026-07-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["农业","猪周期","消费"],"sources":["raw/papers/猪周期上行时点_20260505_ocr.txt","mx-search 2026-07-01"]}}
 ---
 
 
@@ -153,6 +153,9 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-08 | mx-search/农业农村部 | 7月第1周全国生猪均价10.48元/kg（环比+4.2%，同比-29.9%），猪粮比仍处深度亏损 |
+| 07-06 | ZSXQ/广发农业 | 周末全国猪价站上关键位，猪周期底部信号明确 |
+| 07-07 | mx-search | 猪周期位于产能出清关键阶段，养殖ETF本月涨9.84%，PB处近5年2.35%分位 |
 | 2026-07-08 | mx-search | 猪周期见底讨论：全国能繁母猪正常保有量下调至3750万头；规模化养殖占比升至70%+，猪周期波动收窄、周期变长 |
 | 2026-07-07 | mx-search | 猪价重回10元/公斤关口，创近4个月新高（7月6日11.06元/kg），近10日连涨16.8%；业内认为属阶段性修复，非全面反转 |
 | 2026-07-07 | mx-search | 长江证券深度研报：行业亏损严重（自繁自养亏损280天），现金压力已现；预计猪周期拐点推迟至Q4，2027年猪价有望回升至15元/kg+ |

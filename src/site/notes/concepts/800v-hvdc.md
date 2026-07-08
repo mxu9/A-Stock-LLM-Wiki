@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-08","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md"]}}
+{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-09","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md"]}}
 ---
 
 
@@ -357,10 +357,15 @@
 - 评估厂商核心看两点：**电力设备底蕴** + **高压侧产品能力**
 - 进入北美需 UL认证 + CSA认证 + 客户订单获取
 
-## 📡 最新事件追踪 (更新于 2026-07-08)
+## 📡 最新事件追踪 (更新于 2026-07-09)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+
+| 07-08 | mx-search | 800V HVDC陷入量产延期争议：SemiAnalysis称推迟至2028年，大摩称Q3量产条件就绪 |
+| 07-07 | mx-search/国泰海通 | 研报：AIDC功率提升→固态断路器刚需，800V HVDC推升直流保护要求 |
+| 07-07 | mx-search/长城/国海 | 800V高压直流视为AI数据中心下一代解决方案，Q3量产条件具备 |
+| 07-06 | mx-search/国盛证券 | 国内首个SST商业化项目落地（秦淮数据10kV→800V一步转换，效率98.5%） |
 
 | 2026-07-07 | zsxq | 沧州明珠隔膜涨价周期低位弹性标的，国资入主+产能扩张；头部隔膜厂控制低价客户供应比例（天风电新） || 2026-07-07 | mx-search | 1000亿美元项目黄了但算力故事刚开始：供电架构革命从"铜线圈"到"碳化硅"，800V HVDC缩短供电路径 |
 | 2026-07-06 | mx-search | 英伟达核心能源生态伙伴称"800V正常推进中"：摩根士丹利反驳SemiAnalysis延期论，台达Q4小批量交付；SST依托SiC实现中压到800V一步转换 |
