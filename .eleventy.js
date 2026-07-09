@@ -529,6 +529,7 @@ module.exports = function (eleventyConfig) {
         minifyCSS: true,
         minifyJS: true,
         keepClosingSlash: true,
+		continueOnParseError: true,
       });
     }
     return content;
