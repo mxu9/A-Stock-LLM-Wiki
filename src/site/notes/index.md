@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-08 | Total pages: 176 | 147 entities + 28 concepts + 1 comparisons
+> Last updated: 2026-07-08 | Total pages: 177 | 148 entities + 28 concepts + 1 comparisons
 
-## Entities (个股) — 147 stocks
+## Entities (个股) — 148 stocks
 
 ### 军工/商业航天
 | 代码            | 名称   | 报告数              |
@@ -49,6 +49,8 @@
 | [[entities/688551\|688551]] | 科威尔 | 1 |
 | [[entities/688663\|688663]] 🆕 | 新风光 | — |
 | [[entities/688676\|688676]] 🆕 | 金盘科技 | — |
+
+| [[entities/300274\|300274]] 🆕 | 阳光电源 | 1 |
 
 ### 电子
 | 代码 | 名称 | 报告数 |
