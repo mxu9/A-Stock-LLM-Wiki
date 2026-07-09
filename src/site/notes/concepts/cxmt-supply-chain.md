@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/concepts/cxmt-supply-chain/","title":"长鑫存储产业链","tags":["产业链","半导体","DRAM","国产替代","存储"],"dg-note-properties":{"title":"长鑫存储产业链","created":"2026-07-10","updated":"2026-07-10","type":"concept","tags":["产业链","半导体","DRAM","国产替代","存储"],"sources":["reports/260710/长鑫存储产业链_行业分析_260710.md",{"mx-search":"长鑫存储 CXMT DRAM 产业链 供应商"},{"每日经济新闻":"解码DRAM龙头长鑫科技的A股朋友圈 (2026-05)"},"国联民生/东吴/西部/招商 券商研报 (2026-07)"]}}
 ---
 
-
 # 长鑫存储产业链
 
 > 🚀 7/16 IPO申购(295亿) | H1预盈500-570亿(+2244%) | 全球DRAM市占率8%→17%(2028E) | 43家A股产业链标的
