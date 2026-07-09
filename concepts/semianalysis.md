@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-10
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -98,6 +98,13 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 | 英大期货 | 2026/7/8 | 引用 SemiAnalysis Kyber + 800V HVDC 争议 |
 
 ---
+
+## 📡 最新事件追踪 (更新于 2026-07-10)
+
+| 日期 | 来源 | 事件摘要 |
+|------|------|----------|
+| 07-09 | mx-新闻 | 800V HVDC路线争议：SemiAnalysis称推迟至2028，大摩反驳进展正常 |
+| 07-08 | mx-新闻 | GaN进入AI电源验证期；科士达HVDC新品推进中 |
 
 ## ⚠️ 注意事项
 

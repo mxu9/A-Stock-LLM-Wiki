@@ -1,7 +1,7 @@
 ---
 title: 人形机器人
 created: 2026-06-17
-updated: 2026-07-09
+updated: 2026-07-10
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260704.md
   - reports/ZSXQ/知识星球_摘要_260702.md
