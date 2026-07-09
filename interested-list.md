@@ -12,6 +12,7 @@
 - [[humanoid-robot]]
 - [[pig-cycle]]
 - [[innovative-drugs]]
+- [[semianalysis]]
 ## entities (标的)
 - [[002782|可立克]]
 - [[002706|良信股份]]
