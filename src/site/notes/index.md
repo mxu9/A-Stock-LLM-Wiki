@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-08 | Total pages: 136 | 108 entities + 27 concepts + 1 comparisons
+> Last updated: 2026-07-08 | Total pages: 176 | 147 entities + 28 concepts + 1 comparisons
 
-## Entities (个股) — 108 stocks
+## Entities (个股) — 147 stocks
 
 ### 军工/商业航天
 | 代码            | 名称   | 报告数              |
@@ -158,7 +158,51 @@
 | [[entities/000534\|000534]] 🆕 | 万泽股份 | 1 |
 | [[entities/002126\|002126]] 🆕 | 银轮股份 | 1 |
 
-## Concepts (行业/概念/产业链) — 27 topics
+
+### 半导体/长鑫产业链
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[entities/002371\|002371]] 🆕 | 北方华创 | — |
+| [[entities/688012\|688012]] 🆕 | 中微公司 | — |
+| [[entities/688072\|688072]] 🆕 | 拓荆科技 | — |
+| [[entities/688082\|688082]] 🆕 | 盛美上海 | — |
+| [[entities/688120\|688120]] 🆕 | 华海清科 | — |
+| [[entities/688037\|688037]] 🆕 | 芯源微 | — |
+| [[entities/300604\|300604]] 🆕 | 长川科技 | — |
+| [[entities/300567\|300567]] 🆕 | 精测电子 | — |
+| [[entities/688361\|688361]] 🆕 | 中科飞测 | — |
+| [[entities/688409\|688409]] 🆕 | 富创精密 | — |
+| [[entities/300666\|300666]] 🆕 | 江丰电子 | — |
+| [[entities/301611\|301611]] 🆕 | 珂玛科技 | — |
+| [[entities/300260\|300260]] 🆕 | 新莱应材 | — |
+| [[entities/688596\|688596]] 🆕 | 正帆科技 | — |
+| [[entities/688233\|688233]] 🆕 | 神工股份 | — |
+| [[entities/688019\|688019]] 🆕 | 安集科技 | — |
+| [[entities/300054\|300054]] 🆕 | 鼎龙股份 | — |
+| [[entities/002409\|002409]] 🆕 | 雅克科技 | — |
+| [[entities/603078\|603078]] 🆕 | 江化微 | — |
+| [[entities/300655\|300655]] 🆕 | 晶瑞电材 | — |
+| [[entities/300346\|300346]] 🆕 | 南大光电 | — |
+| [[entities/300576\|300576]] 🆕 | 容大感光 | — |
+| [[entities/688126\|688126]] 🆕 | 沪硅产业 | — |
+| [[entities/605358\|605358]] 🆕 | 立昂微 | — |
+| [[entities/002129\|002129]] 🆕 | TCL中环 | — |
+| [[entities/688268\|688268]] 🆕 | 华特气体 | — |
+| [[entities/688106\|688106]] 🆕 | 金宏气体 | — |
+| [[entities/688548\|688548]] 🆕 | 广钢气体 | — |
+| [[entities/600206\|600206]] 🆕 | 有研新材 | — |
+| [[entities/300706\|300706]] 🆕 | 阿石创 | — |
+| [[entities/000021\|000021]] 🆕 | 深科技 | — |
+| [[entities/002156\|002156]] 🆕 | 通富微电 | — |
+| [[entities/002185\|002185]] 🆕 | 华天科技 | — |
+| [[entities/301308\|301308]] 🆕 | 江波龙 | — |
+| [[entities/688525\|688525]] 🆕 | 佰维存储 | — |
+| [[entities/001309\|001309]] 🆕 | 德明利 | — |
+| [[entities/300042\|300042]] 🆕 | 朗科科技 | — |
+| [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
+| [[entities/300975\|300975]] 🆕 | 商络电子 | — |
+
+## Concepts (行业/概念/产业链) — 28 topics
 
 - [[concepts/800v-hvdc\|800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
@@ -184,7 +228,8 @@
 - [[concepts/mlcc-capacitor\|mlcc-capacitor]] 🆕 — MLCC/被动元件产业链（涨价+AI需求缺口）
 - [[concepts/advanced-packaging\|advanced-packaging]] 🆕 — 先进封装（甬矽103亿+长电78亿集体扩产，280亿+资本开支）
 - [[concepts/power-semiconductor\|power-semiconductor]] 🆕 — 功率半导体（MOSFET/IGBT/SiC，国产替代加速，8英寸产能紧缺）
-- [[concepts/semianalysis\|semianalysis]] 🆕 — SemiAnalysis 研究机构（海外AI/半导体分析，800VDC延期+Kyber风波，直接影响A股板块）
+- [[concepts/semianalysis\|semianalysis]] 🆕 — SemiAnalysis 研究机构（海外AI/半导体分析，800VDC延期+Kyber风波）
+- [[concepts/cxmt-supply-chain\|cxmt-supply-chain]] 🆕 — 长鑫存储产业链（7/16 IPO申购295亿，43家A股标的，设备→材料→封测全链）
 
 ## Comparisons
 - [[comparisons/hvdc-three-stocks\|hvdc-three-stocks]] — HVDC三股对比
