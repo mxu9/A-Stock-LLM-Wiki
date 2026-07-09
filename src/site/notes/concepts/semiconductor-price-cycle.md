@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-07-03","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md"]}}
+{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-07-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md"]}}
 ---
 
 
@@ -106,4 +106,14 @@ IC设计（联发科SoC/PMIC涨价10-15%）
 | **中报预告+AI硬件景气扩散** | 江波龙打出高度后，市场寻找AI硬件扩散方向——AI缺的不只是GPU而是整套硬件系统 |
 | **存储涨价趋势延续** | 美光毛利率大幅走高，DRAM/NAND供应持续偏紧 |
 | **华强北MLCC继续涨价** | 村田热门料号下午档口统一上调，AI专用高容MLCC需求强劲 |
+
+## 🆕 7/9 最新动态
+
+| 事件 | 影响 |
+|------|------|
+| **CCL涨价加速** | 天风电子重申CCL投资机会，进入7月多家CCL公司发布涨价函，下游接受度很高 |
+| **大族系中报超预期** | 大族数控H1净利9-10亿（+241%），Q2净利率超22%；大族激光H1净利12.5-13.5亿（+156-177%） |
+| **广钢气体Q2继续强劲** | Q2归母1.3-1.9亿（+110-208%），SKU持续拓展，海外市场突破可期 |
+| **浪潮信息H1超预期** | H1净利26-31亿（+226-288%），算力需求持续景气 |
+| **SK海力士ADR溢价** | 美国ADR价格较韩国溢价3.1%，存储需求信心强劲 |
 

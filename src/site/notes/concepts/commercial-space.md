@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/commercial-space/","title":"商业航天","tags":["商业航天","军工","产业链","国产替代","AI"],"dg-note-properties":{"title":"商业航天","created":"2026-06-28","updated":"2026-07-10","type":"concept","tags":["商业航天","军工","产业链","国产替代","AI"],"sources":[{"mx-search 2026-06-28":"长征十号乙火箭 商业航天"},{"知识星球":"中信建投/中泰机械/国泰海通 商业航天研报"},"raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260627.md","raw/reports/ZSXQ/知识星球_摘要_260629.md"]}}
+{"dg-publish":true,"permalink":"/concepts/commercial-space/","title":"商业航天","tags":["商业航天","军工","产业链","国产替代","AI"],"dg-note-properties":{"title":"商业航天","created":"2026-06-28","updated":"2026-07-10","type":"concept","tags":["商业航天","军工","产业链","国产替代","AI"],"sources":[{"mx-search 2026-06-28":"长征十号乙火箭 商业航天"},{"知识星球":"中信建投/中泰机械/国泰海通 商业航天研报"},"raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260627.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","raw/reports/ZSXQ/知识星球_摘要_260709.md"]}}
 ---
 
 
@@ -114,7 +114,7 @@
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
 | 07-10 | mx-新闻 | 🔥长征十号乙发射窗口7/10-13，全球首创海上网系回收技术；2026H1中国44次发射创历史新高 |
-| 07-09 | mx-新闻 | 长征十号乙首飞在即，海南商业发射场保障升级 |
+| 07-09 | 知识星球 | 🔥长征十号乙发射在即，铂力特+20%/信科移动+14%/国博电子+10%，浙商大制造产业跟踪 |
 
 ## 关联概念
 - [[concepts/gw-constellation\|gw-constellation]] — GW星座（~136颗在轨，2026骨干网建成，12,992颗规划）
