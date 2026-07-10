@@ -7,9 +7,29 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-11 | Total pages: 178 | 149 entities + 28 concepts + 1 comparisons
+> Last updated: 2026-07-11 | Total pages: 190 | 160 entities + 29 concepts + 1 comparisons
 
-## Entities (个股) — 149 stocks
+## Entities (个股) — 160 stocks
+
+### 氦气/电子特气
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[000811]] 🆕 | 冰轮环境 | — |
+| [[002430]] 🆕 | 杭氧股份 | — |
+| [[002549]] 🆕 | 凯美特气 | — |
+| [[002639]] 🆕 | 雪人股份 | — |
+| [[002971]] 🆕 | 和远气体 | — |
+| [[300435]] 🆕 | 中泰股份 | — |
+| [[300540]] 🆕 | 蜀道装备 | — |
+| [[301286]] 🆕 | 侨源股份 | — |
+| [[600378]] 🆕 | 昊华科技 | — |
+| [[600759]] 🆕 | ST洲际 | 1 |
+| [[603318]] 🆕 | 水发燃气 | — |
+| [[605090]] 🆕 | 九丰能源 | — |
+| [[688106]] | 金宏气体 | — |
+| [[688268]] | 华特气体 | — |
+| [[688548]] | 广钢气体 | — |
+| [[688596]] | 正帆科技 | — |
 
 ### 军工/商业航天
 | 代码            | 名称   | 报告数              |
@@ -206,8 +226,9 @@ dg-publish: true
 | [[603986]] 🆕 | 兆易创新 | — |
 | [[300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 28 topics
+## Concepts (行业/概念/产业链) — 29 topics
 
+- [[helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
 - [[800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[solid-state-transformer]] — 固态变压器(SST)
