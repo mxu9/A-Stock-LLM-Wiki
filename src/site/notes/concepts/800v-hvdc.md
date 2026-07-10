@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-10","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md"]}}
+{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-11","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md"]}}
 ---
 
 
@@ -357,15 +357,18 @@
 - 评估厂商核心看两点：**电力设备底蕴** + **高压侧产品能力**
 - 进入北美需 UL认证 + CSA认证 + 客户订单获取
 
-## 📡 最新事件追踪 (更新于 2026-07-10)
+## 📡 最新事件追踪 (更新于 2026-07-11)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
-| 07-09 | 摩根士丹利 | 反驳SemiAnalysis 800V延期质疑，台达Q3量产条件具备、Q4向北美云厂商小批量交付 |
-| 07-08 | mx-研报 | 英伟达800V HVDC如期推进中，台达GB300量产条件具备 |
-| 07-07 | mx-新闻 | MPS发布1700V SiC反激控制器HF1070，专为800V HVDC AI服务器辅助电源设计 |
-| 07-08 | mx-新闻 | 合众汇能发布CBU-800V/600KW超级电容模组，适配600kW级AI机柜 |
-| 07-09 | ZSXQ | OCP开放计算中国峰会召开，讨论数据中心供电架构 |
+| 07-11 | 第一财经/数据宝 | 字节跳动在OCP峰会发布AI Rack 3.0，首次搭载800V HVDC+全液冷，单柜500kW |
+| 07-10 | 南方财经网 | 阳光电源发布SST固态变压器EnerNeo，开辟AI电源新战场 |
+| 07-10 | 野村东方国际 | 研报《AI电力：直流电的复兴时刻》看好800V HVDC三条主线 |
+| 07-10 | 国泰海通 | 绿色治理研报：HVDC预计2026年推出、SST有望2029年商业化 |
+| 07-10 | 索比光伏网 | 合众汇能发布CBU-800V/600KW超级电容模组，专为AI服务器HVDC打造 |
+| 07-10 | 电子发烧友 | SST定位800V直流母线终局前端，与SSCB、800V电源构成三大支柱 |
+| 07-09 | 野村东方国际 | 研报看好AI电源投资机遇，字节Rack3.0带动HVDC国内订单释放预期 |
+| 07-09 | ZSXQ | OCP开放计算中国峰会讨论800V HVDC进展 |
 
 ## 相关报告
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`

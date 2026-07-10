@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","created":"2026-07-01","updated":"2026-07-10","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"sources":["reports/260701/创新药_行业分析_260701.md",{"mx-search 2026-07-01":"创新药全搜索"},{"zsxq 2026-07-01":"知识星球近3月创新药主题搜索"}]}}
+{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","created":"2026-07-01","updated":"2026-07-11","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"sources":["reports/260701/创新药_行业分析_260701.md",{"mx-search 2026-07-01":"创新药全搜索"},{"zsxq 2026-07-01":"知识星球近3月创新药主题搜索"}]}}
 ---
 
 
@@ -126,12 +126,14 @@
 | 2026H2 | 丙类目录试点落地 |
 | 2026全年 | BD交易有望突破1500亿$ |
 
-## 📡 最新事件追踪 (更新于 2026-07-10)
+## 📡 最新事件追踪
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
-| 07-09 | mx-新闻 | 🔥H1 BD出海总额997亿美元≈2024全年2倍；全球交易TOP10中国占8席 |
-| 07-09 | mx-公告 | 中国生物制药→AZ首付2亿美元+19亿里程碑 |
+| 07-09 | 政策 | 🔥 国家卫健委发布2026版基药目录（9月1日实施），首次纳入4款国产1类创新药 |
+| 07-10 | 利好分析 | 基药目录首纳16款创新药，荣昌生物泰它西普、康诺亚司普奇拜单抗等龙头显著受益 |
+| 07-10 | 长江证券 | 中国创新药研发投入景气度前瞻指标趋势向好 |
+| 07-10 | 中泰国际 | 基药目录大力支持创新药，目录药品占公立医疗机构用量71% |
 
 ## 关联概念
 - [[concepts/japan-substitution\|japan-substitution]] — 对日替代（医药CXO/器械方向）

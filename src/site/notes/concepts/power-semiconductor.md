@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-10","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md"]}}
+{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-11","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md"]}}
 ---
 
 
@@ -74,12 +74,15 @@
 | 2026Q3-Q4 | 国内 8 英寸 SiC 衬底量产验证 | [[entities/688234\|天岳先进]]/[[entities/688469\|芯联集成]] |
 | 2026H2 | AI 服务器电源 DrMOS 订单释放 | 新洁能/[[entities/688469\|芯联集成]] |
 
-## 📡 最新事件追踪 (更新于 2026-07-10)
+## 📡 最新事件追踪 (更新于 2026-07-11)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
-| 07-09 | mx-新闻 | 功率半导体第二轮涨价潮：英飞凌7/1起提价10-20%；扬杰/士兰微/新洁能/捷捷微电跟进 |
-| 07-09 | mx-公告 | 芯导科技MOSFET在手订单环比增长201.41%，2026H1销量收入双增 |
+| 07-10 | 晶盛机电 | 年产60万片8英寸SiC衬底项目加速投产，12英寸技术突破，马来西亚工厂2026年底通线 |
+| 07-10 | 台基股份 | SiC碳化硅产线进入试产阶段，聚焦1200V/1700V SiC MOSFET |
+| 07-09 | 财联社 | 晶盛机电获工银瑞信等4家机构调研 |
+| 07-09 | ROHM | 推出TSC3PAK顶面散热封装SiC MOSFET |
+| 07-09 | 台基股份 | 大功率脉冲功率器件应用于国家重大科技项目 |
 
 ## 关联概念
 - [[concepts/sic-supply-chain\|sic-supply-chain]] — 碳化硅(SiC)产业链
