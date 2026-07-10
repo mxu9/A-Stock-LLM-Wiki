@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-08 | Total pages: 177 | 148 entities + 28 concepts + 1 comparisons
+> Last updated: 2026-07-11 | Total pages: 178 | 149 entities + 28 concepts + 1 comparisons
 
-## Entities (个股) — 148 stocks
+## Entities (个股) — 149 stocks
 
 ### 军工/商业航天
 | 代码            | 名称   | 报告数              |
@@ -143,8 +143,9 @@ dg-publish: true
 |------|------|------|--------|
 | [[301580]] | 爱迪特 🆕 | 医药 | — |
 | [[600036]] | 招商银行 | 银行 | 1 |
-| [[600901]] | 江苏金租 | 金融 | 2 |
-| [[002749]] | 国光股份 | 农业 | 1 |
+|| [[600759]] 🆕 | ST洲际 | 油气 | 1 |
+|| [[600901]] | 江苏金租 | 金融 | 2 |
+|| [[002749]] | 国光股份 | 农业 | 1 |
 
 ### 农林牧渔/畜禽养殖
 | 代码 | 名称 | 报告数 |
