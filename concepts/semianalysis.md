@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-10
+updated: 2026-07-11
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -99,12 +99,15 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 ---
 
-## 📡 最新事件追踪 (更新于 2026-07-10)
+## 📡 最新事件追踪
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
-| 07-09 | mx-新闻 | 800V HVDC路线争议：SemiAnalysis称推迟至2028，大摩反驳进展正常 |
-| 07-08 | mx-新闻 | GaN进入AI电源验证期；科士达HVDC新品推进中 |
+| 07-10 | 报告解读 | 🔥 SemiAnalysis：Meta或取代Google加冕AI"第三极"，6个月内超越Google |
+| 07-10 | 报告解读 | Meta计划2026年AI基础设施投入1450亿美元，部署7GW算力 |
+| 07-10 | 访谈 | SemiAnalysis创始人：存储还能涨2-3倍；Anthropic Q2 FCF转正，ARR突破500亿美元 |
+| 07-10 | 深度报告 | "AI央行"英伟达：至2029年全球AI债务融资或破7万亿美元 |
+| 07-10 | ZSXQ | JPM交易台Meta分析引用SemiAnalysis观点 / SemiAnalysis最新报告讨论 |
 
 ## ⚠️ 注意事项
 
