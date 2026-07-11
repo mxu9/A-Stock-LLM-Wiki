@@ -6,9 +6,29 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-08 | Total pages: 177 | 148 entities + 28 concepts + 1 comparisons
+> Last updated: 2026-07-11 | Total pages: 190 | 160 entities + 29 concepts + 1 comparisons
 
-## Entities (个股) — 148 stocks
+## Entities (个股) — 160 stocks
+
+### 氦气/电子特气
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[entities/000811\|000811]] 🆕 | 冰轮环境 | — |
+| [[entities/002430\|002430]] 🆕 | 杭氧股份 | — |
+| [[entities/002549\|002549]] 🆕 | 凯美特气 | — |
+| [[entities/002639\|002639]] 🆕 | 雪人股份 | — |
+| [[entities/002971\|002971]] 🆕 | 和远气体 | — |
+| [[entities/300435\|300435]] 🆕 | 中泰股份 | — |
+| [[entities/300540\|300540]] 🆕 | 蜀道装备 | — |
+| [[entities/301286\|301286]] 🆕 | 侨源股份 | — |
+| [[entities/600378\|600378]] 🆕 | 昊华科技 | — |
+| [[entities/600759\|600759]] 🆕 | ST洲际 | 1 |
+| [[entities/603318\|603318]] 🆕 | 水发燃气 | — |
+| [[entities/605090\|605090]] 🆕 | 九丰能源 | — |
+| [[entities/688106\|688106]] | 金宏气体 | — |
+| [[entities/688268\|688268]] | 华特气体 | — |
+| [[entities/688548\|688548]] | 广钢气体 | — |
+| [[entities/688596\|688596]] | 正帆科技 | — |
 
 ### 军工/商业航天
 | 代码            | 名称   | 报告数              |
@@ -142,8 +162,9 @@
 |------|------|------|--------|
 | [[entities/301580\|301580]] | 爱迪特 🆕 | 医药 | — |
 | [[entities/600036\|600036]] | 招商银行 | 银行 | 1 |
-| [[entities/600901\|600901]] | 江苏金租 | 金融 | 2 |
-| [[entities/002749\|002749]] | 国光股份 | 农业 | 1 |
+|| [[entities/600759\|600759]] 🆕 | ST洲际 | 油气 | 1 |
+|| [[entities/600901\|600901]] | 江苏金租 | 金融 | 2 |
+|| [[entities/002749\|002749]] | 国光股份 | 农业 | 1 |
 
 ### 农林牧渔/畜禽养殖
 | 代码 | 名称 | 报告数 |
@@ -204,8 +225,9 @@
 | [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 28 topics
+## Concepts (行业/概念/产业链) — 29 topics
 
+- [[concepts/helium\|helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
 - [[concepts/800v-hvdc\|800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[concepts/solid-state-transformer\|solid-state-transformer]] — 固态变压器(SST)

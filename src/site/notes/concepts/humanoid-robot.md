@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/humanoid-robot/","title":"人形机器人","tags":["人形机器人","产业链"],"dg-note-properties":{"title":"人形机器人","created":"2026-06-17","updated":"2026-07-11","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["人形机器人","产业链"],"sources":["raw/reports/260616/人形机器人_行业分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260617/科达利_全面分析_260617.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md"]}}
+{"dg-publish":true,"permalink":"/concepts/humanoid-robot/","title":"人形机器人","tags":["人形机器人","产业链"],"dg-note-properties":{"title":"人形机器人","created":"2026-06-17","updated":"2026-07-11","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md",{"raw/reports/ZSXQ/知识星球_摘要_260710.mdtype":"concept"}],"tags":["人形机器人","产业链"],"sources":["raw/reports/260616/人形机器人_行业分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260617/科达利_全面分析_260617.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md"]}}
 ---
 
 
@@ -180,6 +180,8 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-10 | ZSXQ | Optimus V3初步定型量产在即，特斯拉近期下发零部件采购指引（浙商机械） |
+| 07-10 | ZSXQ | T链已实际下单：恒立液压、北特科技等已拿到订单，非炒预期而是真实量产开始（ZSXQ星球推送） |
 | 07-10 | 政策 | 🔥 工信部：今年人形机器人整机产量有望突破10万台（WAIC 2026） |
 | 07-10 | 华鑫证券 | 宇树人形机器人2025年出货超5500台居全球首位，行业地位类比"比亚迪" |
 | 07-10 | 国泰海通 | WAIC 2026前瞻：具身智能与人形机器人从单点突破走向系统化 |
