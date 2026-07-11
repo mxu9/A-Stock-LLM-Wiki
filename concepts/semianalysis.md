@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-11
+updated: 2026-07-12
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -103,6 +103,12 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-10 | zsxq | 📝 SemiAnalysis报告：Meta同时建设5座GW级AI集群，自研AI-Backbone支持跨数千公里异步训练 |
+| 07-10 | zsxq | 📋 JPM交易台：Meta算力扩张超预期，年底前AI总算力超越OpenAI和Anthropic |
+| 07-10 | mx-search | 🔌 算力功率半导体：HVDC+UPS贡献60%增量，SST+散热40%，2030年全球AI算力SiC超400亿 |
+| 07-10 | mx-search | ⚡ 2026 HVDC元年：AI数据中心SiC市场突破85亿元，800V高压直流成标配，SemiAnalysis预测IT电力需求49→96GW |
+| 07-10 | mx-search | 📈 Meta Muse Spark 1.1部分超越Gemini；Anthropic Q3 GAAP EBIT预计超10亿美元 |
+| 07-10 | mx-search | 🔥 SemiAnalysis：Meta AI有望半年超越谷歌，2026年部署7GW算力，2027年14GW，5座吉瓦级超算集群在建 |
 | 07-10 | 报告解读 | 🔥 SemiAnalysis：Meta或取代Google加冕AI"第三极"，6个月内超越Google |
 | 07-10 | 报告解读 | Meta计划2026年AI基础设施投入1450亿美元，部署7GW算力 |
 | 07-10 | 访谈 | SemiAnalysis创始人：存储还能涨2-3倍；Anthropic Q2 FCF转正，ARR突破500亿美元 |

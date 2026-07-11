@@ -2,12 +2,14 @@
 title: AIDC 产业链
 slug: aidc-supply-chain
 created: 2026-07-01
-updated: 2026-07-11
+updated: 2026-07-12
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260702.md
   - reports/ZSXQ/知识星球_摘要_260701.md
 
-  - raw/reports/ZSXQ/知识星球_摘要_260710.mdtype: concept
+  - raw/reports/ZSXQ/知识星球_摘要_260710.md
+dg-publish: true
+type: concept
 tags: [AIDC, AI数据中心, 800V, HVDC, SST, 固态变压器, 液冷, 供电架构]
 sources:
   - reports/260701/AIDC产业链_行业分析_260701.md
@@ -137,6 +139,7 @@ AIDC（AI 数据中心）是当前 AI 算力基础设施投资最大的环节，
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-11 | mx-search/烽火通信 | AI智算中心驱动多模及特种光纤需求，400G/800G光模块+CPO技术落地，2030年全球光模块市场达560亿美元 |
 | 07-10 | ZSXQ | 东阳光/NEBIUS斩获第三个130-150亿算租大单，累计订单390-460亿元（国金计算机） |
 | 07-11 | 证券日报 | 外资看多中国AI产业链三重逻辑：算力基建全球领先、全链条国产优势、应用场景丰富 |
 | 07-10 | 证券日报 | 双登股份AIDC储能新增订单同比+80%，锂电订单超6亿元，新建2.8GWh产线8月投产 |

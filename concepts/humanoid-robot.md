@@ -1,13 +1,15 @@
 ---
 title: 人形机器人
 created: 2026-06-17
-updated: 2026-07-11
+updated: 2026-07-12
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260704.md
   - reports/ZSXQ/知识星球_摘要_260702.md
   - reports/ZSXQ/知识星球_摘要_260701.md
 
-  - raw/reports/ZSXQ/知识星球_摘要_260710.mdtype: concept
+  - raw/reports/ZSXQ/知识星球_摘要_260710.md
+dg-publish: true
+type: concept
 tags: [人形机器人, 产业链]
 sources:
   - raw/reports/260616/人形机器人_行业分析_260616.md
@@ -199,6 +201,9 @@ dg-publish: true
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-11 | mx-search/国联民生 | 📊 特斯拉Optimus Gen2在德州工厂执行真实生产任务；Model S/X产线改造为Optimus产线，设计年产100万台 |
+| 07-10 | mx-search/知行元界 | 📘 具身智能产业蓝皮书发布：2026年为小批量商用元年，全球市场1500-2000亿元 |
+| 07-10 | mx-search/华鑫证券 | 🤖 小鹏Iron人形机器人2026年底量产，导览/导购/导巡场景，广州11万㎡量产基地 |
 | 07-10 | ZSXQ | Optimus V3初步定型量产在即，特斯拉近期下发零部件采购指引（浙商机械） |
 | 07-10 | ZSXQ | T链已实际下单：恒立液压、北特科技等已拿到订单，非炒预期而是真实量产开始（ZSXQ星球推送） |
 | 07-10 | 政策 | 🔥 工信部：今年人形机器人整机产量有望突破10万台（WAIC 2026） |
