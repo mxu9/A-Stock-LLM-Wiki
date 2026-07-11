@@ -6,6 +6,7 @@ type: concept
 tags: [商业航天, 军工, 产业链, 国产替代, AI]
 sources:
   - mx-search 2026-06-28: 长征十号乙火箭 商业航天
+  - mx-search 2026-07-12: 商业航天最新动态（长十乙回收/50股涨停/券商密集覆盖）
   - 知识星球: 中信建投/中泰机械/国泰海通 商业航天研报
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
   - raw/reports/ZSXQ/知识星球_摘要_260627.md

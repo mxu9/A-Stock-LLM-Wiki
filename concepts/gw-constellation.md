@@ -6,6 +6,7 @@ type: concept
 tags: [商业航天, 卫星互联网, 6G, 军工]
 sources:
   - mx-search 2026-06-28: GW星座 中国星网
+  - mx-search 2026-07-12: GW星座最新动态（牌照落地/22组组网177颗/卫星通信工作组成立）
   - 知识星球: 华西证券/东兴证券
 dg-publish: true
 ---

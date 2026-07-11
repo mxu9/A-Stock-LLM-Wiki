@@ -6,6 +6,7 @@ type: concept
 tags: [商业航天, 产业链, 卫星互联网, AIDC]
 sources:
   - mx-search 2026-06-28: 千帆星座 G60 垣信卫星
+  - mx-search 2026-07-12: 千帆星座最新进展（238颗在轨/324颗年底目标/密集组网冲刺）
   - 知识星球: 华泰通信/建投计算机/ZX航空航天
 dg-publish: true
 ---

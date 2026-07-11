@@ -7,6 +7,7 @@ tags: [SiC, 碳化硅, 第三代半导体, 产业链, 8英寸量产]
 sources:
   - mx-search 2026-06-22: SiC概念股全产业链搜索
   - mx-search 2026-07-01: 8英寸SiC量产梯队全景
+  - mx-search 2026-07-12: 碳化硅产业链最新动态（3条，行业报告/边缘相关）
   - entities/002617.md: 露笑科技
   - concepts/solid-state-transformer.md
   - concepts/800v-hvdc.md
