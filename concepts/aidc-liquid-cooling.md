@@ -11,7 +11,8 @@ sources:
   - raw/reports/250618/AIDC液冷产业链_行业分析_250618.md
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
 
-  - raw/reports/ZSXQ/知识星球_摘要_260710.mddg-publish: true
+  - raw/reports/ZSXQ/知识星球_摘要_260710.md
+dg-publish: true
 ---
 
 # AIDC液冷产业链
