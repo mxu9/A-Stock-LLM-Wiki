@@ -8,6 +8,9 @@ sources:
   - mx-search: SemiAnalysis HVDC 高压直流 数据中心
   - mx-search: SemiAnalysis 800VDC 推迟 2028
   - mx-search: SemiAnalysis HVDC Kyber 延期
+  - mx-search 2026-07-12: SemiAnalysis AI算力 HVDC
+  - 知识星球 topic_id=82255488512822112: SemiAnalysis Vera Rubin NVL72
+  - 知识星球 topic_id=22255488218245411: JPM Meta反馈引用SemiAnalysis
 dg-publish: true
 ---
 
@@ -103,17 +106,14 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
-| 07-10 | zsxq | 📝 SemiAnalysis报告：Meta同时建设5座GW级AI集群，自研AI-Backbone支持跨数千公里异步训练 |
-| 07-10 | zsxq | 📋 JPM交易台：Meta算力扩张超预期，年底前AI总算力超越OpenAI和Anthropic |
-| 07-10 | mx-search | 🔌 算力功率半导体：HVDC+UPS贡献60%增量，SST+散热40%，2030年全球AI算力SiC超400亿 |
-| 07-10 | mx-search | ⚡ 2026 HVDC元年：AI数据中心SiC市场突破85亿元，800V高压直流成标配，SemiAnalysis预测IT电力需求49→96GW |
-| 07-10 | mx-search | 📈 Meta Muse Spark 1.1部分超越Gemini；Anthropic Q3 GAAP EBIT预计超10亿美元 |
-| 07-10 | mx-search | 🔥 SemiAnalysis：Meta AI有望半年超越谷歌，2026年部署7GW算力，2027年14GW，5座吉瓦级超算集群在建 |
-| 07-10 | 报告解读 | 🔥 SemiAnalysis：Meta或取代Google加冕AI"第三极"，6个月内超越Google |
-| 07-10 | 报告解读 | Meta计划2026年AI基础设施投入1450亿美元，部署7GW算力 |
-| 07-10 | 访谈 | SemiAnalysis创始人：存储还能涨2-3倍；Anthropic Q2 FCF转正，ARR突破500亿美元 |
-| 07-10 | 深度报告 | "AI央行"英伟达：至2029年全球AI债务融资或破7万亿美元 |
-| 07-10 | ZSXQ | JPM交易台Meta分析引用SemiAnalysis观点 / SemiAnalysis最新报告讨论 |
+| 07-11 | mx-search/东北证券 | ⚡ 字节AI Rack3.0落地全液冷+800V HVDC，国内兆瓦智算确立新标准；英维克/飞龙股份/思泉新材等受益 |
+| 07-10 | zsxq topic=82255488512822112 | 🔬 SemiAnalysis发布推文详解英伟达Vera Rubin NVL72芯片架构与制造革新 |
+| 07-10 | zsxq topic=22255488218245411 | 📋 JPM交易台：SemiAnalysis报告成功影响市场认知，部分买方已将Meta视为去年5-12月的谷歌(AI从loser变winner) |
+| 07-10 | mx-search | ⚡ 字节AI Rack3.0亮相OCP峰会：800V HVDC+100%液冷，单柜500kW/双柜1MW，搭载576颗XPU |
+| 07-10 | mx-search | 🔌 AI数据中心SiC：800V HVDC整流模块效率97%+；2030年全球AI算力SiC超400亿；头部云厂批量采用 |
+| 07-10 | mx-search | 📊 Vertiv预测2026年全球AIDC电力基础设施超200亿美元，HVDC占比超30%；英伟达Vera Rubin已明确采用800VDC |
+| 07-10 | 深度报告 | 🔥 SemiAnalysis：Meta AI有望半年超越谷歌，2026年部署7GW算力，2027年14GW，5座吉瓦级超算集群在建 |
+| 07-10 | 报告解读 | SemiAnalysis创始人：存储还能涨2-3倍；Anthropic Q2 FCF转正，ARR突破500亿美元 |
 
 ## ⚠️ 注意事项
 

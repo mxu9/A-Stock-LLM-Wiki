@@ -3,8 +3,8 @@ title: 固态变压器
 created: 2026-06-17
 updated: 2026-07-12
 type: concept
+tags: [固态变压器, 产业链, 电力设备]
 sources:
-  - mx-search 2026-06-17: SST最新进展（6/15-22）
   - mx-search 2026-07-12: SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）
   - raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md
   - raw/reports/260613/固态变压器_行业分析_260613.md
