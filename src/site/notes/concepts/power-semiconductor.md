@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-11","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md"]}}
+{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-12","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md",{"mx-search 2026-07-12":"功率半导体最新事件（腾睿微破产/SiC深度研究/行业洗牌）"}]}}
 ---
 
 
@@ -74,10 +74,12 @@
 | 2026Q3-Q4 | 国内 8 英寸 SiC 衬底量产验证 | [[entities/688234\|天岳先进]]/[[entities/688469\|芯联集成]] |
 | 2026H2 | AI 服务器电源 DrMOS 订单释放 | 新洁能/[[entities/688469\|芯联集成]] |
 
-## 📡 最新事件追踪 (更新于 2026-07-11)
+## 📡 最新事件追踪 (更新于 2026-07-12)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-10 | mx-search | 🔥 深圳腾睿微被申请破产审查，IGBT+SiC双线烧钱拖垮现金流；产能过剩引发全产业链价格战，多家中小功率半导体企业现金流承压 |
+| 07-10 | mx-search | 2026-2032年SiC功率器件行业深度研究：SiC MOSFET/SBD/IGBT多类型+先进封装(银烧结/双面散热)全景分析 |
 | 07-10 | 晶盛机电 | 年产60万片8英寸SiC衬底项目加速投产，12英寸技术突破，马来西亚工厂2026年底通线 |
 | 07-10 | 台基股份 | SiC碳化硅产线进入试产阶段，聚焦1200V/1700V SiC MOSFET |
 | 07-09 | 财联社 | 晶盛机电获工银瑞信等4家机构调研 |

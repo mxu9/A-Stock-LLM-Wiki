@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-11","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md"]}}
+{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-12","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"}]}}
 ---
 
 
@@ -357,10 +357,16 @@
 - 评估厂商核心看两点：**电力设备底蕴** + **高压侧产品能力**
 - 进入北美需 UL认证 + CSA认证 + 客户订单获取
 
-## 📡 最新事件追踪 (更新于 2026-07-11)
+## 📡 最新事件追踪 (更新于 2026-07-12)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-11 | mx-search/中信建投 | 🔥 看好缺电产业链，AI供电方案迭代：交流→800V直流→SST路线，至2028年北美新增AIDC功率71GW |
+| 07-11 | mx-search | 🔥 800V HVDC为什么必须上固态断路器(SSCB)：直流无自然过零点，SiC器件过流耐受仅数百微秒，传统断路器顶不住 |
+| 07-10 | mx-search/国金证券 | 安靠智电深度：SST商业化加速，800V高压直流是AIDC电源架构升级核心方向 |
+| 07-10 | mx-search | 🔥 字节跳动OCP中国峰会发布AI Rack 3.0，首次搭载800V HVDC高压直流供电+100%全液冷散热 |
+| 07-10 | mx-search/野村东方国际 | 看好AI电源投资机遇，字节AI Rack 3.0将带动国内订单释放预期，推荐AI直流电三条投资主线 |
+| 07-10 | mx-search/国泰海通 | HVDC产品预计2026年推出、2027年商业化；SST作为更远期方案预计2029年商业化 |
 | 07-11 | 第一财经/数据宝 | 字节跳动在OCP峰会发布AI Rack 3.0，首次搭载800V HVDC+全液冷，单柜500kW |
 | 07-10 | 南方财经网 | 阳光电源发布SST固态变压器EnerNeo，开辟AI电源新战场 |
 | 07-10 | 野村东方国际 | 研报《AI电力：直流电的复兴时刻》看好800V HVDC三条主线 |

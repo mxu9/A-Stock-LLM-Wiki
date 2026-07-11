@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","created":"2026-07-01","updated":"2026-07-11","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md",{"raw/reports/ZSXQ/知识星球_摘要_260710.mdtype":"concept"}],"tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"sources":["reports/260701/创新药_行业分析_260701.md",{"mx-search 2026-07-01":"创新药全搜索"},{"zsxq 2026-07-01":"知识星球近3月创新药主题搜索"}]}}
+{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","created":"2026-07-01","updated":"2026-07-12","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md","raw/reports/ZSXQ/知识星球_摘要_260710.md"],"type":"concept","tags":["创新药","生物医药","BD出海","ADC","双抗","License-out"],"sources":["reports/260701/创新药_行业分析_260701.md",{"mx-search 2026-07-01":"创新药全搜索"},{"mx-search 2026-07-12":"创新药 BD出海 ADC 双抗"},{"zsxq 2026-07-01":"知识星球近3月创新药主题搜索"}]}}
 ---
 
 
@@ -130,11 +130,15 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
-| 07-10 | ZSXQ | CXO反攻强势，资金与基本面共振向上，Q2订单趋势向好（天风医药）；CRO/CDMO龙头仍具性价比 |
-| 07-09 | 政策 | 🔥 国家卫健委发布2026版基药目录（9月1日实施），首次纳入4款国产1类创新药 |
-| 07-10 | 利好分析 | 基药目录首纳16款创新药，荣昌生物泰它西普、康诺亚司普奇拜单抗等龙头显著受益 |
-| 07-10 | 长江证券 | 中国创新药研发投入景气度前瞻指标趋势向好 |
-| 07-10 | 中泰国际 | 基药目录大力支持创新药，目录药品占公立医疗机构用量71% |
+| 07-11 | mx-search | 📈 创新药爆量突破：政策加码(CGT 30日通道)+BD持续爆发(H1 997亿$=2025全年73%)；市场资金从AI向创新药切换 |
+| 07-10 | mx-search | 🔥 2026H1中国创新药BD出海总金额~997亿美元(约2024全年2倍)，全球TOP10交易中国占8席；Q1首付款38.5亿$同比+229% |
+| 07-10 | mx-search | 🏆 全球首个双抗ADC获批：百利天恒BL-B01D1上市(鼻咽癌)；科伦博泰SKB264默沙东17项全球三期；三生制药PD-1/VEGF获辉瑞12.5亿$首付款 |
+| 07-10 | mx-search | 🔬 BD合作模式升级：从"卖青苗"→Co-development/利润共享/NewCo；信达与辉瑞4项目全球联合开发 |
+| 07-10 | mx-search/光大 | 7月五维比较：创新药政策红利与产业景气共振，CXO行业景气拐点已现 |
+| 07-10 | mx-search/兴业 | 板块从"估值驱动"转向"业绩+全球化兑现驱动"；已BD品种海外三期/上市/商业化分成为重要催化 |
+| 07-10 | mx-search | ⚠️ 中国银河程培警示：PD-1/VEGF管线已近5款同质化；早期授权不确定性高；源头创新不足 |
+| 07-10 | ZSXQ | CXO反攻强势，资金与基本面共振向上，Q2订单趋势向好（天风医药） |
+| 07-09 | 政策 | 🔥 2026版基药目录(9/1实施)，首次纳入16款国产创新药(含泰它西普/司普奇拜单抗)，目录药品占公立医院用量71% |
 
 ## 关联概念
 - [[concepts/japan-substitution\|japan-substitution]] — 对日替代（医药CXO/器械方向）
