@@ -6,9 +6,19 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-11 | Total pages: 190 | 160 entities + 29 concepts + 1 comparisons
+> Last updated: 2026-07-13 | Total pages: 199 | 168 entities + 30 concepts + 1 comparisons
 
-## Entities (个股) — 160 stocks
+## Entities (个股) — 166 stocks
+
+### 字节AI电源/AIDC液冷
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[entities/002050\|002050]] 🆕 | 三花智控 | — |
+| [[entities/002139\|002139]] 🆕 | 拓邦股份 | — |
+| [[entities/002536\|002536]] 🆕 | 飞龙股份 | — |
+| [[entities/002837\|002837]] 🆕 | 英维克 | — |
+| [[entities/300249\|300249]] 🆕 | 依米康 | — |
+| [[entities/300499\|300499]] 🆕 | 高澜股份 | — |
 
 ### 氦气/电子特气
 | 代码 | 名称 | 报告数 |
@@ -91,6 +101,9 @@
 | [[entities/600330\|600330]] 🆕 | 天通股份 | — |
 | [[entities/600353\|600353]] | 旭光电子 🆕 | — |
 | [[entities/688234\|688234]] 🆕 | 天岳先进 | — |
+| [[entities/688478\|688478]] 🆕 | 晶升股份 | 1 |
+| [[entities/600460\|600460]] 🆕 | 士兰微 | — |
+| [[entities/600509\|600509]] 🆕 | 天富能源 | — |
 | [[entities/600563\|600563]] | 法拉电子 | 1 |
 | [[entities/600673\|600673]] | 东阳光 | 1 |
 | [[entities/600703\|600703]] 🆕 | 三安光电 | — |
@@ -225,8 +238,9 @@
 | [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 29 topics
+## Concepts (行业/概念/产业链) — 30 topics
 
+- [[concepts/byte-ai-power\|byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[concepts/helium\|helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
 - [[concepts/800v-hvdc\|800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
@@ -257,6 +271,7 @@
 
 ## Comparisons
 - [[comparisons/hvdc-three-stocks\|hvdc-three-stocks]] — HVDC三股对比
+- [[comparisons/ai-power-three-stocks\|ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
 
 ## Reports — 68 reports
 - [[reports\|reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）
