@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-12 | Total pages: 197 | 166 entities + 30 concepts + 1 comparisons
+> Last updated: 2026-07-13 | Total pages: 198 | 167 entities + 30 concepts + 1 comparisons
 
 ## Entities (个股) — 166 stocks
 
@@ -102,6 +102,8 @@ dg-publish: true
 | [[600330]] 🆕 | 天通股份 | — |
 | [[600353]] | 旭光电子 🆕 | — |
 | [[688234]] 🆕 | 天岳先进 | — |
+| [[600460]] 🆕 | 士兰微 | — |
+| [[600509]] 🆕 | 天富能源 | — |
 | [[600563]] | 法拉电子 | 1 |
 | [[600673]] | 东阳光 | 1 |
 | [[600703]] 🆕 | 三安光电 | — |
