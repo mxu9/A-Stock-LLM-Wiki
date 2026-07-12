@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/sic-supply-chain/","title":"碳化硅(SiC)产业链","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"dg-note-properties":{"title":"碳化硅(SiC)产业链","created":"2026-06-22","updated":"2026-07-13","type":"concept","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"sources":[{"mx-search 2026-06-22":"SiC概念股全产业链搜索"},{"mx-search 2026-07-01":"8英寸SiC量产梯队全景"},{"mx-search 2026-07-12":"碳化硅产业链最新动态（3条，行业报告/边缘相关）"},{"entities/002617.md":"露笑科技"},"concepts/solid-state-transformer.md","concepts/800v-hvdc.md"]}}
+{"dg-publish":true,"permalink":"/concepts/sic-supply-chain/","title":"碳化硅(SiC)产业链","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"dg-note-properties":{"title":"碳化硅(SiC)产业链","created":"2026-06-22","updated":"2026-07-13","type":"concept","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"sources":[{"mx-search 2026-06-22":"SiC概念股全产业链搜索"},{"mx-search 2026-07-01":"8英寸SiC量产梯队全景"},{"mx-search 2026-07-12":"碳化硅产业链最新动态（3条，行业报告/边缘相关）"},{"entities/002617.md":"露笑科技"},"concepts/solid-state-transformer.md","concepts/800v-hvdc.md",{"mx-search 2026-07-13":"SiC需求向\"新能源+AI算力\"双轮升级/国产首款100%自主SiC逆变器下线"}]}}
 ---
 
 
@@ -279,10 +279,14 @@
 
 ---
 
-## 📡 最新事件追踪 (更新于 2026-07-11)
+## 📡 最新事件追踪 (更新于 2026-07-13)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-10 | mx-search | SiC主导大功率高压航天场景(>100kW)，宽禁带特性使其成为深空平台及大功率卫星首选 |
+| 07-12 | mx-search | 东微半导1700V通过客户测试，方正微电子全系列SiC MOSFET量产；数据中心/SST维持技术溢价 |
+| 07-12 | mx-search | 国产首款100%自主化碳化硅汽车逆变器下线，效率提升5-8%，续航+10% |
+| 07-12 | 开源证券 | SiC需求从新能源单轮→"新能源+AI算力"双轮升级；中低端6英寸产能出清，高端8英寸衬底爬坡 |
 | 07-10 | mx-search/晶盛机电 | 晶盛机电加速年产60万片8英寸SiC衬底项目投产，12英寸中试线已送样；8英寸即将成为产业主流 |
 | 07-10 | 晶盛机电 | 8英寸SiC衬底技术和规模居国内前列，获海内外批量订单；马来西亚工厂2026年底通线 |
 | 07-10 | CFH | SiC产业链全景：衬底占成本47%，8英寸量产推动成本下降与需求正反馈 |

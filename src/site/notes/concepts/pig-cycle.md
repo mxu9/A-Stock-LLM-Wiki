@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/pig-cycle/","title":"猪周期","tags":["农业","猪周期","消费"],"dg-note-properties":{"title":"猪周期","created":"2026-06-21","updated":"2026-07-12","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["农业","猪周期","消费"],"sources":["raw/papers/猪周期上行时点_20260505_ocr.txt","mx-search 2026-07-01",{"mx-search 2026-07-12":"猪周期 生猪 能繁母猪"}]}}
+{"dg-publish":true,"permalink":"/concepts/pig-cycle/","title":"猪周期","tags":["农业","猪周期","消费"],"dg-note-properties":{"title":"猪周期","created":"2026-06-21","updated":"2026-07-13","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["农业","猪周期","消费"],"sources":["raw/papers/猪周期上行时点_20260505_ocr.txt","mx-search 2026-07-01",{"mx-search 2026-07-12":"猪周期 生猪 能繁母猪"},{"mx-search 2026-07-13":"❌ 扫描失败(频率限制112)"}]}}
 ---
 
 

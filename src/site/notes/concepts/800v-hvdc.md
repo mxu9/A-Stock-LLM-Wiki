@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-12","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"}]}}
+{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-13","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"},{"mx-search 2026-07-13":"字节确认800V路线/中信建投缺电产业链/固态断路器刚需"}]}}
 ---
 
 
@@ -357,10 +357,15 @@
 - 评估厂商核心看两点：**电力设备底蕴** + **高压侧产品能力**
 - 进入北美需 UL认证 + CSA认证 + 客户订单获取
 
-## 📡 最新事件追踪 (更新于 2026-07-12)
+## 📡 最新事件追踪 (更新于 2026-07-13)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 07-12 | 国金证券 | 字节800V路线+北美±400V架构趋同，强化HVDC Sidecar/DC-DC/磁性器件中期确定性 |
+| 07-12 | mx-search | 800V HVDC架构必须配备固态断路器(SSCB)，传统机械断路器无法满足SiC器件微秒级过流耐受 |
+| 07-11 | 中信建投 | 英伟达800V白皮书迭代路径：交流→800V直流→HVDC Sidecar→SST |
+| 07-10 | 南方财经 | SST市场规模26年100亿→30年超千亿，TOP10云厂商新建智算中心全面采用SST+高压直流 |
+| 07-10 | mx-search | 🔥 字节AI Rack3.0确认800V HVDC路线，双柜集群1MW |
 | 07-11 | mx-search/中信建投 | 🔥 看好缺电产业链，AI供电方案迭代：交流→800V直流→SST路线，至2028年北美新增AIDC功率71GW |
 | 07-11 | mx-search | 🔥 800V HVDC为什么必须上固态断路器(SSCB)：直流无自然过零点，SiC器件过流耐受仅数百微秒，传统断路器顶不住 |
 | 07-10 | mx-search/国金证券 | 安靠智电深度：SST商业化加速，800V高压直流是AIDC电源架构升级核心方向 |
