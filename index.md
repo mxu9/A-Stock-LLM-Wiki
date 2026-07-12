@@ -7,9 +7,19 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-11 | Total pages: 190 | 160 entities + 29 concepts + 1 comparisons
+> Last updated: 2026-07-12 | Total pages: 197 | 166 entities + 30 concepts + 1 comparisons
 
-## Entities (个股) — 160 stocks
+## Entities (个股) — 166 stocks
+
+### 字节AI电源/AIDC液冷
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[002050]] 🆕 | 三花智控 | — |
+| [[002139]] 🆕 | 拓邦股份 | — |
+| [[002536]] 🆕 | 飞龙股份 | — |
+| [[002837]] 🆕 | 英维克 | — |
+| [[300249]] 🆕 | 依米康 | — |
+| [[300499]] 🆕 | 高澜股份 | — |
 
 ### 氦气/电子特气
 | 代码 | 名称 | 报告数 |
@@ -226,8 +236,9 @@ dg-publish: true
 | [[603986]] 🆕 | 兆易创新 | — |
 | [[300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 29 topics
+## Concepts (行业/概念/产业链) — 30 topics
 
+- [[byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
 - [[800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）

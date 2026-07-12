@@ -163,6 +163,7 @@ AIDC（AI 数据中心）是当前 AI 算力基础设施投资最大的环节，
 - [[sic-supply-chain]] — SiC 是 AIDC 供电核心材料
 - [[solid-state-transformer]] — SST 固态变压器
 - [[power-semiconductor]] — 功率半导体
+- [[byte-ai-power]] 🆕 — 字节AI电源（2026.7.9落地标杆，800V HVDC+全液冷）
 
 ## 相关报告
 

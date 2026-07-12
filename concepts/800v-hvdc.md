@@ -406,4 +406,5 @@ dg-publish: true
 - `raw/reports/260615/麦格米特_全面分析_260615.md`
 
 - [[aidc-supply-chain]] — AIDC 全产业链（上位概念）
+- [[byte-ai-power]] 🆕 — 字节AI电源（2026.7.9 AI Rack 3.0，800V HVDC落地标杆）
 
