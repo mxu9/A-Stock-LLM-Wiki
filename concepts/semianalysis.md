@@ -1,14 +1,17 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-12
+updated: 2026-07-13
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
+  - mx-search 2026-07-13: Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029
   - mx-search: SemiAnalysis HVDC 高压直流 数据中心
   - mx-search: SemiAnalysis 800VDC 推迟 2028
   - mx-search: SemiAnalysis HVDC Kyber 延期
   - mx-search 2026-07-12: SemiAnalysis AI算力 HVDC
+  - 知识星球 topic=22255488218245411: JPM Meta反馈
+  - 知识星球 topic=82255488512822112: Vera Rubin NVL72详解
   - 知识星球 topic_id=82255488512822112: SemiAnalysis Vera Rubin NVL72
   - 知识星球 topic_id=22255488218245411: JPM Meta反馈引用SemiAnalysis
 dg-publish: true
@@ -106,6 +109,12 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-13 | mx-search | 🔥 SemiAnalysis影子账本：Anthropic Q1收入48亿→Q2预计109亿(环比翻倍)，估值或达6万亿美元 |
+| 2026-07-12 | 红杉专访 | 红杉专访创始人迪伦：推理市场将超越石油，算力战争终局在太空 |
+| 2026-07-10 | 金融界 | Anthropic 26Q3将实现10亿美元GAAP EBIT，ARR从90亿→600亿美元 |
+| 2026-07-10 | mx-search | CPO大规模量产推迟至2028-2029年，铜缆仍有很大机会，存储还有翻倍空间 |
+| 2026-07-10 | 知识星球 | JPM交易台反馈：Semianalysis报告影响市场认知，Meta被视为去年谷歌翻版 |
+| 2026-07-10 | 知识星球 | SemiAnalysis详解Vera Rubin NVL72芯片架构与制造革新 |
 | 07-11 | mx-search/东北证券 | ⚡ 字节AI Rack3.0落地全液冷+800V HVDC，国内兆瓦智算确立新标准；英维克/飞龙股份/思泉新材等受益 |
 | 07-10 | zsxq topic=82255488512822112 | 🔬 SemiAnalysis发布推文详解英伟达Vera Rubin NVL72芯片架构与制造革新 |
 | 07-10 | zsxq topic=22255488218245411 | 📋 JPM交易台：SemiAnalysis报告成功影响市场认知，部分买方已将Meta视为去年5-12月的谷歌(AI从loser变winner) |

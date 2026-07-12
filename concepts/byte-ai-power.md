@@ -3,9 +3,11 @@ dg-publish: true
 title: 字节AI电源
 slug: byte-ai-power
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 type: concept
 tags: [字节跳动, AIDC, 800V HVDC, SST, 液冷, AI电源, 英伟达]
+sources:
+  - mx-search 2026-07-13: 字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿
 ---
 
 # 字节AI电源
@@ -95,6 +97,14 @@ tags: [字节跳动, AIDC, 800V HVDC, SST, 液冷, AI电源, 英伟达]
 
 > **优先级**：SST设备 > 液冷 > HVDC电源 > SiC器件
 > **阶段判断**：SST刚启动（阳光7/9首发），液冷进入订单兑现阶段。
+
+## 📡 最新事件追踪 (更新于 2026-07-13)
+
+| 日期 | 来源 | 事件摘要 |
+|------|------|----------|
+| 07-12 | mx-search | 🔥 DeepSeek V4系列首次在国产芯片完成万亿参数训练，华为昇腾等8家厂商Day 0适配 |
+| 07-12 | 国金证券 | 字节Seedream 5.0 Pro发布，联合中兴努比亚推出"豆包AI智能体手机" |
+| 07-10 | mx-search | 🔥 字节跳动AIRack3.0亮相OCP峰会：800V HVDC+100%全液冷，双柜集群1MW/576颗XPU |
 
 ## 📋 相关报告
 

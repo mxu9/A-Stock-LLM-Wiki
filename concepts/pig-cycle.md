@@ -1,7 +1,7 @@
 ---
 title: 猪周期
 created: 2026-06-21
-updated: 2026-07-12
+updated: 2026-07-13
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260701.md
 type: concept
@@ -10,6 +10,7 @@ sources:
   - raw/papers/猪周期上行时点_20260505_ocr.txt
   - mx-search 2026-07-01
   - mx-search 2026-07-12: 猪周期 生猪 能繁母猪
+  - mx-search 2026-07-13: ❌ 扫描失败(频率限制112)
 dg-publish: true
 ---
 
