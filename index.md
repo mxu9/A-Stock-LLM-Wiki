@@ -269,6 +269,7 @@ dg-publish: true
 
 ## Comparisons
 - [[hvdc-three-stocks]] — HVDC三股对比
+- [[ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
 
 ## Reports — 68 reports
 - [[reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）

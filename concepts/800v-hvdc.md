@@ -405,6 +405,8 @@ dg-publish: true
 - `raw/reports/260615/宏桥控股_全面分析_260615.md`
 - `raw/reports/260615/麦格米特_全面分析_260615.md`
 
+- [[ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
+
 - [[aidc-supply-chain]] — AIDC 全产业链（上位概念）
 - [[byte-ai-power]] 🆕 — 字节AI电源（2026.7.9 AI Rack 3.0，800V HVDC落地标杆）
 
