@@ -1,7 +1,7 @@
 ---
 title: 碳化硅(SiC)产业链
 created: 2026-06-22
-updated: 2026-07-13
+updated: 2026-07-14
 type: concept
 tags: [SiC, 碳化硅, 第三代半导体, 产业链, 8英寸量产]
 sources:
@@ -12,6 +12,7 @@ sources:
   - concepts/solid-state-transformer.md
   - concepts/800v-hvdc.md
   - mx-search 2026-07-13: SiC需求向"新能源+AI算力"双轮升级/国产首款100%自主SiC逆变器下线
+  - mx-search 2026-07-14: 国产首款100%自主SiC逆变器下线，SiC从新能源单轮到新能源+AI双轮驱动
 dg-publish: true
 ---
 
@@ -295,6 +296,8 @@ dg-publish: true
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-12 | mx-search/行业资讯 | 国产首款100%自主化碳化硅逆变器下线；SiC逆变器效率提升5%-8%，续航增加约10% |
+| 2026-07-12 | mx-search/开源证券 | 碳化硅从新能源单轮驱动到"新能源+AI算力"双轮升级；8英寸衬底国内产线仍爬坡 |
 | 2026-07-12 | zsxq | 格林达TMAH显影液：面板市占率超60%，卡位AI玻璃基板关键材料（TMAH+BOE蚀刻液+稀释氢氟酸） |
 | 07-10 | mx-search | SiC主导大功率高压航天场景(>100kW)，宽禁带特性使其成为深空平台及大功率卫星首选 |
 | 07-12 | mx-search | 东微半导1700V通过客户测试，方正微电子全系列SiC MOSFET量产；数据中心/SST维持技术溢价 |
