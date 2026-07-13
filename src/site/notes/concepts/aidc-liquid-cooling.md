@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-13","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"}]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-14","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"}]}}
 ---
 
 
@@ -98,6 +98,8 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-13 | mx-search/川观智库 | 2026年液冷服务器渗透率有望达37%，2030年达82%；中国液冷数据中心市场年均增速超30% |
+| 2026-07-13 | mx-search/中金公司 | 科创新源AIDC液冷板自主产销+协同制造双轮驱动；Rubin功耗或达2300W |
 | 2026-07-12 | zsxq | AVC奇鋐6月营收37.93亿元（环比+11%，同比+66%），Q2营收环比+36%同比+71%，液冷散热持续高景气 |
 | 2026-07-12 | zsxq | 领益智造拟40亿元重整收购富通嘉善，液冷、光纤等布局持续落地 |
 | 07-12 | 东吴证券 | 液冷渗透持续提速，海外冷水机组龙头开利26Q1数据中心冷却订单增长 |

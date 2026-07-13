@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-13","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-14","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"}]}}
 ---
 
 
@@ -95,6 +95,8 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-14 | mx-search/搜狐 | 字节AI Rack3.0亮相OCP峰会：800V HVDC+100%全液冷，双柜兆瓦级，576颗XPU |
+| 2026-07-13 | mx-search/搜狐 | 字节1GW智算中心全程华为昇腾国产芯片训练，Seedream 5.0上线火山方舟 |
 | 2026-07-12 | zsxq | 智谱GLM-5.2发布+再融资冲破算力瓶颈；PJM高温下北美电网调峰需求激增 |
 | 07-12 | mx-search | 🔥 DeepSeek V4系列首次在国产芯片完成万亿参数训练，华为昇腾等8家厂商Day 0适配 |
 | 07-12 | 国金证券 | 字节Seedream 5.0 Pro发布，联合中兴努比亚推出"豆包AI智能体手机" |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-13","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"}]}}
+{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-14","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"}]}}
 ---
 
 
@@ -95,6 +95,8 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-13 | mx-search | SemiAnalysis深度报告：Anthropic将成为世界最大企业，估值6万亿美元，Q3实现GAAP盈利 |
+| 2026-07-13 | mx-search/爱建证券 | 引用SemiAnalysis：长鑫存储2028年月产能50万片；存储品类占云Capex 30% |
 | 2026-07-12 | zsxq | 摩根大通大幅上调CPU出货预测，服务器CPU"超级周期"；ZX通信光通信1.6T需求未下滑 |
 | 2026-07-13 | mx-search | 🔥 SemiAnalysis影子账本：Anthropic Q1收入48亿→Q2预计109亿(环比翻倍)，估值或达6万亿美元 |
 | 2026-07-12 | 红杉专访 | 红杉专访创始人迪伦：推理市场将超越石油，算力战争终局在太空 |

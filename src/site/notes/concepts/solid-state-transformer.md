@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-13","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"}]}}
+{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-14","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"}]}}
 ---
 
 
@@ -431,6 +431,9 @@ SiC MOSFET模块(基本半导体/英飞凌) → SSCB整机(良信/赛晶) → SS
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-13 | mx-search/平安证券 | 🔥 阳光电源EnerNeo SST：3MW/98.5%效率，与东阳光(30MW)/中联数据(100MW)签框架协议，2027年批量交付 |
+| 2026-07-13 | mx-search/行业资讯 | 微软/AWS/阿里云/腾讯/字节/百度出席SST发布会；与阿里云成立绿色Token联合创新中心 |
+| 2026-07-13 | mx-search/世纪证券 | EnerNeo SST：输入10-13.8kV，输出800Vdc，功率密度312kW/m² |
 | 2026-07-12 | zsxq | PJM北美电网高温催化，输电线路严重过载，电力设备升级需求迫切 |
 | 2026-07-10 | mx-search | 🔥 阳光电源发布EnerNeo商用固态变压器，微软/AWS/阿里/字节等到场，SST解决吉瓦级数据中心高能耗 |
 | 2026-07-10 | 南方财经 | 阳光电源预计26年样机验证、27年批量订单、28年规模化；海外CSP厂商认可度高 |
