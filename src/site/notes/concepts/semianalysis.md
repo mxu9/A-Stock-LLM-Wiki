@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-14","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"}]}}
+{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-15","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"},{"mx-search 2026-07-14":"SemiAnalysis看多SK海力士—DRAM ASP环比+45-60%，推动ADR夜盘大涨7%"}]}}
 ---
 
 
@@ -112,6 +112,7 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 | 07-10 | mx-search | 📊 Vertiv预测2026年全球AIDC电力基础设施超200亿美元，HVDC占比超30%；英伟达Vera Rubin已明确采用800VDC |
 | 07-10 | 深度报告 | 🔥 SemiAnalysis：Meta AI有望半年超越谷歌，2026年部署7GW算力，2027年14GW，5座吉瓦级超算集群在建 |
 | 07-10 | 报告解读 | SemiAnalysis创始人：存储还能涨2-3倍；Anthropic Q2 FCF转正，ARR突破500亿美元 |
+| 2026-07-14 | mx-search/SemiAnalysis | SemiAnalysis看多SK海力士：通用DRAM定价环比飙升60%，H100租赁$2.40/hr，Blackwell $4.08/hr+48% |
 
 ## ⚠️ 注意事项
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/gas-turbine/","title":"燃气轮机","tags":["燃气轮机","军工"],"dg-note-properties":{"title":"燃气轮机","created":"2026-06-17","updated":"2026-07-14","type":"concept","tags":["燃气轮机","军工"],"sources":["raw/reports/250618/燃气轮机_星球追踪_250618.md","raw/reports/250618/燃气轮机_行业分析_250618.md","raw/papers/海外燃机供不应求_20260505_ocr.txt","raw/reports/ZSXQ/知识星球_摘要_260625.md",{"mx-search 2026-07-12":"燃气轮机最新事件（国联民生中期策略+华西AIDC+高温合金）"},{"mx-search 2026-07-13":"燃气轮机价格3年涨300%/三菱扩产翻倍/微软采购GE Vernova"},{"mx-search 2026-07-14":"燃机价格3年涨300%，供应缺口60-70GW，杰瑞签超11亿美元合同"}]}}
+{"dg-publish":true,"permalink":"/concepts/gas-turbine/","title":"燃气轮机","tags":["燃气轮机","军工"],"dg-note-properties":{"title":"燃气轮机","created":"2026-06-17","updated":"2026-07-15","type":"concept","tags":["燃气轮机","军工"],"sources":["raw/reports/250618/燃气轮机_星球追踪_250618.md","raw/reports/250618/燃气轮机_行业分析_250618.md","raw/papers/海外燃机供不应求_20260505_ocr.txt","raw/reports/ZSXQ/知识星球_摘要_260625.md",{"mx-search 2026-07-12":"燃气轮机最新事件（国联民生中期策略+华西AIDC+高温合金）"},{"mx-search 2026-07-13":"燃气轮机价格3年涨300%/三菱扩产翻倍/微软采购GE Vernova"},{"mx-search 2026-07-14":"燃机价格3年涨300%，供应缺口60-70GW，杰瑞签超11亿美元合同"},{"mx-search 2026-07-14":"三年涨价300%一机难求，微软单台超2.5亿美元，Meta追加400亿美元AI基建"}]}}
 ---
 
 
@@ -204,6 +204,7 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-14 | mx-search | 🔥 燃机三年涨价300%，微软GE Vernova单台超2.5亿美元，订单排至2031，国产零部件替代出海 |
 | 2026-07-13 | mx-search/财联社 | 🔥 燃气轮机价格3年累计上涨约300%，全球需求2026年达117GW供仅50-60GW；杰瑞股份签超11亿美元合同 |
 | 2026-07-12 | mx-search/国联民生 | 燃机行业深度：三菱重工扩产翻倍；全球叶片市场长期被PCC/Howmet垄断 |
 | 2026-07-12 | zsxq | PJM北美电网高温催化，用电需求激增，电力系统运行压力增大，燃气轮机/调峰需求上升 |
