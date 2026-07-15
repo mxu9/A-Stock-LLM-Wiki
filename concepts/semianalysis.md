@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -111,6 +111,11 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-15 | mx-search | SemiAnalysis回应KIS下调SK海力士盈利预测，维持DRAM强劲看多立场 |
+| 2026-07-15 | mx-search | SemiAnalysis创始人万字对话：存储还有翻倍空间，CPO落地推迟至2029年，Anthropic ARR已超600亿美元 |
+| 2026-07-14 | mx-search | SemiAnalysis点赞英伟达vLLM推理优化，指出AMD在部分模型支持上仍有较大追赶空间 |
+| 2026-07-14 | mx-search | SemiAnalysis看多SK海力士：DRAM ASP环比+45%，营业利润约55万亿韩元 |
+| 2026-07-14 | mx-search | SemiAnalysis反击「AI算力过剩论」：Meta算力采购加速非放缓，上半年已签约超5GW云租赁容量 |
 | 2026-07-13 | mx-search | SemiAnalysis深度报告：Anthropic将成为世界最大企业，估值6万亿美元，Q3实现GAAP盈利 |
 | 2026-07-13 | mx-search/爱建证券 | 引用SemiAnalysis：长鑫存储2028年月产能50万片；存储品类占云Capex 30% |
 | 2026-07-12 | zsxq | 摩根大通大幅上调CPU出货预测，服务器CPU"超级周期"；ZX通信光通信1.6T需求未下滑 |

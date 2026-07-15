@@ -3,7 +3,7 @@ dg-publish: true
 title: 字节AI电源
 slug: byte-ai-power
 created: 2026-07-12
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
 tags: [字节跳动, AIDC, 800V HVDC, SST, 液冷, AI电源, 英伟达]
 sources:
@@ -104,6 +104,7 @@ sources:
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-14 | mx-search | 东吴证券半年度策略：AIDC直流化趋势确立，字节首次采用800V HVDC方案，麦米进度最快，国内SST显著领先海外 |
 | 2026-07-14 | mx-search | 字节/Meta加码AI算力，CAPEX评估700亿美元，台积电2纳米量产 |
 | 2026-07-14 | mx-search/搜狐 | 字节AI Rack3.0亮相OCP峰会：800V HVDC+100%全液冷，双柜兆瓦级，576颗XPU |
 | 2026-07-13 | mx-search/搜狐 | 字节1GW智算中心全程华为昇腾国产芯片训练，Seedream 5.0上线火山方舟 |

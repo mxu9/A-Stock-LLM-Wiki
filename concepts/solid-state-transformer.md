@@ -1,7 +1,7 @@
 ---
 title: 固态变压器
 created: 2026-06-17
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
 tags: [固态变压器, 产业链, 电力设备]
 sources:
