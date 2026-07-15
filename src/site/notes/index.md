@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-13 | Total pages: 199 | 168 entities + 30 concepts + 1 comparisons
+> Last updated: 2026-07-13 | Total pages: 200 | 171 entities + 27 concepts + 2 comparisons
 
-## Entities (个股) — 166 stocks
+## Entities (个股) — 171 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -136,6 +136,9 @@
 | [[entities/002422\|002422]] 🆕 | 科伦药业 | — |
 | [[entities/600276\|600276]] 🆕 | 恒瑞医药 | — |
 | [[entities/688235\|688235]] 🆕 | 百济神州 | — |
+| [[entities/603259\|603259]] 🆕 | 药明康德 | — |
+| [[entities/688192\|688192]] 🆕 | 迪哲医药 | — |
+| [[entities/603127\|603127]] 🆕 | 昭衍新药 | — |
 | [[entities/688331\|688331]] 🆕 | 荣昌生物 | — |
 | [[entities/688506\|688506]] 🆕 | 百利天恒 | — |
 | [[entities/01801-HK\|01801-HK]] 🆕 | 信达生物(HK) | — |
@@ -238,7 +241,7 @@
 | [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 30 topics
+## Concepts (行业/概念/产业链) — 27 topics
 
 - [[concepts/byte-ai-power\|byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[concepts/helium\|helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
