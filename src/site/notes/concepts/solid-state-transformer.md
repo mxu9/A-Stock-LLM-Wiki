@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-15","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布3MW/98.5%，与阿里云联合创新中心，台达/金盘等密集推新品"}]}}
+{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-16","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布3MW/98.5%，与阿里云联合创新中心，台达/金盘等密集推新品"}]}}
 ---
 
 

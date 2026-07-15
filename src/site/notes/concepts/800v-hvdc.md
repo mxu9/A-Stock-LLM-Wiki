@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-15","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"},{"mx-search 2026-07-13":"字节确认800V路线/中信建投缺电产业链/固态断路器刚需"},{"mx-search 2026-07-14":"800V快充下探10万级，比亚迪元PLUS闪充5分钟，长安启源Q06搭载800V SiC 6C"},{"mx-search 2026-07-15":"2026新车800V成标配，腾势Z/问界M6/海狮06 EV等密集发布"}]}}
+{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-16","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"},{"mx-search 2026-07-13":"字节确认800V路线/中信建投缺电产业链/固态断路器刚需"},{"mx-search 2026-07-14":"800V快充下探10万级，比亚迪元PLUS闪充5分钟，长安启源Q06搭载800V SiC 6C"},{"mx-search 2026-07-15":"2026新车800V成标配，腾势Z/问界M6/海狮06 EV等密集发布"}]}}
 ---
 
 
@@ -361,6 +361,10 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-15 | mx-search | 奥海科技IR：完成SST/HVDC/PSU全链路布局，800V HVDC Sidecar及Powershelf进入开发/中试 |
+| 2026-07-15 | mx-search | AI数据中心机柜产业链：800V高压直流+垂直供电破解高损耗难题，同等线缆传输功率提升157% |
+| 2026-07-15 | mx-search | 陕北—安徽±800kV特高压直流工程投运，全长1055km、投资205亿元 |
+| 2026-07-15 | mx-search | AI算力倒逼基建重构：800VDC为兆瓦级机柜唯一解，已有29家公司支持800VDC生态 |
 | 2026-07-15 | mx-search | 🔥 2026新车800V高压快充成标配，比亚迪下放至十几万车型，SiC+GaN双线渗透 |
 | 2026-07-14 | mx-search/第一电动 | 🔥 长安启源Q06亮相：搭载800V碳化硅高压平台，支持6C闪充技术 |
 | 2026-07-13 | mx-search/新浪 | 800V快充从30万+下探到10万级：比亚迪元PLUS全系标配800V闪充，11.99万起 |

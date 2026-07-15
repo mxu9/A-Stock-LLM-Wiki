@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-15","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md",{"mx-search 2026-07-12":"功率半导体最新事件（腾睿微破产/SiC深度研究/行业洗牌）"},{"mx-search 2026-07-13":"功率半导体涨价潮/交货30周+/AI挤占产能>30%"},{"mx-search 2026-07-14":"涨价潮延续至2027，5家中国厂商进全球前20，英飞凌首发300mm GaN"},{"mx-search 2026-07-13":"涨价潮—华润微/士兰微全品类涨15%+，近20家密集调价，持续至2027"}]}}
+{"dg-publish":true,"permalink":"/concepts/power-semiconductor/","title":"功率半导体","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"dg-note-properties":{"title":"功率半导体","slug":"power-semiconductor","created":"2026-07-01","updated":"2026-07-16","type":"concept","tags":["功率半导体","IGBT","MOSFET","SiC","半导体","国产替代"],"sources":["reports/260701/功率半导体_行业分析_260701.md",{"mx-search 2026-07-12":"功率半导体最新事件（腾睿微破产/SiC深度研究/行业洗牌）"},{"mx-search 2026-07-13":"功率半导体涨价潮/交货30周+/AI挤占产能>30%"},{"mx-search 2026-07-14":"涨价潮延续至2027，5家中国厂商进全球前20，英飞凌首发300mm GaN"},{"mx-search 2026-07-13":"涨价潮—华润微/士兰微全品类涨15%+，近20家密集调价，持续至2027"}]}}
 ---
 
 
@@ -78,6 +78,9 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-14 | mx-search | 开源晨会：功率半导体2031年突破413亿美元（CAGR 7.1%），数据中心电源为核心引擎，SiC/GaN占比达31% |
+| 2026-07-15 | mx-search | 2025年中国功率半导体市场1871亿元（+12%），SiC/GaN突破320亿元增速最猛，国产自给率提升 |
+| 2026-07-14 | mx-search | IPO申报密集出现SiC/GaN内容——超结MOSFET/沟槽栅IGBT加速迭代，国产替代进入深水区 |
 | 2026-07-13 | mx-search | 🔥 功率半导体涨价潮：华润微/士兰微涨15%+，斯达半导IGBT/SiC MOSFET涨15%+，AI挤占晶圆产能超30% |
 | 2026-07-13 | mx-search/经济观察报 | 🔥 功率半导体涨价潮温和但具持续性，预计延续至2027年；AI数据中心+新能源800V+8英寸产能收缩三轮驱动 |
 | 2026-07-13 | mx-search/开源证券 | Yole预测2031年功率半导体市场413亿美元；5家中国厂商进全球前20（华润微第九/士兰微第十） |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/sic-supply-chain/","title":"碳化硅(SiC)产业链","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"dg-note-properties":{"title":"碳化硅(SiC)产业链","created":"2026-06-22","updated":"2026-07-15","type":"concept","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"sources":[{"mx-search 2026-06-22":"SiC概念股全产业链搜索"},{"mx-search 2026-07-01":"8英寸SiC量产梯队全景"},{"mx-search 2026-07-12":"碳化硅产业链最新动态（3条，行业报告/边缘相关）"},{"entities/002617.md":"露笑科技"},"concepts/solid-state-transformer.md","concepts/800v-hvdc.md",{"mx-search 2026-07-13":"SiC需求向\"新能源+AI算力\"双轮升级/国产首款100%自主SiC逆变器下线"},{"mx-search 2026-07-14":"国产首款100%自主SiC逆变器下线，SiC从新能源单轮到新能源+AI双轮驱动"},{"mx-search 2026-07-14":"国产SiC车规级国产化率升至25%，天科合达冲击IPO"},{"知识星球 topic=14422154481452152":"独家—6英寸SiC基板价格触底回暖"}]}}
+{"dg-publish":true,"permalink":"/concepts/sic-supply-chain/","title":"碳化硅(SiC)产业链","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"dg-note-properties":{"title":"碳化硅(SiC)产业链","created":"2026-06-22","updated":"2026-07-16","type":"concept","tags":["SiC","碳化硅","第三代半导体","产业链","8英寸量产"],"sources":[{"mx-search 2026-06-22":"SiC概念股全产业链搜索"},{"mx-search 2026-07-01":"8英寸SiC量产梯队全景"},{"mx-search 2026-07-12":"碳化硅产业链最新动态（3条，行业报告/边缘相关）"},{"entities/002617.md":"露笑科技"},"concepts/solid-state-transformer.md","concepts/800v-hvdc.md",{"mx-search 2026-07-13":"SiC需求向\"新能源+AI算力\"双轮升级/国产首款100%自主SiC逆变器下线"},{"mx-search 2026-07-14":"国产首款100%自主SiC逆变器下线，SiC从新能源单轮到新能源+AI双轮驱动"},{"mx-search 2026-07-14":"国产SiC车规级国产化率升至25%，天科合达冲击IPO"},{"知识星球 topic=14422154481452152":"独家—6英寸SiC基板价格触底回暖"}]}}
 ---
 
 
@@ -283,6 +283,9 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-14 | mx-search | 国产SiC价格低30-40%、交付周期缩短50%，8英寸衬底量产推动年均降价20-30%，2027-2028年SiC MOSFET超IGBT |
+| 2026-07-15 | mx-search | 晶盛机电：年产60万片8英寸SiC衬底项目加速投产，马来西亚8英寸产线同步推进（2026年底通线） |
+| 2026-07-16 | mx-search | 宏微科技：车规级全SiC模块出货稳步提升，嵌入式封装SiC芯片研发推进中 |
 | 2026-07-14 | 知识星球/mx-search | 🔥 独家：6英寸SiC基板价格触底回暖增量需加价，天岳/天科合获博世英飞凌长单，天科合达冲击IPO |
 | 2026-07-12 | mx-search/行业资讯 | 国产首款100%自主化碳化硅逆变器下线；SiC逆变器效率提升5%-8%，续航增加约10% |
 | 2026-07-12 | mx-search/开源证券 | 碳化硅从新能源单轮驱动到"新能源+AI算力"双轮升级；8英寸衬底国内产线仍爬坡 |
