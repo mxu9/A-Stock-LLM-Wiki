@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-13 | Total pages: 197 | 168 entities + 27 concepts + 2 comparisons
+> Last updated: 2026-07-13 | Total pages: 200 | 171 entities + 27 concepts + 2 comparisons
 
-## Entities (个股) — 168 stocks
+## Entities (个股) — 171 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -137,6 +137,9 @@ dg-publish: true
 | [[002422]] 🆕 | 科伦药业 | — |
 | [[600276]] 🆕 | 恒瑞医药 | — |
 | [[688235]] 🆕 | 百济神州 | — |
+| [[603259]] 🆕 | 药明康德 | — |
+| [[688192]] 🆕 | 迪哲医药 | — |
+| [[603127]] 🆕 | 昭衍新药 | — |
 | [[688331]] 🆕 | 荣昌生物 | — |
 | [[688506]] 🆕 | 百利天恒 | — |
 | [[01801-HK]] 🆕 | 信达生物(HK) | — |
