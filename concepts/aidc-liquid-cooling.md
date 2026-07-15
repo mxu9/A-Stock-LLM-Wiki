@@ -2,10 +2,11 @@
 title: AIDC液冷产业链
 slug: aidc-liquid-cooling
 created: 2026-06-17
-updated: 2026-07-16
+updated: 2026-07-15
 type: concept
 tags: [液冷, 产业链, AIDC, 数据中心散热, 冷板, 浸没式]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260715.md
   - reports/260701/AIDC产业链_行业分析_260701.md
   - mx-search 2026-07-01: AIDC液冷全搜索
   - raw/reports/250618/AIDC液冷产业链_行业分析_250618.md
@@ -114,6 +115,7 @@ dg-publish: true
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-15 | zsxq | 集智股份液冷方管自动校直机卡位全球液冷龙头上游，Manifold分水器校直为核心设备 (国联民生) |
 | 2026-07-14 | mx-search | 全球液冷需求持续增长，芯片→液冷量价齐升，光模块→cage液冷应用增加 |
 | 2026-07-15 | mx-search | 冷板液冷技术成熟已进入批量部署与订单兑现期，浸没式仍在验证 |
 | 2026-07-15 | mx-search | 通信周报：AIDC散热持续高景气，海外光模块及液冷公司财报已体现强劲需求 |
