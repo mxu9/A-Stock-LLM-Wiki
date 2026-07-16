@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-16","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"},{"mx-search 2026-07-14":"中金—2026液冷放量元年全球市场1147亿+273%，3条投资主线"}]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-15","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/ZSXQ/知识星球_摘要_260715.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"},{"mx-search 2026-07-14":"中金—2026液冷放量元年全球市场1147亿+273%，3条投资主线"}]}}
 ---
 
 
@@ -98,6 +98,7 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-15 | zsxq | 集智股份液冷方管自动校直机卡位全球液冷龙头上游，Manifold分水器校直为核心设备 (国联民生) |
 | 2026-07-14 | mx-search | 全球液冷需求持续增长，芯片→液冷量价齐升，光模块→cage液冷应用增加 |
 | 2026-07-15 | mx-search | 冷板液冷技术成熟已进入批量部署与订单兑现期，浸没式仍在验证 |
 | 2026-07-15 | mx-search | 通信周报：AIDC散热持续高景气，海外光模块及液冷公司财报已体现强劲需求 |
