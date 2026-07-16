@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-16
+updated: 2026-07-17
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -111,6 +111,9 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-16 | 东方财富证券 | SemiAnalysis预测数据中心电力需求从2026年21GW增至2030年84GW |
+| 2026-07-14 | 招商证券 | 先进封装市场空间从2024年$80亿增至2030年$285亿 |
+| 2026-07-14 | 新闻 | AI推理芯片和训练芯片区别：NVIDIA B200 FP4算力达4.5PFLOPS |
 | 2026-07-15 | mx-search | SemiAnalysis回应KIS下调SK海力士盈利预测，维持DRAM强劲看多立场 |
 | 2026-07-15 | mx-search | SemiAnalysis创始人万字对话：存储还有翻倍空间，CPO落地推迟至2029年，Anthropic ARR已超600亿美元 |
 | 2026-07-14 | mx-search | SemiAnalysis点赞英伟达vLLM推理优化，指出AMD在部分模型支持上仍有较大追赶空间 |

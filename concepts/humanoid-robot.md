@@ -1,7 +1,7 @@
 ---
 title: 人形机器人
 created: 2026-06-17
-updated: 2026-07-15
+updated: 2026-07-17
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260715.md
   - reports/ZSXQ/知识星球_摘要_260704.md
@@ -27,6 +27,7 @@ sources:
   - raw/reports/260615/宏桥控股_全面分析_260615.md
   - mx-search 2026-07-12: 人形机器人
   - mx-search 2026-07-15: 工信部预计今年整机产量破10万台，Q1出口+210%，全球首例远程手术，小米工业验证
+  - mx-search 2026-07-17: 智元第15000台下线；优必选U1超仿生11.98万起；全球格斗联赛揭幕
 dg-publish: true
 ---
 
