@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-13 | Total pages: 202 | 173 entities + 27 concepts + 2 comparisons
+> Last updated: 2026-07-17 | Total pages: 204 | 174 entities + 28 concepts + 2 comparisons
 
-## Entities (个股) — 173 stocks
+## Entities (个股) — 174 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -19,6 +19,11 @@
 | [[entities/002837\|002837]] 🆕 | 英维克 | — |
 | [[entities/300249\|300249]] 🆕 | 依米康 | — |
 | [[entities/300499\|300499]] 🆕 | 高澜股份 | — |
+
+### AI应用/数据智能
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[entities/300766\|300766]] 🆕 | 每日互动 | 1 |
 
 ### 氦气/电子特气
 | 代码 | 名称 | 报告数 |
@@ -241,10 +246,11 @@
 | [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 27 topics
+## Concepts (行业/概念/产业链) — 28 topics
 
 - [[concepts/byte-ai-power\|byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[concepts/helium\|helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
+- [[concepts/deepseek-ecosystem\|deepseek-ecosystem]] 🆕 — DeepSeek生态（唯一A股映射+国产算力+V4正式版上线催化）
 - [[concepts/800v-hvdc\|800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[concepts/solid-state-transformer\|solid-state-transformer]] — 固态变压器(SST)

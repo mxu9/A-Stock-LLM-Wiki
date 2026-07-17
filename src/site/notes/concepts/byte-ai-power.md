@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-16","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"}]}}
+{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-17","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
 ---
 
 
@@ -95,6 +95,8 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-16 | 金元证券/新闻 | 🔥 字节AI Rack 3.0发布：单机柜500KW/双柜1MW，800V HVDC+100%全液冷，可容纳576颗XPU |
+| 2026-07-14 | 新闻 | Meta路易斯安那数据中心扩至5GW，累计投资超$500亿；字节考虑2026年Capex提至$700亿 |
 | 2026-07-14 | mx-search | 东吴证券半年度策略：AIDC直流化趋势确立，字节首次采用800V HVDC方案，麦米进度最快，国内SST显著领先海外 |
 | 2026-07-14 | mx-search | 字节/Meta加码AI算力，CAPEX评估700亿美元，台积电2纳米量产 |
 | 2026-07-14 | mx-search/搜狐 | 字节AI Rack3.0亮相OCP峰会：800V HVDC+100%全液冷，双柜兆瓦级，576颗XPU |

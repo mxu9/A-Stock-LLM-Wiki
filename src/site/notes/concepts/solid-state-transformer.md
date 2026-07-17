@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-16","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布3MW/98.5%，与阿里云联合创新中心，台达/金盘等密集推新品"}]}}
+{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-17","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布3MW/98.5%，与阿里云联合创新中心，台达/金盘等密集推新品"},{"mx-search 2026-07-17":"国电南瑞发布四款SST；道通科技锚定2027量产；华润微SiC切入SST供应链"}]}}
 ---
 
 
@@ -431,6 +431,9 @@ SiC MOSFET模块(基本半导体/英飞凌) → SSCB整机(良信/赛晶) → SS
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-16 | 新闻 | 阳光电源/奥海科技密集披露SST研发进展，奥海完成SST→HVDC→PSU全链路布局 |
+| 2026-07-16 | 新闻 | 道通科技将SST 2027量产列为股票激励核心目标；华润微SiC切入SST供应链获备货订单 |
+| 2026-07-16 | 新闻 | 🔥 国电南瑞发布"瑞磐/瑞霆/瑞融/瑞枢"四款SST，匹配AIDC/超充站/新能源/智能电网 |
 | 2026-07-14 | mx-search | 🔥 阳光电源EnerNeo SST发布(3MW/98.5%)，与阿里云揭牌联合创新中心，SST用SiC MOSFET实现10kV→800V一步转换 |
 | 2026-07-13 | mx-search/平安证券 | 🔥 阳光电源EnerNeo SST：3MW/98.5%效率，与东阳光(30MW)/中联数据(100MW)签框架协议，2027年批量交付 |
 | 2026-07-13 | mx-search/行业资讯 | 微软/AWS/阿里云/腾讯/字节/百度出席SST发布会；与阿里云成立绿色Token联合创新中心 |

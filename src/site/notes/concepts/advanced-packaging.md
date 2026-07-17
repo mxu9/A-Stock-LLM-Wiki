@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-07-03","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
+{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-07-16","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
 ---
 
 
