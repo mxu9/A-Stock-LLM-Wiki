@@ -1,7 +1,7 @@
 ---
 title: 800V HVDC 高压直流供电
 created: 2026-06-17
-updated: 2026-07-17
+updated: 2026-07-18
 type: concept
 tags: [HVDC, 产业链, 电力设备]
 sources:
@@ -412,6 +412,8 @@ dg-publish: true
 | 07-10 | 电子发烧友 | SST定位800V直流母线终局前端，与SSCB、800V电源构成三大支柱 |
 | 07-09 | 野村东方国际 | 研报看好AI电源投资机遇，字节Rack3.0带动HVDC国内订单释放预期 |
 | 07-09 | ZSXQ | OCP开放计算中国峰会讨论800V HVDC进展 |
+| 2026-07-17 | mx-search | 野村东方国际：AI电源三条投资主线，800V HVDC供电架构升级(灰白区融合) |
+| 2026-07-17 | mx-search | 东北证券：SST为AIDC供电革新核心载体，HVDC效率>95%，英伟达Kyber体积减26% |
 
 ## 相关报告
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`

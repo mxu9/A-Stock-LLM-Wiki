@@ -3,7 +3,7 @@ dg-publish: true
 title: 字节AI电源
 slug: byte-ai-power
 created: 2026-07-12
-updated: 2026-07-17
+updated: 2026-07-18
 type: concept
 tags: [字节跳动, AIDC, 800V HVDC, SST, 液冷, AI电源, 英伟达]
 sources:
@@ -115,6 +115,8 @@ sources:
 | 07-12 | mx-search | 🔥 DeepSeek V4系列首次在国产芯片完成万亿参数训练，华为昇腾等8家厂商Day 0适配 |
 | 07-12 | 国金证券 | 字节Seedream 5.0 Pro发布，联合中兴努比亚推出"豆包AI智能体手机" |
 | 07-10 | mx-search | 🔥 字节跳动AIRack3.0亮相OCP峰会：800V HVDC+100%全液冷，双柜集群1MW/576颗XPU |
+| 2026-07-17 | mx-search | 英伟达Blackwell GPU训练比Hopper快2.2倍，五大科技企业AI资本支出2025年预计2820亿美元 |
+| 2026-07-18 | mx-search | 苹果与英伟达角逐全球市值冠军(英伟达4.84万亿 vs 苹果4.88万亿) |
 
 ## 📋 相关报告
 

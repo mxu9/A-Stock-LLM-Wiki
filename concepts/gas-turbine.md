@@ -1,7 +1,7 @@
 ---
 title: 燃气轮机
 created: 2026-06-17
-updated: 2026-07-17
+updated: 2026-07-18
 type: concept
 tags: [燃气轮机, 军工]
 sources:

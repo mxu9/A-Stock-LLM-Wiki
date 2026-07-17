@@ -1,7 +1,7 @@
 ---
 title: GW星座（中国星网）
 created: 2026-06-28
-updated: 2026-07-17
+updated: 2026-07-18
 type: concept
 tags: [商业航天, 卫星互联网, 6G, 军工]
 sources:

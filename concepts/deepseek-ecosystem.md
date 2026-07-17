@@ -3,7 +3,7 @@ dg-publish: true
 title: DeepSeek生态
 slug: deepseek-ecosystem
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 type: concept
 tags: [概念, AI, DeepSeek, 大模型]
 sources:
@@ -14,6 +14,14 @@ sources:
 # 🧠 DeepSeek生态
 
 > DeepSeek作为中国推理大模型之光，已与GPT-4o/Claude-3.5性能比肩。V4系列在国产芯片完成万亿参数训练，7月中旬正式版上线+API峰谷定价翻倍，生态链辐射A股多只标的。
+
+## 📡 最新事件追踪 (更新于 2026-07-18)
+
+| 日期 | 来源 | 事件摘要 |
+|------|------|----------|
+| 2026-07-17 | mx-search | DeepSeek V4正式版即将上线(推理计算量仅前代27%/百万token上下文)，年化营收逼近5亿美元，考虑科创板上市 |
+| 2026-07-16 | mx-search | 每日互动募集说明书提及DeepSeek大模型开源生态降低AI开发部署成本 |
+| 2026-07-17 | mx-search | 中信建投AI产业全景图谱提及DeepSeek国产部署拉动AI服务器需求 |
 
 ## 📊 行业概览
 

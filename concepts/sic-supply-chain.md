@@ -1,7 +1,7 @@
 ---
 title: 碳化硅(SiC)产业链
 created: 2026-06-22
-updated: 2026-07-17
+updated: 2026-07-18
 type: concept
 tags: [SiC, 碳化硅, 第三代半导体, 产业链, 8英寸量产]
 sources:
