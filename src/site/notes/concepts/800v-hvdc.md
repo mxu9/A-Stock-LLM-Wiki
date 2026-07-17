@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-17","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"},{"mx-search 2026-07-13":"字节确认800V路线/中信建投缺电产业链/固态断路器刚需"},{"mx-search 2026-07-14":"800V快充下探10万级，比亚迪元PLUS闪充5分钟，长安启源Q06搭载800V SiC 6C"},{"mx-search 2026-07-15":"2026新车800V成标配，腾势Z/问界M6/海狮06 EV等密集发布"},{"mx-search 2026-07-17":"零跑/别克/长安密集发布800V车型；电子元件报告800V高压元件价值量提升40-70%"}]}}
+{"dg-publish":true,"permalink":"/concepts/800v-hvdc/","title":"800V HVDC 高压直流供电","tags":["HVDC","产业链","电力设备"],"dg-note-properties":{"title":"800V HVDC 高压直流供电","created":"2026-06-17","updated":"2026-07-18","type":"concept","tags":["HVDC","产业链","电力设备"],"sources":["raw/articles/离 GPU 最近的最后一厘米：为什么供电正在成为芯片的终极瓶颈-电源大能的文章.md","raw/articles/800V HVDC 砖块电源技术深度解析：从物理定律到工程实现-电源大能的文章.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/260616/锐明vs中熔vs明阳_HVDC三股对比_260616.md","raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md","raw/reports/ZSXQ/知识星球_摘要_260617.md","raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/250618/对日替代_星球追踪_250618.md","raw/reports/260615/宏桥控股_全面分析_260615.md","raw/reports/260615/麦格米特_全面分析_260615.md",{"mx-search 2026-07-12":"800V HVDC最新事件追踪（中信建投缺电产业链+固态断路器+国金SST）"},{"mx-search 2026-07-13":"字节确认800V路线/中信建投缺电产业链/固态断路器刚需"},{"mx-search 2026-07-14":"800V快充下探10万级，比亚迪元PLUS闪充5分钟，长安启源Q06搭载800V SiC 6C"},{"mx-search 2026-07-15":"2026新车800V成标配，腾势Z/问界M6/海狮06 EV等密集发布"},{"mx-search 2026-07-17":"零跑/别克/长安密集发布800V车型；电子元件报告800V高压元件价值量提升40-70%"}]}}
 ---
 
 
@@ -391,6 +391,8 @@
 | 07-10 | 电子发烧友 | SST定位800V直流母线终局前端，与SSCB、800V电源构成三大支柱 |
 | 07-09 | 野村东方国际 | 研报看好AI电源投资机遇，字节Rack3.0带动HVDC国内订单释放预期 |
 | 07-09 | ZSXQ | OCP开放计算中国峰会讨论800V HVDC进展 |
+| 2026-07-17 | mx-search | 野村东方国际：AI电源三条投资主线，800V HVDC供电架构升级(灰白区融合) |
+| 2026-07-17 | mx-search | 东北证券：SST为AIDC供电革新核心载体，HVDC效率>95%，英伟达Kyber体积减26% |
 
 ## 相关报告
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`

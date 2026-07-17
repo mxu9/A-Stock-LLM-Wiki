@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-17","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-18","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
 ---
 
 
@@ -105,6 +105,8 @@
 | 07-12 | mx-search | 🔥 DeepSeek V4系列首次在国产芯片完成万亿参数训练，华为昇腾等8家厂商Day 0适配 |
 | 07-12 | 国金证券 | 字节Seedream 5.0 Pro发布，联合中兴努比亚推出"豆包AI智能体手机" |
 | 07-10 | mx-search | 🔥 字节跳动AIRack3.0亮相OCP峰会：800V HVDC+100%全液冷，双柜集群1MW/576颗XPU |
+| 2026-07-17 | mx-search | 英伟达Blackwell GPU训练比Hopper快2.2倍，五大科技企业AI资本支出2025年预计2820亿美元 |
+| 2026-07-18 | mx-search | 苹果与英伟达角逐全球市值冠军(英伟达4.84万亿 vs 苹果4.88万亿) |
 
 ## 📋 相关报告
 
