@@ -1,5 +1,6 @@
 ## concepts (概念)
 - [[byte-ai-power]] 🆕
+- [[deepseek-ecosystem]] 🆕
 - [[800v-hvdc]]
 - [[aidc-supply-chain]]
 - [[aidc-liquid-cooling]]
