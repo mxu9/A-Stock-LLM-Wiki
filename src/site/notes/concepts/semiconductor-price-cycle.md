@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-07-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md"]}}
+{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-07-17","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md"]}}
 ---
 
 
@@ -22,7 +22,8 @@ IC设计（联发科SoC/PMIC涨价10-15%）
 ## 核心标的
 
 | 环节 | 标的 | 代码 | 动态 |
-|------|------|------|------|
+|------|------|------|
+| 2026-07-17 | 三星2655万亿韩元+SK海力士1100万亿韩元中长期投资，存储与逻辑扩产共振；半导体设备景气度无虞 | [[reports/ZSXQ/知识星球_摘要_260717\|知识星球_摘要_260717]] |------|
 | **晶圆代工** | 台积电 | TSM | 7nm及以下全线涨价5-10%，定价权重回供给端 |
 | **晶圆代工** | 中芯国际 | 688981 | 受益涨价周期 |
 | **IC设计** | 联发科 | 2454.TW | SoC/PMIC涨价10-15% |

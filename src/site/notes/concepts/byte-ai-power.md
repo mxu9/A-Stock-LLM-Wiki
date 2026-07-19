@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-18","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-19","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
 ---
 
 
@@ -18,6 +18,8 @@
 
 | 日期 | 事件 | 影响 |
 |------|------|:--:|
+| 2026.7.18 | 欣旺达"麒麟舱"、阳光电源"iPowerCore"被字节跳动选为火山引擎智算基地储能伙伴 | 🟢🟢 |
+| 2026.7.17 | 野村东方国际周报—字节AI Rack 3.0采用800V HVDC+全液冷，看好AI电源产业链国内订单释放，推荐科达利/雷赛智能 | 🟢🟢 |
 | **2026.7.9** | 🔥 **字节 AI Rack 3.0 发布**：800V HVDC+100%全液冷，单柜500kW/双柜1MW | 🟢🟢🟢 转折点 |
 | 2026.7.9 | 阳光电源首发 EnerNeo SST，98.5%效率，字节/阿里/腾讯到场 | 🟢🟢 |
 | 2026.7.10 | 野村东方/中信建投/国泰海通/东北计算机 集体 call AI 电源 | 🟢🟢 |

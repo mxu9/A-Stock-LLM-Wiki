@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/lithium-carbonate/","title":"碳酸锂板块","tags":["碳酸锂","产业链"],"dg-note-properties":{"title":"碳酸锂板块","created":"2026-06-17","updated":"2026-07-01","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["碳酸锂","产业链"],"sources":["raw/reports/ZSXQ/知识星球_摘要_260629.md"]}}
+{"dg-publish":true,"permalink":"/concepts/lithium-carbonate/","title":"碳酸锂板块","tags":["碳酸锂","产业链"],"dg-note-properties":{"title":"碳酸锂板块","created":"2026-06-17","updated":"2026-07-17","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["碳酸锂","产业链"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md"]}}
 ---
 
 
