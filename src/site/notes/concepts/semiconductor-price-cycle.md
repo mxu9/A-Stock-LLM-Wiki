@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-07-17","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md"]}}
+{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-07-20","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md",{"mx-search 2026-07-19/20":"台积电上修指引+存储合约涨价，美光毛利率84.6%创纪录但涨价逻辑预警见顶"}]}}
 ---
 
 
@@ -78,6 +78,18 @@ IC设计（联发科SoC/PMIC涨价10-15%）
 
 - JSR拟台湾设厂，国产KrF/ArF加速验证
 - AI服务器带动EUV光刻胶需求放量
+
+## 🆕 7/20 最新动态
+
+| 事件 | 影响 |
+|------|------|
+| **美光毛利率84.6%创纪录** | 🔥 存储牛市上半场已落幕，涨价逻辑走到尽头预警信号 |
+
+## 🆕 7/19 最新动态
+
+| 事件 | 影响 |
+|------|------|
+| **台积电大幅上修全年收入与CAPEX指引** | 存储大厂合约开启涨价，供给端减产效应显现 |
 
 ## 关联概念
 - [[concepts/mlcc-capacitor\|mlcc-capacitor]]

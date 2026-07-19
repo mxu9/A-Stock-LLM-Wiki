@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-19","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"},{"mx-search 2026-07-14":"中金—2026液冷放量元年全球市场1147亿+273%，3条投资主线"},{"mx-search 2026-07-17":"中金：2026液冷放量元年(全球1147亿+273%)；英伟达Vera Rubin 100%全液冷"}]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-07-20","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"},{"mx-search 2026-07-14":"中金—2026液冷放量元年全球市场1147亿+273%，3条投资主线"},{"mx-search 2026-07-17":"中金：2026液冷放量元年(全球1147亿+273%)；英伟达Vera Rubin 100%全液冷"},{"mx-search 2026-07-18/19":"海尔磁悬浮CDU一体机发布，杰瑞WAIC展示液冷CDU(PUE 1.15)，长江证券军转民AI报告"}]}}
 ---
 
 
@@ -95,10 +95,12 @@
 | 2027 | 超节点架构→光模块液冷市场打开(53% CAGR) | 第二增长曲线 |
 | 2028+ | 浸没式液冷从概念验证→规模商用 | 技术路线升级 |
 
-## 📡 最新事件追踪 (更新于 2026-07-19)
+## 📡 最新事件追踪 (更新于 2026-07-20)
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| **2026-07-19** | 海尔/长江证券 | 🔥 海尔磁悬浮CDU一体机发布AI智算全栈冷却方案；长江证券：液冷受益于AIDC景气上行 |
+| **2026-07-18** | WAIC 2026 | 杰瑞液冷CDU覆盖30kW-2.4MW，PUE可降至1.15 |
 | 2026-07-18 | mx-search | WAIC杰瑞一体化方案—液冷换热组件自研生产，适配200kW机柜 |
 | 2026-07-17 | mx-search | 中金下半年展望—汽车零部件转型液冷，飞龙22kw水泵已切入海外液冷供应链 |
 | 2026-07-17 | mx-search | 超聚变IPO回复—100%原生冷板液冷技术，全链路液冷 |

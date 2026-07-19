@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/japan-substitution/","title":"对日替代","tags":["对日替代","产业链"],"dg-note-properties":{"title":"对日替代","created":"2026-06-17","updated":"2026-07-16","type":"concept","tags":["对日替代","产业链"],"sources":["raw/articles/对日替代五大方向-20260619.md","raw/reports/250618/对日替代_星球追踪_250618.md"]}}
+{"dg-publish":true,"permalink":"/concepts/japan-substitution/","title":"对日替代","tags":["对日替代","产业链"],"dg-note-properties":{"title":"对日替代","created":"2026-06-17","updated":"2026-07-20","type":"concept","tags":["对日替代","产业链"],"sources":["raw/articles/对日替代五大方向-20260619.md","raw/reports/250618/对日替代_星球追踪_250618.md",{"mx-search 2026-07-19":"中信建投PCB感光干膜国产替代日本力森诺科/旭化成，光大半导体设备国产替代安全性优先"}]}}
 ---
 
 
@@ -76,5 +76,6 @@
 
 | 日期 | 更新内容 |
 |------|---------|
+| 07/20 | 中信建投：AI驱动PCB升级，感光干膜加速国产化替代日本力森诺科/旭化成；光大：半导体国产替代逻辑从成本驱动→安全性优先 |
 | 07/16 | 新增「六、农化方向」广信股份(603599) PE 13.9x+PB 0.90破净 |
 
