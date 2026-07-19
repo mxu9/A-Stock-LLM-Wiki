@@ -1,7 +1,7 @@
 ---
 title: HBM存储产业链
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-20
 type: concept
 tags: [HBM, 产业链, 电子]
 sources:
@@ -14,6 +14,7 @@ sources:
   - raw/reports/260616/东阳光_全面分析_260616.md
   - raw/reports/260616/800V HVDC_行业分析_260616.md
   - raw/reports/ZSXQ/知识星球_摘要_250616.md
+  - mx-search 2026-07-18/20: 华强北DDR5暴涨300%，国联民生Token经济学(HBM4商用)，国金电子国产HBM突破
 dg-publish: true
 ---
 
@@ -176,3 +177,10 @@ dg-publish: true
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`
 - `raw/reports/ZSXQ/知识星球_摘要_250616.md`
 
+## 📡 最新事件追踪 (更新于 2026-07-20)
+
+| 日期 | 来源 | 事件摘要 |
+|------|------|----------|
+| **2026-07-20** | mx-search | 华强北DDR5/SSD价格暴涨超三倍，存储超级周期确认，HBM供应链稀有金属逻辑强化 |
+| **2026-07-19** | 国联民生/国金证券 | 国联民生：HBM产业链是确定性最高赛道，HBM4逐步商用；国金电子：国产HBM已取得突破 |
+|

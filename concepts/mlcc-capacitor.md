@@ -1,7 +1,7 @@
 ---
 title: MLCC/被动元件产业链
 created: 2026-06-25
-updated: 2026-07-04
+updated: 2026-07-20
 type: concept
 tags: [被动元件, 电子, 产业链, 涨价]
 sources_zsxq:
@@ -10,6 +10,7 @@ sources_zsxq:
 sources:
   - raw/reports/ZSXQ/知识星球_摘要_260625.md
   - raw/reports/ZSXQ/知识星球_摘要_260629.md
+  - mx-search 2026-07-18/19: 国瓷材料AI算力驱动MLCC 236→1116亿颗(2030)，昀冢科技/斯迪克投资高端MLCC项目
 dg-publish: true
 ---
 
@@ -38,6 +39,12 @@ dg-publish: true
 | **MLCC制造商** | 法拉电子 | [[600563]] | 薄膜电容龙头，MLCC涨价周期受益 |
 | **上游粉体** | 国瓷材料 | [[300285]] | MLCC钛酸钡粉体国内八成份额，成本比日本低30% |
 | **上游材料** | 黑猫股份 | — | 导电炭黑受益超级电容需求 |
+
+## 🆕 7/19 最新动态
+
+| 事件 | 详情 |
+|------|------|
+| **国瓷材料/国金证券 MLCC深度** | 国瓷材料：AI服务器MLCC需求量从236亿→1116亿颗(2030)；昀冢科技/斯迪克投资建设MLCC高端项目 |
 
 ## 关联概念
 - [[semiconductor-price-cycle]]
