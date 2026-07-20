@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-19","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"},{"mx-search 2026-07-14":"SemiAnalysis看多SK海力士—DRAM ASP环比+45-60%，推动ADR夜盘大涨7%"}]}}
+{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-21","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"},{"mx-search 2026-07-14":"SemiAnalysis看多SK海力士—DRAM ASP环比+45-60%，推动ADR夜盘大涨7%"}]}}
 ---
 
 
@@ -95,6 +95,9 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-20 | zsxq | 知识星球：SemiAnalysis相关讨论(topic=82255481411242822) |
+| 2026-07-20 | mx-search | Anthropic被曝测试AMD GPU，SemiAnalysis从AMD高管代码中发现Anthropic将成为新客户 |
+| 2026-07-19 | mx-search | SemiAnalysis评Kimi K3的KDA机制：效率提升反而加剧GPU/HBM/DRAM/网络需求(杰文斯悖论) |
 | 2026-07-19 | zsxq | Kimi K3对产业的积极意义-0719 ❶架构创新和数据质量打造国产模型新标杆： 1）K3定位2.8T开源通用模型，主攻长程编程、Reasoning推理、知识工作和视觉理解等，在Artific... |
 | 2026-07-17 | mx-search | WAIC 2026开幕—曙光8000（登峰）全国产十万卡AI超集群全球首秀；华为Atlas 950 SuperPoD（8192颗昇腾950） |
 | 2026-07-16 | mx-search | 海通国际：功率半导体年内第二轮涨价潮；AI机架功率密度三年三级跳(200kW→500kW→1MW)；800V HVDC成供电新标准 |
