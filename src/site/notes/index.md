@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-17 | Total pages: 204 | 174 entities + 28 concepts + 2 comparisons
+> Last updated: 2026-07-20 | Total pages: 205 | 175 entities + 28 concepts + 2 comparisons
 
-## Entities (个股) — 174 stocks
+## Entities (个股) — 175 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -192,6 +192,7 @@
 |------|------|--------|
 | [[entities/002714\|002714]] 🆕 | 牧原股份 | — |
 | [[entities/300498\|300498]] 🆕 | 温氏股份 | — |
+| [[entities/02419\|02419]] 🆕 | 德康农牧 | 1 |
 
 ### 机械设备/燃气轮机
 | 代码 | 名称 | 报告数 |
