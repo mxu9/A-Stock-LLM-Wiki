@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-19
+updated: 2026-07-21
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -111,6 +111,9 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-20 | zsxq | 知识星球：SemiAnalysis相关讨论(topic=82255481411242822) |
+| 2026-07-20 | mx-search | Anthropic被曝测试AMD GPU，SemiAnalysis从AMD高管代码中发现Anthropic将成为新客户 |
+| 2026-07-19 | mx-search | SemiAnalysis评Kimi K3的KDA机制：效率提升反而加剧GPU/HBM/DRAM/网络需求(杰文斯悖论) |
 | 2026-07-19 | zsxq | Kimi K3对产业的积极意义-0719 ❶架构创新和数据质量打造国产模型新标杆： 1）K3定位2.8T开源通用模型，主攻长程编程、Reasoning推理、知识工作和视觉理解等，在Artific... |
 | 2026-07-17 | mx-search | WAIC 2026开幕—曙光8000（登峰）全国产十万卡AI超集群全球首秀；华为Atlas 950 SuperPoD（8192颗昇腾950） |
 | 2026-07-16 | mx-search | 海通国际：功率半导体年内第二轮涨价潮；AI机架功率密度三年三级跳(200kW→500kW→1MW)；800V HVDC成供电新标准 |

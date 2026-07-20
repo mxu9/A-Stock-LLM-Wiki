@@ -2,7 +2,7 @@
 title: AIDC液冷产业链
 slug: aidc-liquid-cooling
 created: 2026-06-17
-updated: 2026-07-20
+updated: 2026-07-21
 type: concept
 tags: [液冷, 产业链, AIDC, 数据中心散热, 冷板, 浸没式]
 sources:

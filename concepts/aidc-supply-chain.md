@@ -2,7 +2,7 @@
 title: AIDC 产业链
 slug: aidc-supply-chain
 created: 2026-07-01
-updated: 2026-07-19
+updated: 2026-07-21
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260716.md
   - reports/ZSXQ/知识星球_摘要_260715.md
