@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-21 | Total pages: 206 | 175 entities + 29 concepts + 2 comparisons
+> Last updated: 2026-07-21 | Total pages: 207 | 176 entities + 29 concepts + 2 comparisons
 
-## Entities (个股) — 175 stocks
+## Entities (个股) — 176 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -24,6 +24,7 @@
 | 代码 | 名称 | 报告数 |
 |------|------|--------|
 | [[entities/300766\|300766]] 🆕 | 每日互动 | 1 |
+| [[002432\|002432]] 🆕 | 九安医疗 | 1 |
 
 ### 氦气/电子特气
 | 代码 | 名称 | 报告数 |
@@ -252,7 +253,7 @@
 - [[concepts/byte-ai-power\|byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[concepts/helium\|helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
 - [[concepts/deepseek-ecosystem\|deepseek-ecosystem]] 🆕 — DeepSeek生态（唯一A股映射+国产算力+V4正式版上线催化）
-- [[concepts/kimi-k3-ecosystem\|kimi-k3-ecosystem]] 🆕 — Kimi K3生态（2.8万亿开源模型+九安双重映射+港股IPO催化）
+- [[concepts/kimi-k3-ecosystem\|kimi-k3-ecosystem]] 🆕 — Kimi K3生态（全球最大开源模型2.8T+Arena编程#1+月之暗面估值315亿$）
 - [[concepts/800v-hvdc\|800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[concepts/solid-state-transformer\|solid-state-transformer]] — 固态变压器(SST)
