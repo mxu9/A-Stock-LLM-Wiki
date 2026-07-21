@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["概念","医药","创新药","CXO","BD出海"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","sector":"医药","created":"2026-07-15","updated":"2026-07-21","type":"concept","tags":["概念","医药","创新药","CXO","BD出海"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/260715/创新药_行业分析_260715.md",{"mx-search 2026-07-17":"基药目录首纳16款创新药；公募扎堆举牌港股创新药；BD出海接近2024全年两倍"},{"知识星球 topic=45544285215841828":"中信建投-创新药全球临床价值兑现，26Q1对外授权超$600亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["概念","医药","创新药","CXO","BD出海"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","sector":"医药","created":"2026-07-15","updated":"2026-07-22","type":"concept","tags":["概念","医药","创新药","CXO","BD出海"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/260715/创新药_行业分析_260715.md",{"mx-search 2026-07-17":"基药目录首纳16款创新药；公募扎堆举牌港股创新药；BD出海接近2024全年两倍"},{"知识星球 topic=45544285215841828":"中信建投-创新药全球临床价值兑现，26Q1对外授权超$600亿"}]}}
 ---
 
 
@@ -90,6 +90,7 @@
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-22 | mx-search/证券日报 | 🔥 H1 38款创新药获批（国产31款占80%+），对外授权交易超1100亿美元（达2025全年八成），全球首款实体瘤CAR-T获批 |
 | 2026-07-21 | mx-search | 景顺长城创新药ETF Q2：估值近5年中位数，安全边际大；生物医药列为"新兴支柱产业" |
 | 2026-07-20 | mx-search | 🔥工信部：上半年38款创新药获批，国产31款占80%+；全球首款实体瘤CAR-T获批 |
 | 2026-07-20 | mx-search | 创新药对外技术授权上半年交易总额超1000亿美元，再创新高 |

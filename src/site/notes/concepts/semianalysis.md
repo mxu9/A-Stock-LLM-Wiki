@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-21","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"},{"mx-search 2026-07-14":"SemiAnalysis看多SK海力士—DRAM ASP环比+45-60%，推动ADR夜盘大涨7%"}]}}
+{"dg-publish":true,"permalink":"/concepts/semianalysis/","title":"SemiAnalysis 研究机构","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"dg-note-properties":{"title":"SemiAnalysis 研究机构","created":"2026-07-09","updated":"2026-07-22","type":"concept","tags":["研究机构","AI算力","HVDC","半导体","外部信源"],"sources":[{"mx-search 2026-07-13":"Anthropic估值6万亿美元/红杉专访推理超石油/CPO推迟至2028-2029"},{"mx-search":"SemiAnalysis HVDC 高压直流 数据中心"},{"mx-search":"SemiAnalysis 800VDC 推迟 2028"},{"mx-search":"SemiAnalysis HVDC Kyber 延期"},{"mx-search 2026-07-12":"SemiAnalysis AI算力 HVDC"},{"知识星球 topic=22255488218245411":"JPM Meta反馈"},{"知识星球 topic=82255488512822112":"Vera Rubin NVL72详解"},{"知识星球 topic_id=82255488512822112":"SemiAnalysis Vera Rubin NVL72"},{"知识星球 topic_id=22255488218245411":"JPM Meta反馈引用SemiAnalysis"},{"mx-search 2026-07-14":"Anthropic估值6万亿美元，长鑫2028月产能50万片，存储Capex占云30%"},{"mx-search 2026-07-14":"SemiAnalysis看多SK海力士—DRAM ASP环比+45-60%，推动ADR夜盘大涨7%"}]}}
 ---
 
 
@@ -95,6 +95,7 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-20 | mx-search/ZSXQ | AMD代码泄露显示Anthropic将成为其客户；甲骨文Project Jupiter延期1-2年影响Bloom Energy 2.8GW订单 |
 | 2026-07-20 | zsxq | 知识星球：SemiAnalysis相关讨论(topic=82255481411242822) |
 | 2026-07-20 | mx-search | Anthropic被曝测试AMD GPU，SemiAnalysis从AMD高管代码中发现Anthropic将成为新客户 |
 | 2026-07-19 | mx-search | SemiAnalysis评Kimi K3的KDA机制：效率提升反而加剧GPU/HBM/DRAM/网络需求(杰文斯悖论) |

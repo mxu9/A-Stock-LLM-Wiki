@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-21","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布3MW/98.5%，与阿里云联合创新中心，台达/金盘等密集推新品"},{"mx-search 2026-07-17":"国电南瑞发布四款SST；道通科技锚定2027量产；华润微SiC切入SST供应链"},{"mx-search 2026-07-18/19":"🔥江苏SST产业联盟78家成员成立(南瑞继保理事长)，国盛证券SST深度(2027放量拐点)，东吴阳光电源SST报告"}]}}
+{"dg-publish":true,"permalink":"/concepts/solid-state-transformer/","title":"固态变压器","tags":["固态变压器","产业链","电力设备"],"dg-note-properties":{"title":"固态变压器","created":"2026-06-17","updated":"2026-07-22","type":"concept","tags":["固态变压器","产业链","电力设备"],"sources":[{"mx-search 2026-07-13":"阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议"},{"mx-search 2026-07-12":"SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）"},"raw/articles/SST产业链全景：从功率半导体到系统集成-电源大能的文章.md","raw/reports/260613/固态变压器_行业分析_260613.md",{"mx-search 2026-06-30":"SST最新进展（6/15-22）"},{"mx-search 2026-07-14":"阳光电源EnerNeo SST发布3MW/98.5%，与阿里云联合创新中心，台达/金盘等密集推新品"},{"mx-search 2026-07-17":"国电南瑞发布四款SST；道通科技锚定2027量产；华润微SiC切入SST供应链"},{"mx-search 2026-07-18/19":"🔥江苏SST产业联盟78家成员成立(南瑞继保理事长)，国盛证券SST深度(2027放量拐点)，东吴阳光电源SST报告"}]}}
 ---
 
 
@@ -431,6 +431,7 @@ SiC MOSFET模块(基本半导体/英飞凌) → SSCB整机(良信/赛晶) → SS
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-21 | mx-search | 🔥 江苏成立全国首个省级SST产业联盟+发布行动方案，智光电气发布Coota SST整机，中科智寰DC-SST实现超400MW落地 |
 | 2026-07-20 | mx-search | 常州竞速SST新赛道，易方为光/宏微科技/创明磁性等突破核心材料与器件，首发多款产品 |
 | 2026-07-19 | mx-search | 🔥江苏成立全国首个省级SST产业联盟，发布《江苏省SST产业创新发展行动方案》 |
 | 2026-07-19 | mx-search | 国盛证券：SST是800V DC供电架构下一代方案，高频变压器为关键元器件，2027年有望批量放量 |
