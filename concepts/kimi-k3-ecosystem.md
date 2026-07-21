@@ -3,7 +3,7 @@ dg-publish: true
 title: Kimi K3生态
 slug: kimi-k3-ecosystem
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-22
 type: concept
 tags: [概念, AI, 大模型, Kimi, 月之暗面]
 sources:
@@ -87,4 +87,5 @@ sources:
 
 | 日期 | 更新内容 |
 |------|---------|
+| 07/21 | mx-search: 🔥 Kimi K3（2.8万亿参数）登顶Code Arena，暂停新用户订阅（算力紧缺），启动港股IPO，ZSXQ 5条热议 |
 | 07/21 | 新建概念页：K3 2.8T参数全球最大开源，Arena编程#1；18只A股映射分三级；月之暗面估值315亿$+ARR 3亿$ |
