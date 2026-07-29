@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/deepseek-ecosystem/","title":"DeepSeek生态","tags":["概念","AI","DeepSeek","大模型"],"dg-note-properties":{"title":"DeepSeek生态","slug":"deepseek-ecosystem","created":"2026-07-17","updated":"2026-07-22","type":"concept","tags":["概念","AI","DeepSeek","大模型"],"sources":["reports/260717/每日互动_全面分析_260717.md","知识星球 💰调研纪要 (2026/02)"]}}
+{"dg-publish":true,"permalink":"/concepts/deepseek-ecosystem/","title":"DeepSeek生态","tags":["概念","AI","DeepSeek","大模型"],"dg-note-properties":{"title":"DeepSeek生态","slug":"deepseek-ecosystem","created":"2026-07-17","updated":"2026-07-29","type":"concept","tags":["概念","AI","DeepSeek","大模型"],"sources":["reports/260717/每日互动_全面分析_260717.md","知识星球 💰调研纪要 (2026/02)"]}}
 ---
 
 
@@ -14,6 +14,13 @@
 | 日期 | 来源 | 事件摘要 |
 | 2026-07-26 | zsxq | Kimi K3排名全球第二/第三仅次于GPT-5.6和Fable 5，证明中国模型GPU受限下仍可通过工程化实现海外模型能力的80-90% |
 |------|------|----------|
+| 2026-07-29 | zsxq | 【ZY-jsj】#普联软件实控... (ZY-jsj) |
+| 2026-07-29 | zsxq | MCP协议重大升级点评-07... (星球) |
+| 2026-07-29 | zsxq | 大模型Token消耗趋势与AI... (星球) |
+| 2026-07-29 | zsxq | 📑摩根大通全球市场情报
+
+🤖科... (星球) |
+| 2026-07-29 | zsxq | 软件 逻辑叙事正悄然迭代 2... (星球) |
 | 2026-07-20 | mx-search | 🔥 DeepSeek V4即将上线，大幅提升国产芯片（华为昇腾/寒武纪）适配力度 |
 | 2026-07-21 | mx-search | 景顺长城Q2：DeepSeek-R1推动外资重估中国科技企业，恒生科技EPS增速33.8% |
 | 2026-07-20 | mx-search | DeepSeek真实估值浮出水面：开润股份公告推算约3250-3510亿元，已完成首轮510亿融资 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-22","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/byte-ai-power/","title":"字节AI电源","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"dg-note-properties":{"title":"字节AI电源","slug":"byte-ai-power","created":"2026-07-12","updated":"2026-07-29","type":"concept","tags":["字节跳动","AIDC","800V HVDC","SST","液冷","AI电源","英伟达"],"sources":[{"mx-search 2026-07-13":"字节AI Rack3.0发布/800V HVDC+100%液冷/资本开支2000亿"},{"mx-search 2026-07-14":"字节AI Rack3.0亮相OCP，800V HVDC+全液冷，双柜兆瓦级"},{"mx-search 2026-07-14":"Meta扩建AI数据中心至5GW，字节CAPEX评估提高至700亿美元"},{"mx-search 2026-07-17":"字节AI Rack 3.0发布(单机柜500KW/800V HVDC/全液冷)，资本支出或提至$700亿"}]}}
 ---
 
 
@@ -98,6 +98,8 @@
 | 日期 | 来源 | 事件摘要 |
 | 2026-07-26 | zsxq | 字节跳动：从超级App到全栈AI，生态闭环构筑长期壁垒，中信传媒深度报告 |
 |------|------|----------|
+| 2026-07-29 | zsxq | 太阳]【国金计算机&科技】德... (国金计算机&科技) |
+| 2026-07-29 | zsxq | AI漫剧专家交流要点0728—... (星球) |
 | 2026-07-20 | mx-search/国信 | 🔥 字节AI Rack 3.0：100%全液冷+800V HVDC，单机柜500KW，巴西启动200MW算力项目 |
 | 2026-07-20 | mx-search | 国盛证券深度：AI算力重塑供电架构，800VDC开启服务器电源新纪元，SiC/GaN器件成熟+电动车800V推动升级 |
 | 2026-07-19 | mx-search | 国盛证券：光宝科技800VDC供电架构(660kW→1.2MW)，麦格米特等大陆厂商800VDC电源布局 |
