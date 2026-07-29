@@ -1,7 +1,7 @@
 ---
 title: SemiAnalysis 研究机构
 created: 2026-07-09
-updated: 2026-07-22
+updated: 2026-07-29
 type: concept
 tags: [研究机构, AI算力, HVDC, 半导体, 外部信源]
 sources:
@@ -111,6 +111,14 @@ SemiAnalysis 报告直接影响以下 A 股概念板块：
 
 | 日期 | 来源 | 事件摘要 |
 |------|------|----------|
+| 2026-07-29 | zsxq | 📑摩根大通全球市场情报
+
+🤖科... (星球) |
+| 2026-07-29 | zsxq | 📰高盛中国午间（GS Chin... (星球) |
+| 2026-07-29 | zsxq | 摩根士丹利
+🏢📌SK 海力士... (星球) |
+| 2026-07-29 | zsxq | 交易台 📑[高盛销售笔记]：... (星球) |
+| 2026-07-29 | zsxq | 📑高盛组织三星存储专家闭门交流... (星球) |
 | 2026-07-20 | mx-search/ZSXQ | AMD代码泄露显示Anthropic将成为其客户；甲骨文Project Jupiter延期1-2年影响Bloom Energy 2.8GW订单 |
 | 2026-07-20 | zsxq | 知识星球：SemiAnalysis相关讨论(topic=82255481411242822) |
 | 2026-07-20 | mx-search | Anthropic被曝测试AMD GPU，SemiAnalysis从AMD高管代码中发现Anthropic将成为新客户 |
