@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/hbm-supply-chain/","title":"HBM存储产业链","tags":["HBM","产业链","电子"],"dg-note-properties":{"title":"HBM存储产业链","created":"2026-06-17","updated":"2026-08-02","type":"concept","tags":["HBM","产业链","电子"],"sources":["raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260611/催化剂日历_20260611_20260710.md","raw/reports/260611/小米集团_估值分析_260611.md","raw/reports/260616/法拉电子_全面分析_260616.md","raw/reports/260616/精智达_全面分析_260616.md","raw/reports/260616/可立克_全面分析_260616.md","raw/reports/260616/东阳光_全面分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md",{"mx-search 2026-07-18/20":"华强北DDR5暴涨300%，国联民生Token经济学(HBM4商用)，国金电子国产HBM突破"}]}}
+{"dg-publish":true,"permalink":"/concepts/hbm-supply-chain/","title":"HBM存储产业链","tags":["HBM","产业链","电子"],"dg-note-properties":{"title":"HBM存储产业链","created":"2026-06-17","updated":"2026-08-03","type":"concept","tags":["HBM","产业链","电子"],"sources":["raw/reports/260616/HBM存储产业链_行业分析_260616.md","raw/reports/260611/催化剂日历_20260611_20260710.md","raw/reports/260611/小米集团_估值分析_260611.md","raw/reports/260616/法拉电子_全面分析_260616.md","raw/reports/260616/精智达_全面分析_260616.md","raw/reports/260616/可立克_全面分析_260616.md","raw/reports/260616/东阳光_全面分析_260616.md","raw/reports/260616/800V HVDC_行业分析_260616.md","raw/reports/ZSXQ/知识星球_摘要_250616.md",{"mx-search 2026-07-18/20":"华强北DDR5暴涨300%，国联民生Token经济学(HBM4商用)，国金电子国产HBM突破"}]}}
 ---
 
 
@@ -162,12 +162,14 @@
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`
 - `raw/reports/ZSXQ/知识星球_摘要_250616.md`
 
-## 📡 最新事件追踪 (更新于 2026-08-02)
+## 📡 最新事件追踪 (更新于 2026-08-03)
 
 | 2026-07-22 | zsxq | 韩美扰动递减，国产存储方向独立，OPPO/vivo拒绝三星Q3存储报价 |
 | 2026-07-22 | zsxq | AMD与Anthropic签署重大芯片与投资协议 |
 | 2026-07-19 | zsxq | 【天风海外科技】内存价格应持续走强；【国金电子】海力士首次覆盖 HBM+LTA AI存储核心受益标的；内存价格持续上涨，HBM供不应求；三星/海力士存储产能持续紧张 |
 
+| 2026-08-03 | zsxq | AI驱动MLCC周期景气：高容占比提升放大龙头利润弹性，关注三环集团/风华高科 |
+| 2026-08-03 | zsxq | 日本第三轮对华半导体管制锁定高端先进封装设备；芯碁微装在先进封装赛道3年看5倍空间 |
 | 日期 | 来源 | 事件摘要 |
 | 2026-07-27 | zsxq | SK/三星与美科技公司签署9500亿美金芯片合作MOU，存储链锁定核心战略地位；英伟达削减Vera Rubin HBM4内存配置，HBM4价格恐吞噬每机架29%成本；长鑫存储IPO估值讨论，野村目标价116元（天风/中泰/财通电子） |
 | 2026-07-26 | zsxq | 长鑫相关半导体材料梳理：硅片(西安奕材)、气体(广钢/中船特气)、前驱体(雅克科技)、光刻胶/抛光液(安集科技)等；科技周期分歧焦点在于全球AI周期是否见顶 |
