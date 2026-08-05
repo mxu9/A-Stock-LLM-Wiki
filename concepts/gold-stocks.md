@@ -7,6 +7,7 @@ updated: 2026-08-05
 type: concept
 tags: [黄金, 资源股, 有色金属, 避险, 涨价]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260805.md
   - mx-search 2026-08-05: 黄金股板块动态+机构观点
   - mx-data 2026-08-05: 8只黄金股行情
   - mx-search 2026-07: 紫金/山金/中金/赤峰H1业绩

@@ -4,10 +4,11 @@ title: 创新药
 slug: innovative-drugs
 sector: 医药
 created: 2026-07-15
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [概念, 医药, 创新药, CXO, BD出海]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260805.md
   - reports/ZSXQ/知识星球_摘要_260717.md
   - reports/260715/创新药_行业分析_260715.md
   - mx-search 2026-07-17: 基药目录首纳16款创新药；公募扎堆举牌港股创新药；BD出海接近2024全年两倍

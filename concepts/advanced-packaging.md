@@ -1,8 +1,9 @@
 ---
 title: 先进封装
 created: 2026-06-29
-updated: 2026-07-17
+updated: 2026-08-05
 sources_zsxq:
+  - reports/ZSXQ/知识星球_摘要_260805.md
   - reports/ZSXQ/知识星球_摘要_260716.md
   - reports/ZSXQ/知识星球_摘要_260704.md
   - reports/ZSXQ/知识星球_摘要_260702.md
