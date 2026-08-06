@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/gold-stocks/","title":"黄金股","tags":["黄金","资源股","有色金属","避险","涨价"],"dg-note-properties":{"title":"黄金股","slug":"gold-stocks","created":"2026-08-05","updated":"2026-08-05","type":"concept","tags":["黄金","资源股","有色金属","避险","涨价"],"sources":[{"mx-search 2026-08-05":"黄金股板块动态+机构观点"},{"mx-data 2026-08-05":"8只黄金股行情"},{"mx-search 2026-07":"紫金/山金/中金/赤峰H1业绩"},{"招商证券 2026-08":"黄金处不对称受益格局"}]}}
+{"dg-publish":true,"permalink":"/concepts/gold-stocks/","title":"黄金股","tags":["黄金","资源股","有色金属","避险","涨价"],"dg-note-properties":{"title":"黄金股","slug":"gold-stocks","created":"2026-08-05","updated":"2026-08-05","type":"concept","tags":["黄金","资源股","有色金属","避险","涨价"],"sources":["reports/ZSXQ/知识星球_摘要_260805.md",{"mx-search 2026-08-05":"黄金股板块动态+机构观点"},{"mx-data 2026-08-05":"8只黄金股行情"},{"mx-search 2026-07":"紫金/山金/中金/赤峰H1业绩"},{"招商证券 2026-08":"黄金处不对称受益格局"}]}}
 ---
 
 
