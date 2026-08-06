@@ -9,16 +9,14 @@ sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260715.md
   - reports/ZSXQ/知识星球_摘要_260702.md
   - reports/ZSXQ/知识星球_摘要_260701.md
-
   - raw/reports/ZSXQ/知识星球_摘要_260710.md
-dg-publish: true
 type: concept
 tags: [AIDC, AI数据中心, 800V, HVDC, SST, 固态变压器, 液冷, 供电架构]
 sources:
   - reports/ZSXQ/知识星球_摘要_260717.md
   - reports/260701/AIDC产业链_行业分析_260701.md
   - mx-search 2026-07-01: AIDC产业链全搜索
-  - 知识星球 💰调研纪要【黑金会员】2026-07-01
+  - 知识星球 调研纪要【黑金会员】2026-07-01
   - mx-search 2026-07-12: AIDC产业链最新事件（中信建投缺电+ZSXQ华西柴发）
   - 知识星球 topic_id=82255488452488812 2026-07-11: AIDC建设高景气柴发受益
   - mx-search 2026-07-13: AIDC进入GW时代/2026年规模化交付元年
