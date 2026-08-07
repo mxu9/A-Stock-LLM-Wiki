@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-21 | Total pages: 207 | 176 entities + 29 concepts + 2 comparisons
+> Last updated: 2026-08-07 | Total pages: 208 | 176 entities + 30 concepts + 2 comparisons
 
 ## Entities (个股) — 176 stocks
 
@@ -249,8 +249,9 @@ dg-publish: true
 | [[603986]] 🆕 | 兆易创新 | — |
 | [[300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 29 topics
+## Concepts (行业/概念/产业链) — 30 topics
 
+- [[indium-phosphide-inp]] 🆕 — 磷化铟（InP）产业链（AI光模块卡脖子环节，供需缺口超70%，2026.8.7无锡大会）
 - [[byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
 - [[deepseek-ecosystem]] 🆕 — DeepSeek生态（唯一A股映射+国产算力+V4正式版上线催化）

@@ -4,10 +4,11 @@ title: 创新药
 slug: innovative-drugs
 sector: 医药
 created: 2026-07-15
-updated: 2026-08-05
+updated: 2026-08-07
 type: concept
 tags: [概念, 医药, 创新药, CXO, BD出海]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260807.md
   - reports/ZSXQ/知识星球_摘要_260805.md
   - reports/ZSXQ/知识星球_摘要_260717.md
   - reports/260715/创新药_行业分析_260715.md
@@ -98,8 +99,9 @@ sources:
 - 🟡 猴价回调→昭衍等利润风险
 - 🟡 资金被AI/半导体虹吸
 
-## 📡 最新事件追踪 (更新于 2026-08-03)
+## 📡 最新事件追踪 (更新于 2026-08-07)
 
+| 2026-08-07 | zsxq | AI制药/AI4S爆发：创新药二季报炸裂（百奥赛图归母+402%、信达26H1收入82亿+）；恒瑞第二家NewCo Braveheart纳斯达克上市首日+65%；药明生物1.9亿元收购创胜集团CDMO资产；天风：医药就是选出来的主线、尽快加仓 |
 | 2026-07-22 | zsxq | Summit/康方生物HARMONi-2 NSCLC数据更新，ivonescimab有望成为一线新标准 |
 | 2026-07-22 | zsxq | 奥浦迈2026H1预告：培养基业务高增长，收入2.8-3.0亿(+35-45%YoY) |
 
