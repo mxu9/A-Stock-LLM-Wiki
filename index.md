@@ -9,7 +9,7 @@ dg-publish: true
 > Read this first to find relevant pages for any query.
 > Last updated: 2026-08-07 | Total pages: 208 | 176 entities + 30 concepts + 2 comparisons
 
-## Entities (个股) — 176 stocks
+## Entities (个股) — 177 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -24,6 +24,7 @@ dg-publish: true
 ### AI应用/数据智能
 | 代码 | 名称 | 报告数 |
 |------|------|--------|
+| [[603039]] 🆕 | 泛微网络 | 1 |
 | [[300766]] 🆕 | 每日互动 | 1 |
 | [[002432]] 🆕 | 九安医疗 | 1 |
 

@@ -1,5 +1,4 @@
 ## concepts (概念)
-- [[workbuddy]] 🆕
 - [[byte-ai-power]] 🆕
 - [[deepseek-ecosystem]] 🆕
 - [[kimi-k3-ecosystem]] 🆕
@@ -17,6 +16,7 @@
 - [[pig-cycle]]
 - [[innovative-drugs]]
 - [[semianalysis]]
+
 ## entities (标的)
 - [[002782|可立克]]
 - [[002706|良信股份]]
