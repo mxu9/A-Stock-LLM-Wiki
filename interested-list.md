@@ -1,4 +1,5 @@
 ## concepts (概念)
+- [[workbuddy]] 🆕
 - [[byte-ai-power]] 🆕
 - [[deepseek-ecosystem]] 🆕
 - [[kimi-k3-ecosystem]] 🆕

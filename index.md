@@ -249,8 +249,9 @@ dg-publish: true
 | [[603986]] 🆕 | 兆易创新 | — |
 | [[300975]] 🆕 | 商络电子 | — |
 
-## Concepts (行业/概念/产业链) — 30 topics
+## Concepts (行业/概念/产业链) — 31 topics
 
+- [[workbuddy]] 🆕 — WorkBuddy（腾讯全场景AI办公智能体，6月PC月访问2097万国内第一，A股生态映射：博思/泛微/金山）
 - [[indium-phosphide-inp]] 🆕 — 磷化铟（InP）产业链（AI光模块卡脖子环节，供需缺口超70%，2026.8.7无锡大会）
 - [[byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
