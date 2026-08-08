@@ -3,20 +3,22 @@ dg-publish: true
 title: DeepSeek生态
 slug: deepseek-ecosystem
 created: 2026-07-17
-updated: 2026-08-02
+updated: 2026-08-08
 type: concept
 tags: [概念, AI, DeepSeek, 大模型]
 sources:
   - reports/260717/每日互动_全面分析_260717.md
   - 知识星球 💰调研纪要 (2026/02)
+  - reports/ZSXQ/知识星球_摘要_260808.md
 ---
 
 # 🧠 DeepSeek生态
 
 > DeepSeek作为中国推理大模型之光，已与GPT-4o/Claude-3.5性能比肩。V4系列在国产芯片完成万亿参数训练，7月中旬正式版上线+API峰谷定价翻倍，生态链辐射A股多只标的。
 
-## 📡 最新事件追踪 (更新于 2026-08-02)
+## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-08 | zsxq | 浙商AI战队：DeepSeek现行模型涨价分析；深度报告：年化经常性收入4-5亿美元，V4 API毛利率70-80%，OpenRouter Token份额半年9%→大幅提升 |
 | 2026-07-22 | zsxq | 国产算力全面拥抱NPO，头部大厂明确落地节奏，中国产业链迎重大机遇 |
 
 | 日期 | 来源 | 事件摘要 |

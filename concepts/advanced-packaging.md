@@ -1,7 +1,7 @@
 ---
 title: 先进封装
 created: 2026-06-29
-updated: 2026-08-07
+updated: 2026-08-08
 sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260807.md
   - reports/ZSXQ/知识星球_摘要_260805.md
@@ -9,6 +9,7 @@ sources_zsxq:
   - reports/ZSXQ/知识星球_摘要_260704.md
   - reports/ZSXQ/知识星球_摘要_260702.md
   - reports/ZSXQ/知识星球_摘要_260701.md
+  - reports/ZSXQ/知识星球_摘要_260808.md
 type: concept
 tags: [先进封装, 半导体, 产业链, 国产替代]
 sources:
@@ -72,6 +73,7 @@ dg-publish: true
 
 ## 近三月关键事件时间线
 
+| 2026-08-08 | 芯碁微装/杰华特 | 芯碁微装定位先进封装"金铲子"，底部强call看2500亿市值；杰华特功率器件景气；多家PCB厂商公告mSAP扩产带动先进制程设备需求 |
 | 2026-08-07 | 长电科技/星科金朋 | 大举调价，AI芯片需求推升OSAT热度，涨价潮未歇 |
 | 时间 | 公司 | 事件 |
 |------|------|------|

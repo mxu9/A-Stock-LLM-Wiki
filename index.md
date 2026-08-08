@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-07 | Total pages: 208 | 176 entities + 30 concepts + 2 comparisons
+> Last updated: 2026-08-08 | Total pages: 210 | 177 entities + 31 concepts + 2 comparisons
 
-## Entities (个股) — 177 stocks
+## Entities (个股) — 178 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -249,9 +249,11 @@ dg-publish: true
 | [[300042]] 🆕 | 朗科科技 | — |
 | [[603986]] 🆕 | 兆易创新 | — |
 | [[300975]] 🆕 | 商络电子 | — |
+| [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 31 topics
+## Concepts (行业/概念/产业链) — 32 topics
 
+- [[mpo-connector]] 🆕 — MPO 高密度光连接器（800G/1.6T 光模块标准配套，AI 算力集群百万卡演进量升价涨，2026.8.7 开源专题）
 - [[workbuddy]] 🆕 — WorkBuddy（腾讯全场景AI办公智能体，6月PC月访问2097万国内第一，A股生态映射：博思/泛微/金山）
 - [[indium-phosphide-inp]] 🆕 — 磷化铟（InP）产业链（AI光模块卡脖子环节，供需缺口超70%，2026.8.7无锡大会）
 - [[byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）

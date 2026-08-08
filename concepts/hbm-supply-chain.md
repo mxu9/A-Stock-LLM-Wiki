@@ -1,7 +1,7 @@
 ---
 title: HBM存储产业链
 created: 2026-06-17
-updated: 2026-08-07
+updated: 2026-08-08
 type: concept
 tags: [HBM, 产业链, 电子]
 sources:
@@ -16,6 +16,7 @@ sources:
   - raw/reports/260616/800V HVDC_行业分析_260616.md
   - raw/reports/ZSXQ/知识星球_摘要_250616.md
   - mx-search 2026-07-18/20: 华强北DDR5暴涨300%，国联民生Token经济学(HBM4商用)，国金电子国产HBM突破
+  - reports/ZSXQ/知识星球_摘要_260808.md
 dg-publish: true
 ---
 
@@ -178,8 +179,9 @@ dg-publish: true
 - `raw/reports/260616/800V HVDC_行业分析_260616.md`
 - `raw/reports/ZSXQ/知识星球_摘要_250616.md`
 
-## 📡 最新事件追踪 (更新于 2026-08-07)
+## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-08 | zsxq | 短期看空内存（韩国杠杆ETF赎回抛售、NV Rubin Ultra削减HBM改光学弥补、内存价格两季内见顶共识）；中长期仍乐观 |
 | 2026-08-07 | zsxq | 存储：SK海力士投资380亿美元扩建芯片厂；美光FMS会后下调目标价至1150美元（8x PE）；普冉股份股权激励（26年营收目标35亿+67%）；长电星科金朋大举调价（OSAT涨价潮） |
 | 2026-07-22 | zsxq | 韩美扰动递减，国产存储方向独立，OPPO/vivo拒绝三星Q3存储报价 |
 | 2026-07-22 | zsxq | AMD与Anthropic签署重大芯片与投资协议 |
