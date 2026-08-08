@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-08-05","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
+{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-08-07","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
 ---
 
 
@@ -57,6 +57,7 @@
 
 ## 近三月关键事件时间线
 
+| 2026-08-07 | 长电科技/星科金朋 | 大举调价，AI芯片需求推升OSAT热度，涨价潮未歇 |
 | 时间 | 公司 | 事件 |
 |------|------|------|
 | 06/29 | 板块 | 知识星球覆盖：先进封装集体扩产103条专题 |

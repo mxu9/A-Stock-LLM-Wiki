@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-08-05","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260717.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"},{"mx-search 2026-07-14":"中金—2026液冷放量元年全球市场1147亿+273%，3条投资主线"},{"mx-search 2026-07-17":"中金：2026液冷放量元年(全球1147亿+273%)；英伟达Vera Rubin 100%全液冷"},{"mx-search 2026-07-18/19":"海尔磁悬浮CDU一体机发布，杰瑞WAIC展示液冷CDU(PUE 1.15)，长江证券军转民AI报告"}]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-liquid-cooling/","title":"AIDC液冷产业链","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"dg-note-properties":{"title":"AIDC液冷产业链","slug":"aidc-liquid-cooling","created":"2026-06-17","updated":"2026-08-07","type":"concept","tags":["液冷","产业链","AIDC","数据中心散热","冷板","浸没式"],"sources":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260717.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC液冷全搜索"},"raw/reports/250618/AIDC液冷产业链_行业分析_250618.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260710.md",{"mx-search 2026-07-12":"液冷最新事件（科创新源定增+集智Manifold+银轮）"},{"mx-search 2026-07-13":"中金测算液冷市场1147亿(+273%)/磁悬浮压缩机受益"},{"mx-search 2026-07-14":"液冷市场2030年504.8亿美元(CAGR 105%)，渗透率2026达37%"},{"mx-search 2026-07-14":"中金—2026液冷放量元年全球市场1147亿+273%，3条投资主线"},{"mx-search 2026-07-17":"中金：2026液冷放量元年(全球1147亿+273%)；英伟达Vera Rubin 100%全液冷"},{"mx-search 2026-07-18/19":"海尔磁悬浮CDU一体机发布，杰瑞WAIC展示液冷CDU(PUE 1.15)，长江证券军转民AI报告"}]}}
 ---
 
 
@@ -95,8 +95,9 @@
 | 2027 | 超节点架构→光模块液冷市场打开(53% CAGR) | 第二增长曲线 |
 | 2028+ | 浸没式液冷从概念验证→规模商用 | 技术路线升级 |
 
-## 📡 最新事件追踪 (更新于 2026-08-02)
+## 📡 最新事件追踪 (更新于 2026-08-07)
 
+| 2026-08-07 | zsxq | 液冷主线：电磁流量计成主流方案（±0.5%精度，新天科技）；捷邦科技苹果切入AI液冷（27年利润目标5亿）；创世纪液冷订单爆发、最稀缺的是液冷产能；冠龙节能HW订单紧张+出海马来数据中心 |
 | 2026-07-22 | zsxq | AI50大细分方向：AIDC链公募持仓持续加仓，液冷温控关注度提升 |
 
 | 日期 | 来源 | 事件摘要 |
