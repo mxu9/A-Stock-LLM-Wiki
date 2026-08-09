@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-09 | Total pages: 242 | 201 entities + 39 concepts + 2 comparisons
+> Last updated: 2026-08-10 | Total pages: 245 | 204 entities + 39 concepts + 2 comparisons
 
-## Entities (个股) — 201 stocks
+## Entities (个股) — 204 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -206,6 +206,9 @@ dg-publish: true
 | [[000400]] 🆕 | 许继电气 | — |
 | [[000534]] 🆕 | 万泽股份 | 1 |
 | [[002126]] 🆕 | 银轮股份 | 1 |
+| [[688239]] 🆕 | 航宇科技 | 1 |
+| [[002595]] 🆕 | 豪迈科技 | 1 |
+| [[605060]] 🆕 | 联德股份 | 1 |
 
 
 ### 半导体/长鑫产业链
