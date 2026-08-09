@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-08 | Total pages: 210 | 177 entities + 31 concepts + 2 comparisons
+> Last updated: 2026-08-09 | Total pages: 242 | 201 entities + 39 concepts + 2 comparisons
 
-## Entities (个股) — 178 stocks
+## Entities (个股) — 201 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -252,8 +252,10 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 32 topics
+## Concepts (行业/概念/产业链) — 39 topics
 
+- [[low-dk-electronic-fabric]] 🆕 — 低介电电子布/T布（ABF载板/mSAP/存储共同制约瓶颈，日东纺涨价20-30%，宏和科技全球第一）
+- [[ai-for-science]] 🆕 — AI4S（AI for Science，继AI Coding后下一场景：AI设计噬菌体全基因组，晶泰XtalPi Science全球首个AI4S操作系统）
 - [[mpo-connector]] 🆕 — MPO 高密度光连接器（800G/1.6T 光模块标准配套，AI 算力集群百万卡演进量升价涨，2026.8.7 开源专题）
 - [[workbuddy]] 🆕 — WorkBuddy（腾讯全场景AI办公智能体，6月PC月访问2097万国内第一，A股生态映射：博思/泛微/金山）
 - [[indium-phosphide-inp]] 🆕 — 磷化铟（InP）产业链（AI光模块卡脖子环节，供需缺口超70%，2026.8.7无锡大会）
