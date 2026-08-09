@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/indium-phosphide-inp/","title":"磷化铟（InP）产业链","tags":["概念","光通信","半导体材料","磷化铟","InP","光模块","衬底","反制"],"dg-note-properties":{"title":"磷化铟（InP）产业链","slug":"indium-phosphide-inp","created":"2026-08-07","updated":"2026-08-07","type":"concept","tags":["概念","光通信","半导体材料","磷化铟","InP","光模块","衬底","反制"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md"],"sources":[{"mx-search 2026-08-07":"磷化铟产业链 光模块衬底 最新动态（银河/国信/财通/东兴证券观点）"},{"知识星球 2026-08-07":"无锡《2026 AI算力时代：磷化铟材料创新发展大会》"}]}}
+{"dg-publish":true,"permalink":"/concepts/indium-phosphide-inp/","title":"磷化铟（InP）产业链","tags":["概念","光通信","半导体材料","磷化铟","InP","光模块","衬底","反制"],"dg-note-properties":{"title":"磷化铟（InP）产业链","slug":"indium-phosphide-inp","created":"2026-08-07","updated":"2026-08-08","type":"concept","tags":["概念","光通信","半导体材料","磷化铟","InP","光模块","衬底","反制"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260808.md"],"sources":[{"mx-search 2026-08-07":"磷化铟产业链 光模块衬底 最新动态（银河/国信/财通/东兴证券观点）"},{"知识星球 2026-08-07":"无锡《2026 AI算力时代：磷化铟材料创新发展大会》"}]}}
 ---
 
 
@@ -39,6 +39,7 @@
 
 ## 📡 最新事件追踪
 
+| 2026-08-08 | 星球 | 博杰股份深度：磷化铟保守100亿市值（鼎泰芯源产能10/20-25万片，单片4000元，第一大客户华兴激光）；中性偏保守整体400-500亿市值 |
 | 日期 | 来源 | 事件 |
 |------|------|------|
 | 2026-08-07 | 星球+mx-search | 无锡磷化铟行业大会：产能仅为全球需求 30%；东兴证券：2025-2030 InP 光芯片市场 CAGR 85%；银河/国信/财通密集覆盖 |

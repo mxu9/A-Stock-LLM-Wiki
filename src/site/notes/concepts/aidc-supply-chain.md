@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-supply-chain/","title":"AIDC 产业链","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"dg-note-properties":{"title":"AIDC 产业链","slug":"aidc-supply-chain","created":"2026-07-01","updated":"2026-08-07","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","raw/reports/ZSXQ/知识星球_摘要_260710.md"],"type":"concept","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC产业链全搜索"},"知识星球 调研纪要【黑金会员】2026-07-01",{"mx-search 2026-07-12":"AIDC产业链最新事件（中信建投缺电+ZSXQ华西柴发）"},{"知识星球 topic_id=82255488452488812 2026-07-11":"AIDC建设高景气柴发受益"},{"mx-search 2026-07-13":"AIDC进入GW时代/2026年规模化交付元年"},{"mx-search 2026-07-14":"思源电气AIDC超容从选配走向标配，阳光电源SST新品发布"},{"mx-search 2026-07-15":"杰瑞/冰轮北美AIDC突破，曙光数创成立基础设施专委会"},{"mx-search 2026-07-17":"AIDC步入GW时代系列报道；威尔高AI服务器电源PCB定增"}]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-supply-chain/","title":"AIDC 产业链","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"dg-note-properties":{"title":"AIDC 产业链","slug":"aidc-supply-chain","created":"2026-07-01","updated":"2026-08-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","raw/reports/ZSXQ/知识星球_摘要_260710.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC产业链全搜索"},"知识星球 调研纪要【黑金会员】2026-07-01",{"mx-search 2026-07-12":"AIDC产业链最新事件（中信建投缺电+ZSXQ华西柴发）"},{"知识星球 topic_id=82255488452488812 2026-07-11":"AIDC建设高景气柴发受益"},{"mx-search 2026-07-13":"AIDC进入GW时代/2026年规模化交付元年"},{"mx-search 2026-07-14":"思源电气AIDC超容从选配走向标配，阳光电源SST新品发布"},{"mx-search 2026-07-15":"杰瑞/冰轮北美AIDC突破，曙光数创成立基础设施专委会"},{"mx-search 2026-07-17":"AIDC步入GW时代系列报道；威尔高AI服务器电源PCB定增"}]}}
 ---
 
 
@@ -122,8 +122,9 @@ AIDC（AI 数据中心）是当前 AI 算力基础设施投资最大的环节，
 | **GPU租赁价格追踪** | 6月A100租赁均价1.63$/h环比大涨，H100/A100比值小幅回落 |
 | **Bloom Energy获Brookfield加单** | 在手订单将超10GW，为AI基础设施电力项目提供融资框架 |
 
-## 📡 最新事件追踪 (更新于 2026-08-07)
+## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-08 | zsxq | 阳光电源首家通过NV储能认证（PCS已获FCC）；玉柴国际数据中心柴发26H1出货1800台（+53%利润）；英伟达拟向星际之门电力公司投最高30亿美元 |
 | 2026-08-07 | zsxq | AI/算力主线：AAOI 26Q2超预期（收入1.92亿美元+86.4%，800G/1.6T产能年底65万只/月）；1.6T需求上调7500万→9000万支；国产光芯片供需紧平衡延续27年底；行云科技在手订单超150亿；FCC光模块传闻证伪 |
 | 2026-07-22 | zsxq | GEV Q2签单创历史新高，燃气轮机交付剪刀差扩大，供应链紧张持续 |
 | 2026-07-22 | zsxq | OpenAI计划斥资逾300亿美元在佐治亚州建设数据中心 |

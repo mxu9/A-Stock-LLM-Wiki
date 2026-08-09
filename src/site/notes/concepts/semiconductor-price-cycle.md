@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-08-07","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md",{"mx-search 2026-07-19/20":"台积电上修指引+存储合约涨价，美光毛利率84.6%创纪录但涨价逻辑预警见顶"}]}}
+{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-08-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md",{"mx-search 2026-07-19/20":"台积电上修指引+存储合约涨价，美光毛利率84.6%创纪录但涨价逻辑预警见顶"}]}}
 ---
 
 
@@ -9,6 +9,13 @@
 
 ## 🆕 8/7 最新动态
 
+## 🆕 8/8 最新动态
+
+| 事件 | 影响 |
+|------|------|
+| JSR 官宣光刻胶涨价 15%（石油/贵金属成本+长协到期） | 高端光刻胶国产替代黄金窗口，叠加去日化催化 |
+| 染料再提价：分散黑上调至 2.8w、还原物上调至 12w，产业链库存低位 | 染料大周期共振，中间体格局优异 |
+| 多家 PCB 厂商公告 mSAP 扩产计划 | mSAP 曝光/激光钻孔/电镀全制程升级，设备端需求通胀，供需缺口长期维持 |
 | 事件 | 影响 |
 |------|------|
 | 电子布 8 月 7628 提价 1.5 元/米（7月 1.2-1.3 元）；日东纺停止织布机交货 | 电子布/CCL 涨价链条传导顺畅，Rubin 机柜量产抬升需求 |

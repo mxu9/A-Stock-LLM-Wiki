@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["概念","医药","创新药","CXO","BD出海"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","sector":"医药","created":"2026-07-15","updated":"2026-08-07","type":"concept","tags":["概念","医药","创新药","CXO","BD出海"],"sources":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260717.md","reports/260715/创新药_行业分析_260715.md",{"mx-search 2026-07-17":"基药目录首纳16款创新药；公募扎堆举牌港股创新药；BD出海接近2024全年两倍"},{"知识星球 topic=45544285215841828":"中信建投-创新药全球临床价值兑现，26Q1对外授权超$600亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/innovative-drugs/","title":"创新药","tags":["概念","医药","创新药","CXO","BD出海"],"dg-note-properties":{"title":"创新药","slug":"innovative-drugs","sector":"医药","created":"2026-07-15","updated":"2026-08-08","type":"concept","tags":["概念","医药","创新药","CXO","BD出海"],"sources":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260717.md","reports/260715/创新药_行业分析_260715.md",{"mx-search 2026-07-17":"基药目录首纳16款创新药；公募扎堆举牌港股创新药；BD出海接近2024全年两倍"},{"知识星球 topic=45544285215841828":"中信建投-创新药全球临床价值兑现，26Q1对外授权超$600亿"},"reports/ZSXQ/知识星球_摘要_260808.md"]}}
 ---
 
 
@@ -57,7 +57,7 @@
 | 标的 | 代码 | 核心看点 |
 |------|------|------|
 | 药明生物 | 02269-HK | 3年收入CAGR 20% |
-| 药明合联 | 02268-HK | ADC/XDC一站式CRDMO，25-30E CAGR 30-35% |
+| 药明合联 | [[entities/02268\|02268]] | ADC/XDC一站式CRDMO，25-30E CAGR 30-35% |
 | 科伦博泰 | 06990-HK | ADC管线 |
 
 ## 🎯 催化剂
@@ -86,8 +86,9 @@
 - 🟡 猴价回调→昭衍等利润风险
 - 🟡 资金被AI/半导体虹吸
 
-## 📡 最新事件追踪 (更新于 2026-08-07)
+## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-08 | zsxq | 药明康德临时禁令获批：美国哥伦比亚特区联邦法院批准PI，阻止列入1260H清单（法院认定三项依据均"可能不成立"）；长江计算机：AI4S拐点显现，数据卖铲层率先兑现 |
 | 2026-08-07 | zsxq | AI制药/AI4S爆发：创新药二季报炸裂（百奥赛图归母+402%、信达26H1收入82亿+）；恒瑞第二家NewCo Braveheart纳斯达克上市首日+65%；药明生物1.9亿元收购创胜集团CDMO资产；天风：医药就是选出来的主线、尽快加仓 |
 | 2026-07-22 | zsxq | Summit/康方生物HARMONi-2 NSCLC数据更新，ivonescimab有望成为一线新标准 |
 | 2026-07-22 | zsxq | 奥浦迈2026H1预告：培养基业务高增长，收入2.8-3.0亿(+35-45%YoY) |

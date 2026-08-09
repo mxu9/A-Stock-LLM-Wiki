@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-07 | Total pages: 208 | 176 entities + 30 concepts + 2 comparisons
+> Last updated: 2026-08-08 | Total pages: 210 | 177 entities + 31 concepts + 2 comparisons
 
-## Entities (个股) — 176 stocks
+## Entities (个股) — 178 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -23,6 +23,7 @@
 ### AI应用/数据智能
 | 代码 | 名称 | 报告数 |
 |------|------|--------|
+| [[entities/603039\|603039]] 🆕 | 泛微网络 | 1 |
 | [[entities/300766\|300766]] 🆕 | 每日互动 | 1 |
 | [[entities/002432\|002432]] 🆕 | 九安医疗 | 1 |
 
@@ -143,6 +144,7 @@
 | [[entities/600276\|600276]] 🆕 | 恒瑞医药 | — |
 | [[entities/688235\|688235]] 🆕 | 百济神州 | — |
 | [[entities/603259\|603259]] 🆕 | 药明康德 | — |
+| [[entities/02268\|02268]] 🆕 | 药明合联(HK) | 1 |
 | [[entities/688192\|688192]] 🆕 | 迪哲医药 | — |
 | [[entities/603127\|603127]] 🆕 | 昭衍新药 | — |
 | [[entities/688331\|688331]] 🆕 | 荣昌生物 | — |
@@ -247,9 +249,12 @@
 | [[entities/300042\|300042]] 🆕 | 朗科科技 | — |
 | [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
+| [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 30 topics
+## Concepts (行业/概念/产业链) — 32 topics
 
+- [[concepts/mpo-connector\|mpo-connector]] 🆕 — MPO 高密度光连接器（800G/1.6T 光模块标准配套，AI 算力集群百万卡演进量升价涨，2026.8.7 开源专题）
+- [[concepts/workbuddy\|workbuddy]] 🆕 — WorkBuddy（腾讯全场景AI办公智能体，6月PC月访问2097万国内第一，A股生态映射：博思/泛微/金山）
 - [[concepts/indium-phosphide-inp\|indium-phosphide-inp]] 🆕 — 磷化铟（InP）产业链（AI光模块卡脖子环节，供需缺口超70%，2026.8.7无锡大会）
 - [[concepts/byte-ai-power\|byte-ai-power]] 🆕 — 字节AI电源（800V HVDC+SST+液冷，2026.7.9 AI Rack 3.0发布）
 - [[concepts/helium\|helium]] 🆕 — 氦气板块（"气体稀土"，84%进口依赖，2026供给冲击+国产替代）
