@@ -1,7 +1,5 @@
 ## concepts (概念)
 - [[byte-ai-power]] 🆕
-- [[deepseek-ecosystem]] 🆕
-- [[kimi-k3-ecosystem]] 🆕
 - [[suanli-rental]] 🆕
 - [[nvidia-rubin]] 🆕
 - [[800v-hvdc]]
