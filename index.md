@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-10 | Total pages: 245 | 204 entities + 39 concepts + 2 comparisons
+> Last updated: 2026-08-10 | Total pages: 246 | 205 entities + 39 concepts + 2 comparisons
 
-## Entities (个股) — 204 stocks
+## Entities (个股) — 205 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -20,6 +20,7 @@ dg-publish: true
 | [[002837]] 🆕 | 英维克 | — |
 | [[300249]] 🆕 | 依米康 | — |
 | [[300499]] 🆕 | 高澜股份 | — |
+| [[300442]] 🆕 | 润泽科技 | 1 |
 
 ### AI应用/数据智能
 | 代码 | 名称 | 报告数 |
