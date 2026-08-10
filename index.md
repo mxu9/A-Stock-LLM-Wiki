@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-10 | Total pages: 246 | 205 entities + 39 concepts + 2 comparisons
+> Last updated: 2026-08-10 | Total pages: 247 | 205 entities + 40 concepts + 2 comparisons
 
 ## Entities (个股) — 205 stocks
 
@@ -256,8 +256,9 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 39 topics
+## Concepts (行业/概念/产业链) — 40 topics
 
+- [[suanli-rental]] 🆕 — 算力租赁（GPU租赁=新型云厂商，2026Q1市场680亿+62%，全年破2600亿，"十五五"4万亿直投，从卖算力到卖Token）
 - [[low-dk-electronic-fabric]] 🆕 — 低介电电子布/T布（ABF载板/mSAP/存储共同制约瓶颈，日东纺涨价20-30%，宏和科技全球第一）
 - [[ai-for-science]] 🆕 — AI4S（AI for Science，继AI Coding后下一场景：AI设计噬菌体全基因组，晶泰XtalPi Science全球首个AI4S操作系统）
 - [[mpo-connector]] 🆕 — MPO 高密度光连接器（800G/1.6T 光模块标准配套，AI 算力集群百万卡演进量升价涨，2026.8.7 开源专题）

@@ -2,6 +2,7 @@
 - [[byte-ai-power]] 🆕
 - [[deepseek-ecosystem]] 🆕
 - [[kimi-k3-ecosystem]] 🆕
+- [[suanli-rental]] 🆕
 - [[800v-hvdc]]
 - [[aidc-supply-chain]]
 - [[aidc-liquid-cooling]]
