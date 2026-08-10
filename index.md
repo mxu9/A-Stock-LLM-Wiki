@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-10 | Total pages: 252 | 210 entities + 40 concepts + 2 comparisons
+> Last updated: 2026-08-10 | Total pages: 253 | 210 entities + 41 concepts + 2 comparisons
 
 ## Entities (个股) — 210 stocks
 
@@ -261,8 +261,9 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 40 topics
+## Concepts (行业/概念/产业链) — 41 topics
 
+- [[nvidia-rubin]] 🆕 — NVIDIA Rubin 产业链（Vera Rubin 2026 Q3 量产，六大环节：整机/PCB/液冷/HVDC/光模块/电容，单柜价值量 +233% PCB）
 - [[suanli-rental]] 🆕 — 算力租赁（GPU租赁=新型云厂商，2026Q1市场680亿+62%，全年破2600亿，"十五五"4万亿直投，从卖算力到卖Token）
 - [[low-dk-electronic-fabric]] 🆕 — 低介电电子布/T布（ABF载板/mSAP/存储共同制约瓶颈，日东纺涨价20-30%，宏和科技全球第一）
 - [[ai-for-science]] 🆕 — AI4S（AI for Science，继AI Coding后下一场景：AI设计噬菌体全基因组，晶泰XtalPi Science全球首个AI4S操作系统）

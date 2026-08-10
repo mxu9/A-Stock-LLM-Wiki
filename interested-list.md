@@ -3,6 +3,7 @@
 - [[deepseek-ecosystem]] 🆕
 - [[kimi-k3-ecosystem]] 🆕
 - [[suanli-rental]] 🆕
+- [[nvidia-rubin]] 🆕
 - [[800v-hvdc]]
 - [[aidc-supply-chain]]
 - [[aidc-liquid-cooling]]
