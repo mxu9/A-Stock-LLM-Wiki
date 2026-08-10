@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/mpo-connector/","title":"MPO 高密度光连接器","tags":["概念","光通信","MPO","高密度连接器","光模块","AI算力","数据中心"],"dg-note-properties":{"title":"MPO 高密度光连接器","slug":"mpo-connector","created":"2026-08-08","updated":"2026-08-08","type":"concept","tags":["概念","光通信","MPO","高密度连接器","光模块","AI算力","数据中心"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260808.md"],"sources":[{"mx-search 2026-08-08":"MPO光连接器 板块 最新动态（开源证券 08-07《MPO再迎利好》专题）"}]}}
+{"dg-publish":true,"permalink":"/concepts/mpo-connector/","title":"MPO 高密度光连接器","tags":["概念","光通信","MPO","高密度连接器","光模块","AI算力","数据中心"],"dg-note-properties":{"title":"MPO 高密度光连接器","slug":"mpo-connector","created":"2026-08-08","updated":"2026-08-09","type":"concept","tags":["概念","光通信","MPO","高密度连接器","光模块","AI算力","数据中心"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260809.md","reports/ZSXQ/知识星球_摘要_260808.md"],"sources":[{"mx-search 2026-08-08":"MPO光连接器 板块 最新动态（开源证券 08-07《MPO再迎利好》专题）"}]}}
 ---
 
 
@@ -27,6 +27,7 @@ MPO（Multi-fiber Push On）是用于高密度光纤连接的标准化连接器�
 
 ## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-09 | 星球 | MPO通胀投资机会：长芯盛45亿长周期订单是云厂商跨周期锁定布线/连接供给最新例证；光器件需求能见度拉长，关注杰普特/致尚/特发/汇聚/长芯博创/太辰光 |
 | 日期 | 来源 | 事件 |
 |------|------|------|
 | 2026-08-08 | 星球 | MPO 板块大涨：杰普特、仕佳、博创、太辰光、蘅东光；长芯博创大幅提升关联交易（调增 15.2 亿至 20 亿）；仕佳光子 H1 MPO 收入 7.6 亿（+155%） |

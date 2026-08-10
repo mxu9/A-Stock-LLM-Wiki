@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-08-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md",{"mx-search 2026-07-19/20":"台积电上修指引+存储合约涨价，美光毛利率84.6%创纪录但涨价逻辑预警见顶"}]}}
+{"dg-publish":true,"permalink":"/concepts/semiconductor-price-cycle/","title":"半导体涨价周期","tags":["半导体","产业链","国产替代","被动元件"],"dg-note-properties":{"title":"半导体涨价周期","created":"2026-06-25","updated":"2026-08-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260809.md","reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260709.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["半导体","产业链","国产替代","被动元件"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260625.md","raw/reports/ZSXQ/知识星球_摘要_260629.md","reports/ZSXQ/知识星球_摘要_260630.md",{"mx-search 2026-07-19/20":"台积电上修指引+存储合约涨价，美光毛利率84.6%创纪录但涨价逻辑预警见顶"}]}}
 ---
 
 
@@ -7,8 +7,15 @@
 
 > 2026年6月，台积电7nm及以下先进制程全线涨价5-10%，标志半导体定价权重回供给端。**6/29 韩国总统官宣三星+SK海力士十年1000万亿韩元（≈4.42万亿人民币）超级扩产、美光26FY Capex上修至~270亿美元，全球存储进入史诗级扩产周期。先进封装同步集体扩产（甬矽103亿/盛合100亿/长电78亿）。功率半导体二次调价全面开启，部分产品涨20-30%、交期拉长至30-50周。**
 
-## 🆕 8/7 最新动态
+## 🆕 8/9 最新动态
 
+| 事件 | 影响 |
+|------|------|
+| 味之素缩减大陆ABF膜供给30%（份额95%），ABF膜交期超6个月已涨价 | ABF膜国产替代窗口：华正新材/激智科技 |
+| T布4月调价20-30%后持续紧缺至2027年底；日东纺26Q1电子材料利润+70.7% | T布成ABF/mSAP/存储共同瓶颈，宏和科技年底产能全球第一 |
+| 高盛上调AI服务器PCB 27年375亿美元(+38%)、CCL 221亿(+18%)；载体铜箔发货超预期验证mSAP高景气 | 铜箔/PCB涨价链：铜冠铜箔/德福/方邦；PCB四重逻辑涨价潮 |
+| 三星HBM4良率80%、SK海力士100万亿韩元股东回报 | 存储景气持续，HBM4放量 |
+| 钴铜箔：HVLP3单吨利润5万+/HVLP4 10万；锂电铜箔26-27供需反转加工费再涨3000-5000元/吨 | 诺德股份/嘉元科技/铜冠铜箔 |
 ## 🆕 8/8 最新动态
 
 | 事件 | 影响 |

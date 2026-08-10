@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-08 | Total pages: 210 | 177 entities + 31 concepts + 2 comparisons
+> Last updated: 2026-08-10 | Total pages: 253 | 210 entities + 41 concepts + 2 comparisons
 
-## Entities (个股) — 178 stocks
+## Entities (个股) — 210 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -19,6 +19,12 @@
 | [[entities/002837\|002837]] 🆕 | 英维克 | — |
 | [[entities/300249\|300249]] 🆕 | 依米康 | — |
 | [[entities/300499\|300499]] 🆕 | 高澜股份 | — |
+| [[entities/300442\|300442]] 🆕 | 润泽科技 | 1 |
+| [[entities/300857\|300857]] 🆕 | 协创数据 | 1 |
+| [[entities/301396\|301396]] 🆕 | 宏景科技 | 1 |
+| [[entities/603629\|603629]] 🆕 | 利通电子 | 1 |
+| [[entities/001339\|001339]] 🆕 | 智微智能 | 1 |
+| [[entities/688158\|688158]] 🆕 | 优刻得 | 1 |
 
 ### AI应用/数据智能
 | 代码 | 名称 | 报告数 |
@@ -205,6 +211,9 @@
 | [[entities/000400\|000400]] 🆕 | 许继电气 | — |
 | [[entities/000534\|000534]] 🆕 | 万泽股份 | 1 |
 | [[entities/002126\|002126]] 🆕 | 银轮股份 | 1 |
+| [[entities/688239\|688239]] 🆕 | 航宇科技 | 1 |
+| [[entities/002595\|002595]] 🆕 | 豪迈科技 | 1 |
+| [[entities/605060\|605060]] 🆕 | 联德股份 | 1 |
 
 
 ### 半导体/长鑫产业链
@@ -251,8 +260,12 @@
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 | [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 32 topics
+## Concepts (行业/概念/产业链) — 41 topics
 
+- [[concepts/nvidia-rubin\|nvidia-rubin]] 🆕 — NVIDIA Rubin 产业链（Vera Rubin 2026 Q3 量产，六大环节：整机/PCB/液冷/HVDC/光模块/电容，单柜价值量 +233% PCB）
+- [[concepts/suanli-rental\|suanli-rental]] 🆕 — 算力租赁（GPU租赁=新型云厂商，2026Q1市场680亿+62%，全年破2600亿，"十五五"4万亿直投，从卖算力到卖Token）
+- [[concepts/low-dk-electronic-fabric\|low-dk-electronic-fabric]] 🆕 — 低介电电子布/T布（ABF载板/mSAP/存储共同制约瓶颈，日东纺涨价20-30%，宏和科技全球第一）
+- [[concepts/ai-for-science\|ai-for-science]] 🆕 — AI4S（AI for Science，继AI Coding后下一场景：AI设计噬菌体全基因组，晶泰XtalPi Science全球首个AI4S操作系统）
 - [[concepts/mpo-connector\|mpo-connector]] 🆕 — MPO 高密度光连接器（800G/1.6T 光模块标准配套，AI 算力集群百万卡演进量升价涨，2026.8.7 开源专题）
 - [[concepts/workbuddy\|workbuddy]] 🆕 — WorkBuddy（腾讯全场景AI办公智能体，6月PC月访问2097万国内第一，A股生态映射：博思/泛微/金山）
 - [[concepts/indium-phosphide-inp\|indium-phosphide-inp]] 🆕 — 磷化铟（InP）产业链（AI光模块卡脖子环节，供需缺口超70%，2026.8.7无锡大会）

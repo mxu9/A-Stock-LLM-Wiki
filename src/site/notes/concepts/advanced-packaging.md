@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-08-08","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
+{"dg-publish":true,"permalink":"/concepts/advanced-packaging/","title":"先进封装","tags":["先进封装","半导体","产业链","国产替代"],"dg-note-properties":{"title":"先进封装","created":"2026-06-29","updated":"2026-08-09","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260809.md","reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260704.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["先进封装","半导体","产业链","国产替代"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-06-29":"4只标的主业验证+近三月事件+订单"}]}}
 ---
 
 
@@ -57,6 +57,7 @@
 
 ## 近三月关键事件时间线
 
+| 2026-08-09 | 兴森科技/宏和科技 | 兴森获昇腾950DT ABF载板订单30万颗约5亿元（11月底交付），22层ABF量产国内极少数；T布成ABF载板/mSAP/存储共同瓶颈，味之素缩减大陆ABF膜供给30%；ABF膜交期超6个月已涨价、Q3加速 |
 | 2026-08-08 | 芯碁微装/杰华特 | 芯碁微装定位先进封装"金铲子"，底部强call看2500亿市值；杰华特功率器件景气；多家PCB厂商公告mSAP扩产带动先进制程设备需求 |
 | 2026-08-07 | 长电科技/星科金朋 | 大举调价，AI芯片需求推升OSAT热度，涨价潮未歇 |
 | 时间 | 公司 | 事件 |
