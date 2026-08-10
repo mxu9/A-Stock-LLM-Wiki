@@ -3,10 +3,11 @@ title: AI4S（AI for Science）
 slug: ai-for-science
 dg-publish: true
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [概念, AI, AI4S, AI制药, 科学智能, 生物医药, 材料, 数字经济]
 sources_zsxq:
+  - reports/ZSXQ/知识星球_摘要_260810.md
   - reports/ZSXQ/知识星球_摘要_260809.md
 sources:
   - mx-search 2026-08-09: AI4S AI for Science 人工智能科学 金斯瑞 晶泰 最新进展
@@ -46,6 +47,8 @@ AI4S（AI for Science，科学智能）指 AI 深度介入科学研究全流程�
 
 ## 📡 最新事件追踪
 
+| 2026-08-10 | 星球 | 斯坦福《Science》实现首个可存活可复制AI设计噬菌体全基因组；AI4S主题带动华大智造关注度走高；金斯瑞分部估值：AI蛋白业务1.2亿美金（26年收入6.89亿×PS 6.0x） |
+| 2026-08-10 | 星球 | 美国能源部发布Genesis创世纪开放科学大模型GS1（白宫配套超50亿美元联邦资金、联动15机构17国家实验室）；晶泰控股发布XtalPi Science+Genius Agent科学智能体矩阵（26H1主业高增）；华大智造子公司涌生智能发布ProtoPilot/BioLabBench（自然语言实验意图到湿实验执行闭环） |
 | 2026-08-09 | 星球 | AI4S 产业更新：Coding 之后下一个场景（办公Agent/多模态/机器人/FDE/AI4S）；AI 制药从「预测结构」迈入「AI 生成生命」；商业化加速（生物医药/油气/化工/找矿/气象/芯片/材料） |
 | 日期 | 来源 | 事件 |
 |------|------|------|
