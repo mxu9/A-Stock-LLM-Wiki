@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-11 | Total pages: 253 | 210 entities + 41 concepts + 2 comparisons
+> Last updated: 2026-08-12 | Total pages: 255 | 210 entities + 43 concepts + 2 comparisons
 
 ## Entities (个股) — 210 stocks
 
@@ -261,8 +261,10 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 41 topics
+## Concepts (行业/概念/产业链) — 43 topics
 
+- [[silicon-capacitor]] 🆕 — 硅电容产业链（三星电机2026.6量产标志产业拐点，适配AI服务器/先进封装/光模块，国内导入初期，鸿远电子/达利凯普）
+- [[aluminum-nitride]] 🆕 — 氮化铝（AlN）产业链（高热导第三代半导体材料，日企涨价10-15%+氧化钇管制催化国产替代，旭光电子/金博股份）
 - [[nvidia-rubin]] 🆕 — NVIDIA Rubin 产业链（Vera Rubin 2026 Q3 量产，六大环节：整机/PCB/液冷/HVDC/光模块/电容，单柜价值量 +233% PCB）
 - [[suanli-rental]] 🆕 — 算力租赁（GPU租赁=新型云厂商，2026Q1市场680亿+62%，全年破2600亿，"十五五"4万亿直投，从卖算力到卖Token）
 - [[low-dk-electronic-fabric]] 🆕 — 低介电电子布/T布（ABF载板/mSAP/存储共同制约瓶颈，日东纺涨价20-30%，宏和科技全球第一）

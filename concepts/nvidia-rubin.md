@@ -3,7 +3,7 @@ dg-publish: true
 title: NVIDIA Rubin 产业链
 slug: nvidia-rubin
 created: 2026-08-10
-updated: 2026-08-11
+updated: 2026-08-12
 type: concept
 tags: [概念, Rubin, 英伟达, AIDC, 液冷, HVDC, PCB]
 sources:
@@ -89,6 +89,7 @@ Vera Rubin 是英伟达为智能体时代构建的 Pod 级超级计算机（NVL7
 | 06/21 | 官宣 100% 全液冷 45℃温水方案 |
 | 07/21 | 全球加速部署：CoreWeave/谷歌云/微软/甲骨文落地 NVL72 |
 | 08/06 | 规模化出货起点，首批落地 OpenAI/谷歌；全年机柜 8000 个 |
+| 08/11 | 源杰42.68亿扩产光芯片产业园（CPO高功率CW光源缺口8-10倍）；工业富联Q2归母131亿(+91%) Vera Rubin前瞻卡位；大摩：2027年Rubin出货近700万个/NVL72机架9万台；英伟达5000亿美元AI融资平台（六大华尔街机构）；市场传闻英伟达拟战投中际旭创2亿美元+基石参与新易盛IPO |
 | 08/10 | Vera Rubin NVL72全面加速量产（30国350工厂节点）；PCB微钻专家：Rubin 10倍通胀进入兑现期（钻针用量+寿命下降+均价GB200 1.5→GB300 2.8）；微软Maia 300自研ASIC放量强化光互联+PCB |
 | Q3 | NVL36/72/144 量产（11 月）；Rubin GPU 出货 570 万颗 |
 | Q4 | Rubin Ultra 发布（600kW，2027H2 出货） |
