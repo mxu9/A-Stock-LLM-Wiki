@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/low-dk-electronic-fabric/","title":"低介电电子布/T布","tags":["概念","PCB","覆铜板","电子布","低介电","T布","AI算力","材料"],"dg-note-properties":{"title":"低介电电子布/T布","slug":"low-dk-electronic-fabric","created":"2026-08-09","updated":"2026-08-09","type":"concept","tags":["概念","PCB","覆铜板","电子布","低介电","T布","AI算力","材料"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260809.md"],"sources":[{"mx-search 2026-08-09":"宏和科技 低介电电子布 T布 玻纤 最新进展"},{"知识星球 2026-08-09":"重申推荐T布龙头宏和科技（日东纺26Q1电子材料营业利润+70.7%，T布4月调价20-30%）"}]}}
+{"dg-publish":true,"permalink":"/concepts/low-dk-electronic-fabric/","title":"低介电电子布/T布","tags":["概念","PCB","覆铜板","电子布","低介电","T布","AI算力","材料"],"dg-note-properties":{"title":"低介电电子布/T布","slug":"low-dk-electronic-fabric","created":"2026-08-09","updated":"2026-08-11","type":"concept","tags":["概念","PCB","覆铜板","电子布","低介电","T布","AI算力","材料"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260810.md","reports/ZSXQ/知识星球_摘要_260809.md"],"sources":[{"mx-search 2026-08-09":"宏和科技 低介电电子布 T布 玻纤 最新进展"},{"知识星球 2026-08-09":"重申推荐T布龙头宏和科技（日东纺26Q1电子材料营业利润+70.7%，T布4月调价20-30%）"}]}}
 ---
 
 
@@ -35,6 +35,7 @@
 
 ## 📡 最新事件追踪
 
+| 2026-08-10 | 星球 | 天风建材：电子布缺货/涨价贯穿全年、关注中报兑现；高盛上调AI服务器PCB/CCL市场预期（2026-2028年840/480亿美元、CAGR 148%/161%、出货量CAGR 85%/77%）；7628布持续紧缺 |
 | 2026-08-09 | 星球 | 重申推荐 T布龙头宏和科技：日东纺 26Q1 电子材料营业利润 +70.7% 验证 T布 4 月调价 20-30%；T布成 ABF/mSAP/存储共同瓶颈、紧缺至 2027 年底；宏和年底产能超日东纺全球第一 |
 | 日期 | 来源 | 事件 |
 |------|------|------|

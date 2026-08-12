@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/suanli-rental/","title":"算力租赁","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"dg-note-properties":{"title":"算力租赁","slug":"suanli-rental","created":"2026-08-10","updated":"2026-08-10","type":"concept","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"sources":["mx-search 2026-08-10","中国信通院 2026Q1","发改委 2026-07-31","东吴计算机 2026-04-15"]}}
+{"dg-publish":true,"permalink":"/concepts/suanli-rental/","title":"算力租赁","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"dg-note-properties":{"title":"算力租赁","slug":"suanli-rental","created":"2026-08-10","updated":"2026-08-12","type":"concept","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"sources":["reports/ZSXQ/知识星球_摘要_260811.md","mx-search 2026-08-10","中国信通院 2026Q1","发改委 2026-07-31","东吴计算机 2026-04-15"]}}
 ---
 
 
@@ -40,6 +40,7 @@
 
 | 标的 | 代码 | 收盘 | 市值 | PE(TTM) | 绑定类型 | 一句话 |
 |------|:--:|:--:|:--:|:--:|------|------|
+| 08/11 | 英伟达联合六大华尔街机构筹建5000亿美元AI融资平台（AI工厂成为可投资资产）；行云科技算租爬坡（在手订单150e+/26年2k台/27年1w台，看600亿市值）；盛视科技B300到货+贸易服务并进；行云科技AI芯片卡被卡海关引发关注 |
 | [[entities/300442\|润泽科技]] | 300442 | 67.68 | 1111亿 | 21.4x | 自建自持 AIDC 龙头 | 字节 IDC 第一供应商，AIDC 占 44%，IDC 涨价受益 |
 | [[entities/300857\|协创数据]] | 300857 | 252.10 | 1234亿 | 70.7x | 算力租赁第一梯队 | H1 预增 15-19 亿(+247%~340%) |
 | [[entities/301396\|宏景科技]] | 301396 | 198.20 | 426亿 | 1215x⚠️ | 算力服务转型 | 东吴首推，算力占 76.5%，26年 5 集群 |
