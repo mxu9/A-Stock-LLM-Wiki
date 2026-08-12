@@ -3,11 +3,12 @@ dg-publish: true
 title: NVIDIA Rubin 产业链
 slug: nvidia-rubin
 created: 2026-08-10
-updated: 2026-08-12
+updated: 2026-08-13
 type: concept
 tags: [概念, Rubin, 英伟达, AIDC, 液冷, HVDC, PCB]
 sources:
-  - mx-search 2026-08-10
+    - reports/ZSXQ/知识星球_摘要_260812.md
+- mx-search 2026-08-10
   - 英伟达博客 2026-06/07
   - 高盛/大摩/国金/东吴/华泰/瑞银 研报
 ---
@@ -83,6 +84,7 @@ Vera Rubin 是英伟达为智能体时代构建的 Pod 级超级计算机（NVL7
 
 ## 事件线（2026）
 
+| 08/12 | LITE 确认 CPO 按计划推进、首笔 ELSFP 订单 27H2、TSMC 侧订单 8-9 月下达；Rubin Ultra NVL576 托盘 9+18+9（NVLink Switch 托盘 9→18 个）利好滑轨/背板；菲利华 Rubin HGX 8 卡 UBB+LPU Q4 订单环比增 3 倍 |
 | 日期 | 事件 |
 |------|------|
 | 06/01 | 英伟达官宣 Vera Rubin 全面投产 |

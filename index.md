@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 257 | 211 entities + 43 concepts + 3 comparisons
+> Last updated: 2026-08-13 | Total pages: 259 | 211 entities + 45 concepts + 3 comparisons
 
-## Entities (个股) — 210 stocks
+## Entities (个股) — 211 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -262,8 +262,10 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 43 topics
+## Concepts (行业/概念/产业链) — 45 topics
 
+- [[server-slide-rail]] 🆕 — AI服务器滑轨（机柜重量50→400kg倒逼滑轨升级，Rubin Ultra NVL576托盘9+18+9翻倍，海达尔/川湖/星徽股份，量价齐升）
+- [[ptfe-high-frequency-board]] 🆕 — PTFE高频高速板（NV正式立项spec+台光台虹合作开发+PCB加工难题解决，28年正交背板，东岳集团/沃特股份/东材科技/凌玮科技）
 - [[silicon-capacitor]] 🆕 — 硅电容产业链（三星电机2026.6量产标志产业拐点，适配AI服务器/先进封装/光模块，国内导入初期，鸿远电子/达利凯普）
 - [[aluminum-nitride]] 🆕 — 氮化铝（AlN）产业链（高热导第三代半导体材料，日企涨价10-15%+氧化钇管制催化国产替代，旭光电子/金博股份）
 - [[nvidia-rubin]] 🆕 — NVIDIA Rubin 产业链（Vera Rubin 2026 Q3 量产，六大环节：整机/PCB/液冷/HVDC/光模块/电容，单柜价值量 +233% PCB）
