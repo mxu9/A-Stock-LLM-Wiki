@@ -119,6 +119,8 @@ dg-publish: true
 | [[688187\|时代电气]] | — | — | SiC模块适配比亚迪 | — |
 | [[688711\|宏微科技]] | — | — | 🔥 NCB模块通过海外AI服务器整机认证，小批量供货 | — |
 
+- [[sic-two-stocks]] — 🆕 SiC双雄对比：天岳先进 vs 芯联集成（衬底 vs 器件代工）
+
 ### 3.6 外延及未上市企业 8英寸量产状态
 
 | 企业 | 8寸状态 | 关键数据 | 来源 |
@@ -335,7 +337,6 @@ dg-publish: true
 - [[power-semiconductor]] — 功率半导体（SiC的上位概念，含IGBT/MOSFET/GaN全品类）
 - [[800v-hvdc]] — SiC是800V HVDC核心材料
 - [[solid-state-transformer]] — SiC MOSFET是SST核心功率器件
-- [[sic-two-stocks]] — 🆕 SiC双雄对比：天岳先进 vs 芯联集成（衬底 vs 器件代工）
 
 ## 相关报告
 
