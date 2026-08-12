@@ -6,7 +6,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 256 | 210 entities + 43 concepts + 3 comparisons
+> Last updated: 2026-08-12 | Total pages: 257 | 211 entities + 43 concepts + 3 comparisons
 
 ## Entities (个股) — 210 stocks
 
@@ -79,6 +79,7 @@
 | [[entities/002518\|002518]] | 科士达 🆕 | — |
 | [[entities/002202\|002202]] 🆕 | 金风科技 | — |
 | [[entities/002706\|002706]] | 良信股份 | 1 |
+| [[entities/002927\|002927]] 🆕 | 泰永长征 | 1 |
 | [[entities/002850\|002850]] | 科达利 | 2 |
 | [[entities/002851\|002851]] | 麦格米特 | 1 |
 | [[entities/002885\|002885]] 🆕 | 京泉华 | — |
