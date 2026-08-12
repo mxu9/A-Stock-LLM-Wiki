@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 256 | 210 entities + 43 concepts + 3 comparisons
+> Last updated: 2026-08-12 | Total pages: 257 | 211 entities + 43 concepts + 3 comparisons
 
 ## Entities (个股) — 210 stocks
 
@@ -80,6 +80,7 @@ dg-publish: true
 | [[002518]] | 科士达 🆕 | — |
 | [[002202]] 🆕 | 金风科技 | — |
 | [[002706]] | 良信股份 | 1 |
+| [[002927]] 🆕 | 泰永长征 | 1 |
 | [[002850]] | 科达利 | 2 |
 | [[002851]] | 麦格米特 | 1 |
 | [[002885]] 🆕 | 京泉华 | — |
