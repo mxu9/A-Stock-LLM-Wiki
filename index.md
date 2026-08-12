@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 255 | 210 entities + 43 concepts + 2 comparisons
+> Last updated: 2026-08-12 | Total pages: 256 | 210 entities + 43 concepts + 3 comparisons
 
 ## Entities (个股) — 210 stocks
 
@@ -306,6 +306,7 @@ dg-publish: true
 ## Comparisons
 - [[hvdc-three-stocks]] — HVDC三股对比
 - [[ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
+- [[sic-two-stocks]] 🆕 — SiC双雄对比（天岳先进 vs 芯联集成：衬底 vs 器件代工，8/12）
 
 ## Reports — 68 reports
 - [[reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）
