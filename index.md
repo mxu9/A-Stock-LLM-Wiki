@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-14 | Total pages: 271 | 222 entities + 45 concepts + 4 comparisons
+> Last updated: 2026-08-14 | Total pages: 266 | 216 entities + 46 concepts + 4 comparisons
 
-## Entities (个股) — 222 stocks
+## Entities (个股) — 216 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -267,8 +267,14 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 45 topics
+## Concepts (行业/概念/产业链) — 46 topics
 
+- [[sofc-fuel-cell]] 🆕 — SOFC固体氧化物燃料电池（数据中心供电快速部署90天 vs 电网5-7年，Bloom Energy在手订单200亿美元+，三环集团/潍柴动力/京泉华/佛燃能源/壹石通）
+- [[ai-application]] — AI应用（2026 AI应用爆发元年，Token日调用200万亿次，金山办公/浪潮/泛微/致远）
+- [[dividend-etf]] — 红利ETF（红利择时模型8月中证红利推荐仓位100%）
+- [[gold-stocks]] — 黄金股（金价在美国CPI数据公布后再涨至阶段性高点）
+- [[virtual-power-plant]] — 虚拟电厂（电力系统灵活性资源，AI电力需求共振）
+- [[xinkailai]] — 新凯来（半导体设备国产替代核心，先进制程设备突破）
 - [[server-slide-rail]] 🆕 — AI服务器滑轨（机柜重量50→400kg倒逼滑轨升级，Rubin Ultra NVL576托盘9+18+9翻倍，海达尔/川湖/星徽股份，量价齐升）
 - [[ptfe-high-frequency-board]] 🆕 — PTFE高频高速板（NV正式立项spec+台光台虹合作开发+PCB加工难题解决，28年正交背板，东岳集团/沃特股份/东材科技/凌玮科技）
 - [[silicon-capacitor]] 🆕 — 硅电容产业链（三星电机2026.6量产标志产业拐点，适配AI服务器/先进封装/光模块，国内导入初期，鸿远电子/达利凯普）

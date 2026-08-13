@@ -3,10 +3,11 @@ title: AI应用
 slug: ai-application
 dg-publish: true
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-14
 type: concept
 tags: [AI, 人工智能, 应用, TMT, 科技]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260813.md
   - mx-search 2026-08-01: AI应用全产业链28只核心标的
   - mx-search 2026-08-02: 东方/开源计算机周报
   - mx-search 2026-08-02: 中信建投十大热门研报
@@ -112,6 +113,14 @@ sources:
 | 紫光股份 | 000938 | **+83-122%** | 智算基础设施 |
 | 中际旭创 | 300308 | — | 800G/1.6T光模块商用 |
 | 新易盛 | 300502 | — | 光模块高弹性 |
+
+## 🆕 8/13 最新动态
+
+| 事件 | 详情 |
+|------|------|
+| **DeepSeek V4 Pro** | 正式版发布、API 定价翻倍：性能比肩 Opus 4.8、成本约 1/20；Harness 开源加速 Agent 生态 |
+| **MiniMax** | 港股通落地、H3 推动模型与商业化共振；天风再次强 call 显著非对称机会 |
+| **智谱 GLM** | 强 call 基模：GLM-5.3/5.5 陆续登场；腾讯 2Q26 Workbuddy 为第一优先级 |
 
 ## 📈 机构共识
 
