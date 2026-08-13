@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-13 | Total pages: 270 | 222 entities + 45 concepts + 3 comparisons
+> Last updated: 2026-08-14 | Total pages: 271 | 222 entities + 45 concepts + 4 comparisons
 
 ## Entities (个股) — 222 stocks
 
@@ -20,11 +20,11 @@ dg-publish: true
 | [[002837]] 🆕 | 英维克 | — |
 | [[300249]] 🆕 | 依米康 | — |
 | [[300499]] 🆕 | 高澜股份 | — |
-| [[300442]] 🆕 | 润泽科技 | 1 |
-| [[300857]] 🆕 | 协创数据 | 1 |
-| [[301396]] 🆕 | 宏景科技 | 1 |
-| [[603629]] 🆕 | 利通电子 | 1 |
-| [[001339]] 🆕 | 智微智能 | 1 |
+| [[300442]] 🆕 | 润泽科技 | 2 |
+| [[300857]] 🆕 | 协创数据 | 2 |
+| [[301396]] 🆕 | 宏景科技 | 2 |
+| [[603629]] 🆕 | 利通电子 | 2 |
+| [[001339]] 🆕 | 智微智能 | 2 |
 | [[688158]] 🆕 | 优刻得 | 1 |
 
 ### AI应用/数据智能
@@ -120,7 +120,7 @@ dg-publish: true
 | [[600460]] 🆕 | 士兰微 | — |
 | [[600509]] 🆕 | 天富能源 | — |
 | [[600563]] | 法拉电子 | 1 |
-| [[600673]] | 东阳光 | 1 |
+| [[600673]] | 东阳光 | 2 |
 | [[600703]] 🆕 | 三安光电 | — |
 | [[688025]] | 杰普特 🆕 | — |
 | [[688048]] | 长光华芯 🆕 | — |
@@ -315,6 +315,7 @@ dg-publish: true
 - [[hvdc-three-stocks]] — HVDC三股对比
 - [[ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
 - [[sic-two-stocks]] 🆕 — SiC双雄对比（天岳先进 vs 芯联集成：衬底 vs 器件代工，8/12）
+- [[suanli-rental-six-stocks]] 🆕 — 算力租赁六标的对比（润泽/协创/宏景/利通/智微/东阳光，8/14）
 
 ## Reports — 68 reports
 - [[reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）
