@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-13 | Total pages: 259 | 211 entities + 45 concepts + 3 comparisons
+> Last updated: 2026-08-13 | Total pages: 265 | 217 entities + 45 concepts + 3 comparisons
 
-## Entities (个股) — 211 stocks
+## Entities (个股) — 217 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -230,10 +230,14 @@ dg-publish: true
 | [[300604]] 🆕 | 长川科技 | — |
 | [[300567]] 🆕 | 精测电子 | — |
 | [[688361]] 🆕 | 中科飞测 | — |
-| [[688409]] 🆕 | 富创精密 | — |
+| [[688409]] 🆕 | 富创精密 | 1 |
 | [[300666]] 🆕 | 江丰电子 | — |
 | [[301611]] 🆕 | 珂玛科技 | — |
-| [[300260]] 🆕 | 新莱应材 | — |
+| [[300260]] 🆕 | 新莱应材 | 1 |
+| [[603690]] 🆕 | 至纯科技 | 1 |
+| [[301013]] 🆕 | 利和兴 | 1 |
+| [[688103]] 🆕 | 国力电子 | 1 |
+| [[688518]] 🆕 | 联赢激光 | 1 |
 | [[688596]] 🆕 | 正帆科技 | — |
 | [[688233]] 🆕 | 神工股份 | — |
 | [[688019]] 🆕 | 安集科技 | — |
