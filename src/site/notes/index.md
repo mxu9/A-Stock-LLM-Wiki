@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-12 | Total pages: 257 | 211 entities + 43 concepts + 3 comparisons
+> Last updated: 2026-08-14 | Total pages: 271 | 222 entities + 45 concepts + 4 comparisons
 
-## Entities (个股) — 210 stocks
+## Entities (个股) — 222 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -19,11 +19,11 @@
 | [[entities/002837\|002837]] 🆕 | 英维克 | — |
 | [[entities/300249\|300249]] 🆕 | 依米康 | — |
 | [[entities/300499\|300499]] 🆕 | 高澜股份 | — |
-| [[entities/300442\|300442]] 🆕 | 润泽科技 | 1 |
-| [[entities/300857\|300857]] 🆕 | 协创数据 | 1 |
-| [[entities/301396\|301396]] 🆕 | 宏景科技 | 1 |
-| [[entities/603629\|603629]] 🆕 | 利通电子 | 1 |
-| [[entities/001339\|001339]] 🆕 | 智微智能 | 1 |
+| [[entities/300442\|300442]] 🆕 | 润泽科技 | 2 |
+| [[entities/300857\|300857]] 🆕 | 协创数据 | 2 |
+| [[entities/301396\|301396]] 🆕 | 宏景科技 | 2 |
+| [[entities/603629\|603629]] 🆕 | 利通电子 | 2 |
+| [[entities/001339\|001339]] 🆕 | 智微智能 | 2 |
 | [[entities/688158\|688158]] 🆕 | 优刻得 | 1 |
 
 ### AI应用/数据智能
@@ -119,7 +119,7 @@
 | [[entities/600460\|600460]] 🆕 | 士兰微 | — |
 | [[entities/600509\|600509]] 🆕 | 天富能源 | — |
 | [[entities/600563\|600563]] | 法拉电子 | 1 |
-| [[entities/600673\|600673]] | 东阳光 | 1 |
+| [[entities/600673\|600673]] | 东阳光 | 2 |
 | [[entities/600703\|600703]] 🆕 | 三安光电 | — |
 | [[entities/688025\|688025]] | 杰普特 🆕 | — |
 | [[entities/688048\|688048]] | 长光华芯 🆕 | — |
@@ -229,18 +229,23 @@
 | [[entities/300604\|300604]] 🆕 | 长川科技 | — |
 | [[entities/300567\|300567]] 🆕 | 精测电子 | — |
 | [[entities/688361\|688361]] 🆕 | 中科飞测 | — |
-| [[entities/688409\|688409]] 🆕 | 富创精密 | — |
-| [[entities/300666\|300666]] 🆕 | 江丰电子 | — |
+| [[entities/688409\|688409]] 🆕 | 富创精密 | 1 |
+| [[entities/300666\|300666]] 🆕 | 江丰电子 | 1 |
 | [[entities/301611\|301611]] 🆕 | 珂玛科技 | — |
-| [[entities/300260\|300260]] 🆕 | 新莱应材 | — |
-| [[entities/688596\|688596]] 🆕 | 正帆科技 | — |
+| [[entities/300260\|300260]] 🆕 | 新莱应材 | 1 |
+| [[entities/603690\|603690]] 🆕 | 至纯科技 | 1 |
+| [[entities/301013\|301013]] 🆕 | 利和兴 | 1 |
+| [[entities/688103\|688103]] 🆕 | 国力电子 | 1 |
+| [[entities/688518\|688518]] 🆕 | 联赢激光 | 1 |
+| [[entities/688596\|688596]] 🆕 | 正帆科技 | 1 |
+| [[entities/688401\|688401]] 🆕 | 路维光电 | 1 |
 | [[entities/688233\|688233]] 🆕 | 神工股份 | — |
 | [[entities/688019\|688019]] 🆕 | 安集科技 | — |
 | [[entities/300054\|300054]] 🆕 | 鼎龙股份 | — |
 | [[entities/002409\|002409]] 🆕 | 雅克科技 | — |
 | [[entities/603078\|603078]] 🆕 | 江化微 | — |
 | [[entities/300655\|300655]] 🆕 | 晶瑞电材 | — |
-| [[entities/300346\|300346]] 🆕 | 南大光电 | — |
+| [[entities/300346\|300346]] 🆕 | 南大光电 | 1 |
 | [[entities/300576\|300576]] 🆕 | 容大感光 | — |
 | [[entities/688126\|688126]] 🆕 | 沪硅产业 | — |
 | [[entities/605358\|605358]] 🆕 | 立昂微 | — |
@@ -261,8 +266,10 @@
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 | [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 43 topics
+## Concepts (行业/概念/产业链) — 45 topics
 
+- [[concepts/server-slide-rail\|server-slide-rail]] 🆕 — AI服务器滑轨（机柜重量50→400kg倒逼滑轨升级，Rubin Ultra NVL576托盘9+18+9翻倍，海达尔/川湖/星徽股份，量价齐升）
+- [[concepts/ptfe-high-frequency-board\|ptfe-high-frequency-board]] 🆕 — PTFE高频高速板（NV正式立项spec+台光台虹合作开发+PCB加工难题解决，28年正交背板，东岳集团/沃特股份/东材科技/凌玮科技）
 - [[concepts/silicon-capacitor\|silicon-capacitor]] 🆕 — 硅电容产业链（三星电机2026.6量产标志产业拐点，适配AI服务器/先进封装/光模块，国内导入初期，鸿远电子/达利凯普）
 - [[concepts/aluminum-nitride\|aluminum-nitride]] 🆕 — 氮化铝（AlN）产业链（高热导第三代半导体材料，日企涨价10-15%+氧化钇管制催化国产替代，旭光电子/金博股份）
 - [[concepts/nvidia-rubin\|nvidia-rubin]] 🆕 — NVIDIA Rubin 产业链（Vera Rubin 2026 Q3 量产，六大环节：整机/PCB/液冷/HVDC/光模块/电容，单柜价值量 +233% PCB）
@@ -307,6 +314,7 @@
 - [[comparisons/hvdc-three-stocks\|hvdc-three-stocks]] — HVDC三股对比
 - [[comparisons/ai-power-three-stocks\|ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
 - [[comparisons/sic-two-stocks\|sic-two-stocks]] 🆕 — SiC双雄对比（天岳先进 vs 芯联集成：衬底 vs 器件代工，8/12）
+- [[comparisons/suanli-rental-six-stocks\|suanli-rental-six-stocks]] 🆕 — 算力租赁六标的对比（润泽/协创/宏景/利通/智微/东阳光，8/14）
 
 ## Reports — 68 reports
 - [[reports\|reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）
