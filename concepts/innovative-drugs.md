@@ -4,10 +4,11 @@ title: 创新药
 slug: innovative-drugs
 sector: 医药
 created: 2026-07-15
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [概念, 医药, 创新药, CXO, BD出海]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260814.md
     - reports/ZSXQ/知识星球_摘要_260812.md
 - reports/ZSXQ/知识星球_摘要_260809.md
   - reports/ZSXQ/知识星球_摘要_260807.md
@@ -104,6 +105,7 @@ sources:
 
 ## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-14 | zsxq | 临床 CRO 景气度回暖：H1 订单持续好转、H2 有望加速恢复；热景生物多款全球 FIC 品种+小核酸 CD36-AOC 布局；业聚医疗 H1 业绩高于预期 |
 | 2026-08-12 | zsxq | 百利天恒全球首款双抗 ADC（iza-bren EGFR×HER3）6/22 获批上市；康宁杰瑞 JSKN016 与 Pathos AI 授权最高 20.93 亿美元；石药 SYS6063 全球首款 LNP-mRNA 双靶点 CAR-T 启动 SLE 临床；翰宇药业司美格鲁肽 T2D 权益授予三生蔓迪 |
 | 2026-08-09 | zsxq | AI4S成Coding后下一场景：Arc《Science》AI设计噬菌体全基因组、Jeff Dean创办Discovery Loop、Twist订单指引超预期；药明康德禁令获批（暂缓1260H认定执行）；招商医药看好创新药/CXO上游；开源医药GLP-1全链条超预期 |
 | 2026-08-08 | zsxq | 药明康德临时禁令获批：美国哥伦比亚特区联邦法院批准PI，阻止列入1260H清单（法院认定三项依据均"可能不成立"）；长江计算机：AI4S拐点显现，数据卖铲层率先兑现 |

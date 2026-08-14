@@ -3,10 +3,11 @@ dg-publish: true
 title: 算力租赁
 slug: suanli-rental
 created: 2026-08-10
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [概念, 算力租赁, AIDC, Token经济, AI算力]
 sources:
+  - reports/ZSXQ/知识星球_摘要_260814.md
   - reports/ZSXQ/知识星球_摘要_260813.md
   - reports/ZSXQ/知识星球_摘要_260812.md
   - reports/ZSXQ/知识星球_摘要_260811.md
@@ -42,6 +43,7 @@ sources:
 
 | 日期 | 事件 |
 |---|---|
+| 08/14 | 协创数据 H1 营收 126.4 亿(+156%) 算力扩表、Q2 利润率再上台阶；申昊科技一体两翼（算力租赁+机器人） |
 | 08/13 | 新云双子星大超预期：CoreWeave Q2 营收 26 亿美元(+112%)、Nebius 全面超预期（单 GW 年收入 400-500 亿）、双双上调指引；腾讯 Q2 Capex 528 亿创历史新高；协创数据 1H26 快报全面超预期、国内算租龙头 |
 | 08/10 | 智微智能：中报智算利润 8.62 亿，净利率 22.16%，募 28.7 亿+40 亿购服务器 |
 | 08/06 | DeepSeek 拟大幅上调 API 定价 → 概念异动，中嘉博创/利通/优刻得等跟涨 |
