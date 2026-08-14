@@ -4,8 +4,8 @@ slug: aidc-supply-chain
 created: 2026-07-01
 updated: 2026-08-13
 sources_zsxq:
-    - reports/ZSXQ/知识星球_摘要_260812.md
-- reports/ZSXQ/知识星球_摘要_260811.md
+  - reports/ZSXQ/知识星球_摘要_260812.md
+  - reports/ZSXQ/知识星球_摘要_260811.md
   - reports/ZSXQ/知识星球_摘要_260810.md
   - reports/ZSXQ/知识星球_摘要_260807.md
   - reports/ZSXQ/知识星球_摘要_260805.md
