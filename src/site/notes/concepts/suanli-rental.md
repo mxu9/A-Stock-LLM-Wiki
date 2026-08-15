@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/suanli-rental/","title":"算力租赁","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"dg-note-properties":{"title":"算力租赁","slug":"suanli-rental","created":"2026-08-10","updated":"2026-08-14","type":"concept","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"sources":["reports/ZSXQ/知识星球_摘要_260813.md","reports/ZSXQ/知识星球_摘要_260812.md","reports/ZSXQ/知识星球_摘要_260811.md","mx-search 2026-08-10","中国信通院 2026Q1","发改委 2026-07-31","东吴计算机 2026-04-15"]}}
+{"dg-publish":true,"permalink":"/concepts/suanli-rental/","title":"算力租赁","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"dg-note-properties":{"title":"算力租赁","slug":"suanli-rental","created":"2026-08-10","updated":"2026-08-15","type":"concept","tags":["概念","算力租赁","AIDC","Token经济","AI算力"],"sources":["reports/ZSXQ/知识星球_摘要_260814.md","reports/ZSXQ/知识星球_摘要_260813.md","reports/ZSXQ/知识星球_摘要_260812.md","reports/ZSXQ/知识星球_摘要_260811.md","mx-search 2026-08-10","中国信通院 2026Q1","发改委 2026-07-31","东吴计算机 2026-04-15"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 
 **算力租赁 = GPU 租赁业务**：为客户提供高端 AI 芯片（H100/A100/H200/GB200 等）及算力集群服务，支持 AI 训练/推理，本质是"新型云厂商"。国内以"三二浮动制"合同为主（前3年固定+第4-5年浮动），另有按需付费模式；算力紧缺下年化定价 ≤3 年收回成本。
 
-[[suanli-rental-six-stocks\|算力租赁6标的比较]]
+[[comparisons/suanli-rental-six-stocks\|算力租赁6标的比较]]
 
 ## 核心数据（2026）
 
@@ -29,6 +29,7 @@
 
 | 日期 | 事件 |
 |---|---|
+| 08/14 | 协创数据 H1 营收 126.4 亿(+156%) 算力扩表、Q2 利润率再上台阶；申昊科技一体两翼（算力租赁+机器人） |
 | 08/13 | 新云双子星大超预期：CoreWeave Q2 营收 26 亿美元(+112%)、Nebius 全面超预期（单 GW 年收入 400-500 亿）、双双上调指引；腾讯 Q2 Capex 528 亿创历史新高；协创数据 1H26 快报全面超预期、国内算租龙头 |
 | 08/10 | 智微智能：中报智算利润 8.62 亿，净利率 22.16%，募 28.7 亿+40 亿购服务器 |
 | 08/06 | DeepSeek 拟大幅上调 API 定价 → 概念异动，中嘉博创/利通/优刻得等跟涨 |

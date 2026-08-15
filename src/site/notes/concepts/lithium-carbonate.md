@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/lithium-carbonate/","title":"碳酸锂板块","tags":["碳酸锂","产业链"],"dg-note-properties":{"title":"碳酸锂板块","created":"2026-06-17","updated":"2026-08-02","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["碳酸锂","产业链"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-07-18/20":"🔥锂电消费税回归，国城锂业6万吨投产，碳酸锂7.5→19.5万元/吨，湖南裕能上调2000元/吨"}]}}
+{"dg-publish":true,"permalink":"/concepts/lithium-carbonate/","title":"碳酸锂板块","tags":["碳酸锂","产业链"],"dg-note-properties":{"title":"碳酸锂板块","created":"2026-06-17","updated":"2026-08-15","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260814.md","reports/ZSXQ/知识星球_摘要_260701.md"],"type":"concept","tags":["碳酸锂","产业链"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","raw/reports/ZSXQ/知识星球_摘要_260629.md",{"mx-search 2026-07-18/20":"🔥锂电消费税回归，国城锂业6万吨投产，碳酸锂7.5→19.5万元/吨，湖南裕能上调2000元/吨"}]}}
 ---
 
 
@@ -25,6 +25,7 @@
 
 ## 📡 最新事件追踪
 
+| 2026-08-14 | zsxq | 碳酸锂周度更新：本周去库幅度超预期、锂价上行（SMM 电池级 14.75 万）；锂矿需求预期修正、龙头上修明年需求指引（增速展望 35%），现货紧张加剧（东吴电新/国金金属） |
 | 2026-07-22 | zsxq | 电解液添加剂VC价格已破前高(18w)，天赐/新宙邦等核心公司受益 |
 | 2026-07-22 | zsxq | 宁德时代消费税利空出尽，鹏辉能源26H1扣非净利7.92-8.58亿超预期 |
 
