@@ -2,10 +2,11 @@
 title: PTFE高频高速板
 slug: ptfe-high-frequency-board
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [PTFE, 高频高速, PCB, 覆铜板, 材料, AI算力]
 sources_zsxq:
+  - reports/ZSXQ/知识星球_摘要_260815.md
   - reports/ZSXQ/知识星球_摘要_260814.md
   - reports/ZSXQ/知识星球_摘要_260813.md
   - reports/ZSXQ/知识星球_摘要_260812.md
@@ -40,6 +41,13 @@ NV 立项 spec（2026-08）
 | 东材科技 | 碳氢树脂 | 碳氢树脂领军（~100t 订单产业进展快），AI 爆发量价齐升 |
 | 凌玮科技 | 化学法硅微粉 | PTFE 方案下硅微粉用量更大，高频高速 CCL 用化学球硅缺口扩大 |
 | 德福科技 | HVLP 铜箔 | Q3-4 HVLP3~4 铜箔放量，PCB 上游配套 |
+
+## 🆕 8/15 最新动态
+
+| 事件 | 详情 |
+|------|------|
+| **树脂 ZJ 交流（PCB 上游）** | M9 相对 M8：碳氢树脂 PPO 使用量从 1:2 升级到 2:1、使用量大幅提升，高频板材料升级趋势确认 |
+| **生益科技 26H1 中报** | 营收 190.26 亿(+50.05%)，CCL 量价齐升兑现 |
 
 ## 🆕 8/14 最新动态
 

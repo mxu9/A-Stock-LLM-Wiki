@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-15 | Total pages: 267 | 216 entities + 47 concepts + 4 comparisons
+> Last updated: 2026-08-16 | Total pages: 268 | 216 entities + 48 concepts + 4 comparisons
 
 ## Entities (个股) — 216 stocks
 
@@ -267,8 +267,9 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 47 topics
+## Concepts (行业/概念/产业链) — 48 topics
 
+- [[npo-optical-interconnect]] 🆕 — NPO近封装光学（传统可插拔与CPO间过渡方案，12寸硅光价值量+4倍、TIA/Driver+3倍，2027爬坡；光引擎/高密度连接/FAU/光源/先进封装全环节，东北证券深度报告）
 - [[tantalum-capacitor]] 🆕 — 钽电容/压电陶瓷（AI服务器单机用量20-40倍于传统、钽价年内+138%、刚果金供给集中，星源材质控股邦瓷电子/顺络电子/振华科技）
 - [[sofc-fuel-cell]] 🆕 — SOFC固体氧化物燃料电池（数据中心供电快速部署90天 vs 电网5-7年，Bloom Energy在手订单200亿美元+，三环集团/潍柴动力/京泉华/佛燃能源/壹石通）
 - [[ai-application]] — AI应用（2026 AI应用爆发元年，Token日调用200万亿次，金山办公/浪潮/泛微/致远）
