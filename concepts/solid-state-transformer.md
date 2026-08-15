@@ -5,8 +5,8 @@ updated: 2026-08-13
 type: concept
 tags: [固态变压器, 产业链, 电力设备]
 sources:
-    - reports/ZSXQ/知识星球_摘要_260812.md
-- reports/ZSXQ/知识星球_摘要_260809.md
+  - reports/ZSXQ/知识星球_摘要_260812.md
+  - reports/ZSXQ/知识星球_摘要_260809.md
   - mx-search 2026-07-13: 阳光电源EnerNeo商用SST发布/130MW框架协议/2026商业化转折
   - mx-search 2026-07-14: 阳光电源EnerNeo SST发布，微软AWS出席，与东阳光/中联数据签框架协议
   - mx-search 2026-07-12: SST最新动态（阳光电源EnerNeo/安靠智电/英伟达600kW SST）
