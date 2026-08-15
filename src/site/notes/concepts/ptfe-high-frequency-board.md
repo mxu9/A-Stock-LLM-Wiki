@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/ptfe-high-frequency-board/","title":"PTFE高频高速板","tags":["PTFE","高频高速","PCB","覆铜板","材料","AI算力"],"dg-note-properties":{"title":"PTFE高频高速板","slug":"ptfe-high-frequency-board","created":"2026-08-13","updated":"2026-08-13","type":"concept","tags":["PTFE","高频高速","PCB","覆铜板","材料","AI算力"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260812.md"]}}
+{"dg-publish":true,"permalink":"/concepts/ptfe-high-frequency-board/","title":"PTFE高频高速板","tags":["PTFE","高频高速","PCB","覆铜板","材料","AI算力"],"dg-note-properties":{"title":"PTFE高频高速板","slug":"ptfe-high-frequency-board","created":"2026-08-13","updated":"2026-08-14","type":"concept","tags":["PTFE","高频高速","PCB","覆铜板","材料","AI算力"],"sources_zsxq":["reports/ZSXQ/知识星球_摘要_260813.md","reports/ZSXQ/知识星球_摘要_260812.md"]}}
 ---
 
 
@@ -31,6 +31,14 @@ NV 立项 spec（2026-08）
 | 东材科技 | 碳氢树脂 | 碳氢树脂领军（~100t 订单产业进展快），AI 爆发量价齐升 |
 | 凌玮科技 | 化学法硅微粉 | PTFE 方案下硅微粉用量更大，高频高速 CCL 用化学球硅缺口扩大 |
 | 德福科技 | HVLP 铜箔 | Q3-4 HVLP3~4 铜箔放量，PCB 上游配套 |
+
+## 🆕 8/13 最新动态
+
+| 事件 | 详情 |
+|------|------|
+| **宏和科技 26H1** | 业绩大增 334%（收入/归母 10.5/3.8 亿、+9/+334%），终止四川普通级 E 布项目（2023 年项目、无影响）、专注特种布扩产 |
+| **CCL 交流要点** | PTFE 为中长期发展方向：高频下电气性能优异、Df 值低，测试效果较理想；M8+一代布 OAM 方案 8-9 月确定 |
+| **联瑞新材** | 27 年 M8-9 单张覆铜板液相法球硅用量测算：出货 5000 万/2500 万张+PP 片 1:2 假设，单吨 ASP 逻辑强化 |
 
 ## 关联概念
 

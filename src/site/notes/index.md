@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-14 | Total pages: 271 | 222 entities + 45 concepts + 4 comparisons
+> Last updated: 2026-08-14 | Total pages: 266 | 216 entities + 46 concepts + 4 comparisons
 
-## Entities (个股) — 222 stocks
+## Entities (个股) — 216 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -238,7 +238,7 @@
 | [[entities/688103\|688103]] 🆕 | 国力电子 | 1 |
 | [[entities/688518\|688518]] 🆕 | 联赢激光 | 1 |
 | [[entities/688596\|688596]] 🆕 | 正帆科技 | 1 |
-| [[entities/688401\|688401]] 🆕 | 路维光电 | 1 |
+| [[688401\|688401]] 🆕 | 路维光电 | 1 |
 | [[entities/688233\|688233]] 🆕 | 神工股份 | — |
 | [[entities/688019\|688019]] 🆕 | 安集科技 | — |
 | [[entities/300054\|300054]] 🆕 | 鼎龙股份 | — |
@@ -266,8 +266,14 @@
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 | [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 45 topics
+## Concepts (行业/概念/产业链) — 46 topics
 
+- [[concepts/sofc-fuel-cell\|sofc-fuel-cell]] 🆕 — SOFC固体氧化物燃料电池（数据中心供电快速部署90天 vs 电网5-7年，Bloom Energy在手订单200亿美元+，三环集团/潍柴动力/京泉华/佛燃能源/壹石通）
+- [[concepts/ai-application\|ai-application]] — AI应用（2026 AI应用爆发元年，Token日调用200万亿次，金山办公/浪潮/泛微/致远）
+- [[concepts/dividend-etf\|dividend-etf]] — 红利ETF（红利择时模型8月中证红利推荐仓位100%）
+- [[concepts/gold-stocks\|gold-stocks]] — 黄金股（金价在美国CPI数据公布后再涨至阶段性高点）
+- [[concepts/virtual-power-plant\|virtual-power-plant]] — 虚拟电厂（电力系统灵活性资源，AI电力需求共振）
+- [[concepts/xinkailai\|xinkailai]] — 新凯来（半导体设备国产替代核心，先进制程设备突破）
 - [[concepts/server-slide-rail\|server-slide-rail]] 🆕 — AI服务器滑轨（机柜重量50→400kg倒逼滑轨升级，Rubin Ultra NVL576托盘9+18+9翻倍，海达尔/川湖/星徽股份，量价齐升）
 - [[concepts/ptfe-high-frequency-board\|ptfe-high-frequency-board]] 🆕 — PTFE高频高速板（NV正式立项spec+台光台虹合作开发+PCB加工难题解决，28年正交背板，东岳集团/沃特股份/东材科技/凌玮科技）
 - [[concepts/silicon-capacitor\|silicon-capacitor]] 🆕 — 硅电容产业链（三星电机2026.6量产标志产业拐点，适配AI服务器/先进封装/光模块，国内导入初期，鸿远电子/达利凯普）
@@ -314,7 +320,7 @@
 - [[comparisons/hvdc-three-stocks\|hvdc-three-stocks]] — HVDC三股对比
 - [[comparisons/ai-power-three-stocks\|ai-power-three-stocks]] 🆕 — AI电源三龙头对比（阳光电源 vs 麦格米特 vs 中恒电气）
 - [[comparisons/sic-two-stocks\|sic-two-stocks]] 🆕 — SiC双雄对比（天岳先进 vs 芯联集成：衬底 vs 器件代工，8/12）
-- [[comparisons/suanli-rental-six-stocks\|suanli-rental-six-stocks]] 🆕 — 算力租赁六标的对比（润泽/协创/宏景/利通/智微/东阳光，8/14）
+- [[suanli-rental-six-stocks\|suanli-rental-six-stocks]] 🆕 — 算力租赁六标的对比（润泽/协创/宏景/利通/智微/东阳光，8/14）
 
 ## Reports — 68 reports
 - [[reports\|reports]] — 📁 研究报告目录（按日期归档，含知识星球每日摘要）

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/deepseek-ecosystem/","title":"DeepSeek生态","tags":["概念","AI","DeepSeek","大模型"],"dg-note-properties":{"title":"DeepSeek生态","slug":"deepseek-ecosystem","created":"2026-07-17","updated":"2026-08-08","type":"concept","tags":["概念","AI","DeepSeek","大模型"],"sources":["reports/260717/每日互动_全面分析_260717.md","知识星球 💰调研纪要 (2026/02)","reports/ZSXQ/知识星球_摘要_260808.md"]}}
+{"dg-publish":true,"permalink":"/concepts/deepseek-ecosystem/","title":"DeepSeek生态","tags":["概念","AI","DeepSeek","大模型"],"dg-note-properties":{"title":"DeepSeek生态","slug":"deepseek-ecosystem","created":"2026-07-17","updated":"2026-08-14","type":"concept","tags":["概念","AI","DeepSeek","大模型"],"sources":["reports/ZSXQ/知识星球_摘要_260813.md","reports/260717/每日互动_全面分析_260717.md","知识星球 💰调研纪要 (2026/02)","reports/ZSXQ/知识星球_摘要_260808.md"]}}
 ---
 
 
@@ -9,6 +9,7 @@
 
 ## 📡 最新事件追踪 (更新于 2026-08-08)
 
+| 2026-08-13 | zsxq | DeepSeek V4 Pro 正式版发布（8/13）：API 定价翻倍（8/17 生效、峰时 2 倍）、性能比肩 Opus 4.8、成本约 1/20；Harness 开源加速 Agent 生态；GLM-5.3/5.5、MiniMax H3、Qwen3.8、Grok 4.6 密集迭代（中泰传媒：AI 应用与云生态持续受益） |
 | 2026-08-08 | zsxq | 浙商AI战队：DeepSeek现行模型涨价分析；深度报告：年化经常性收入4-5亿美元，V4 API毛利率70-80%，OpenRouter Token份额半年9%→大幅提升 |
 | 2026-07-22 | zsxq | 国产算力全面拥抱NPO，头部大厂明确落地节奏，中国产业链迎重大机遇 |
 
