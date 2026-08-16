@@ -1,0 +1,26 @@
+# Obsidian config
+.obsidian/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Git
+.git/
+
+node_modules
+dist
+src
+# Local Netlify folder
+.netlify
+.idea/
+.vercel
+.cache
+_site/
+**/.DS_Store

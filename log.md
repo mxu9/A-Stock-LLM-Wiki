@@ -171,3 +171,10 @@
 ### 2026-07-01 | 时代电气全面分析
 - 更新 entity: 688187.md（全面分析增强）
 - 新增报告: reports/260701/时代电气_全面分析_260701.md
+
+## [2026-08-16] create | AIDC电源 总览概念页
+- 新建 concepts/aidc-power.md：AIDC 电源总览（严格供电链路口径：HVDC/SST/PSU/保护器件/元器件/备电）
+- 整合来源：800v-hvdc / solid-state-transformer / byte-ai-power / aidc-supply-chain / gas-turbine / power-semiconductor + comparisons + reports + events
+- 标的按环节表格（约 29 只），新闻时间线 2026-05-15 至今（近3个月，倒序）
+- index.md: concepts 48→49, total 268→269
+- SCHEMA.md: 新增标签 AI电源

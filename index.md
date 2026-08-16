@@ -7,7 +7,7 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-16 | Total pages: 268 | 216 entities + 48 concepts + 4 comparisons
+> Last updated: 2026-08-16 | Total pages: 269 | 216 entities + 49 concepts + 4 comparisons
 
 ## Entities (个股) — 216 stocks
 
@@ -267,7 +267,7 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 48 topics
+## Concepts (行业/概念/产业链) — 49 topics
 
 - [[npo-optical-interconnect]] 🆕 — NPO近封装光学（传统可插拔与CPO间过渡方案，12寸硅光价值量+4倍、TIA/Driver+3倍，2027爬坡；光引擎/高密度连接/FAU/光源/先进封装全环节，东北证券深度报告）
 - [[tantalum-capacitor]] 🆕 — 钽电容/压电陶瓷（AI服务器单机用量20-40倍于传统、钽价年内+138%、刚果金供给集中，星源材质控股邦瓷电子/顺络电子/振华科技）
@@ -293,6 +293,7 @@ dg-publish: true
 - [[deepseek-ecosystem]] 🆕 — DeepSeek生态（唯一A股映射+国产算力+V4正式版上线催化）
 - [[kimi-k3-ecosystem]] 🆕 — Kimi K3生态（全球最大开源模型2.8T+Arena编程#1+月之暗面估值315亿$）
 - [[800v-hvdc]] — 800V HVDC 高压直流供电（🆕 已更新最新动态）
+- [[aidc-power]] 🆕 — AIDC电源总览（供电链路：HVDC/SST/PSU/柴发/元器件，2026-2028黄金窗口）
 - [[aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[solid-state-transformer]] — 固态变压器(SST)
 - [[sic-supply-chain]] 🆕 — 碳化硅(SiC)产业链
