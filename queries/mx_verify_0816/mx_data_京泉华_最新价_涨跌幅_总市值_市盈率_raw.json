@@ -1,0 +1,341 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "1dc4382b-9b15-4b97-bf65-dde210b67f24",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "53a63b0a-4f79-4073-91ac-eaf385eee39d",
+        "dataTableDTOList": [
+          {
+            "code": "002885.SZ",
+            "entityName": "京泉华(002885.SZ)",
+            "table": {
+              "326809": [
+                "84.23亿",
+                "85.99亿",
+                "86.37亿",
+                "82.33亿",
+                "86.45亿"
+              ],
+              "325898": [
+                "31.09元",
+                "31.74元",
+                "31.88元",
+                "30.39元",
+                "31.91元"
+              ],
+              "326865": [
+                "-2.048%",
+                "-0.4391%",
+                "4.903%",
+                "-4.763%",
+                "9.997%"
+              ],
+              "328773": [
+                "87.01倍",
+                "88.83倍",
+                "89.22倍",
+                "85.05倍",
+                "89.31倍"
+              ],
+              "headName": [
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "8422808535.12",
+                "8598904564.32",
+                "8636832939.84",
+                "8233166657.52",
+                "8644960448.88"
+              ],
+              "325898": [
+                "31.09",
+                "31.74",
+                "31.88",
+                "30.39",
+                "31.91"
+              ],
+              "326865": [
+                "-2.047889098928792200",
+                "-0.439146800501883900",
+                "4.90292859493253800",
+                "-4.76339705421497800",
+                "9.99655291278868800"
+              ],
+              "328773": [
+                "87.0105813",
+                "88.82971536",
+                "89.22152885",
+                "85.05151386",
+                "89.30548888"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "325898": "收盘价",
+              "326865": "涨跌幅",
+              "328773": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "002885.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326865",
+                "returnName": "涨跌幅",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=2,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "100%",
+                "unitDesc": "100%",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "325898",
+              "326865",
+              "328773"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "京泉华(002885.SZ)的总市值、收盘价等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=002885.SZ&indId=100000000004751|121:2026-08-16|261:101:元:元,100000000001098|121:2026-08-16|513:1,100000000001097|121:2026-08-16|261:108:%:%,100000000034044|121:2026-08-16",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000673350",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "京泉华",
+              "shortName": "",
+              "matchWord": "京泉华",
+              "secuCode": "002885",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000673350",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "京泉华",
+                "shortName": "",
+                "matchWord": "京泉华",
+                "secuCode": "002885",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-14": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "京泉华",
+            "总市值收盘价涨跌幅市盈率PE(TTM)",
+            "2026-08-16至2026-08-16"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000673350",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "京泉华",
+            "shortName": "",
+            "matchWord": "京泉华",
+            "secuCode": "002885",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "3613bf83c89c4db7abf24cfb38a5507f"
+}

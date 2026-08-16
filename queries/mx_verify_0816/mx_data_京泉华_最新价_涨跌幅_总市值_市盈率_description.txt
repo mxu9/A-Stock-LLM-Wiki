@@ -1,0 +1,8 @@
+金融数据查询结果说明
+========================================
+查询内容: 京泉华 最新价 涨跌幅 总市值 市盈率
+数据文件路径: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_京泉华_最新价_涨跌幅_总市值_市盈率.xlsx
+描述文件路径: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_京泉华_最新价_涨跌幅_总市值_市盈率_description.txt
+数据行数: 5
+表数量: 1
+Sheet 列表: 京泉华(002885.SZ)的总市值、收盘价等

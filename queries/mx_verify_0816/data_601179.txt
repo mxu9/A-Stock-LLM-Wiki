@@ -1,0 +1,23 @@
+C:\Users\27494\miniconda3\Lib\site-packages\openpyxl\workbook\child.py:99: UserWarning: Title is more than 31 characters. Some applications may not be able to read the file
+  warnings.warn("Title is more than 31 characters. Some applications may not be able to read the file")
+**查询证券**:
+- 中国西电 (601179) - A股
+
+**查询结果**: 2 个表，共 13 行数据
+
+**中国西电(601179.SH)的总市值、收盘价等** (前20行预览):
+
+| date | 总市值 | 收盘价 | 涨跌幅 | 市盈率PE(TTM) |
+| --- | --- | --- | --- | --- |
+| 2026-08-14(日) | 692.5亿 | 13.51元 | -2.455% | 52.41倍 |
+| 2026-08-13(日) | 709.9亿 | 13.85元 | 0.4351% | 53.73倍 |
+| 2026-08-12(日) | 706.9亿 | 13.79元 | -0.07246% | 53.49倍 |
+| 2026-08-11(日) | 707.4亿 | 13.8元 | -1.919% | 53.53倍 |
+| 2026-08-10(日) | 721.2亿 | 14.07元 | 0% | 54.58倍 |
+
+*查询ID: 61a0c07f-a0fc-470b-bff2-c29bc7841853*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_中国西电_最新价_涨跌幅_总市值_市盈率_主营业务.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_中国西电_最新价_涨跌幅_总市值_市盈率_主营业务_description.txt
+📊 总行数: 13, 表数: 2
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_中国西电_最新价_涨跌幅_总市值_市盈率_主营业务_raw.json

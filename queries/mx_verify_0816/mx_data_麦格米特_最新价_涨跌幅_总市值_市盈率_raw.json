@@ -1,0 +1,341 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "5f5f8a77-17e4-48fa-bd80-74c01afb14a9",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "b8cd02f2-e93a-4513-b325-ddf2b099f7cf",
+        "dataTableDTOList": [
+          {
+            "code": "002851.SZ",
+            "entityName": "麦格米特(002851.SZ)",
+            "table": {
+              "326809": [
+                "768.7亿",
+                "771.4亿",
+                "735.1亿",
+                "696.2亿",
+                "706.1亿"
+              ],
+              "325898": [
+                "131.4元",
+                "131.86元",
+                "125.66元",
+                "119元",
+                "120.7元"
+              ],
+              "326865": [
+                "-0.3489%",
+                "4.934%",
+                "5.597%",
+                "-1.408%",
+                "-2.974%"
+              ],
+              "328773": [
+                "501.8倍",
+                "503.6倍",
+                "479.9倍",
+                "454.5倍",
+                "461倍"
+              ],
+              "headName": [
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "76870359201.6",
+                "77139463959.84",
+                "73512399827.04",
+                "69616230936",
+                "70610748520.8"
+              ],
+              "325898": [
+                "131.4",
+                "131.86",
+                "125.66",
+                "119.0",
+                "120.7"
+              ],
+              "326865": [
+                "-0.3488548460488456600",
+                "4.93394875059686200",
+                "5.59663865546218200",
+                "-1.408450704225354400",
+                "-2.97427652733119200"
+              ],
+              "328773": [
+                "501.81666109",
+                "503.5734013",
+                "479.89559842",
+                "454.46105532",
+                "460.95335611"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "325898": "收盘价",
+              "326865": "涨跌幅",
+              "328773": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "002851.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326865",
+                "returnName": "涨跌幅",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=2,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "100%",
+                "unitDesc": "100%",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "325898",
+              "326865",
+              "328773"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "麦格米特(002851.SZ)的总市值、收盘价等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=002851.SZ&indId=100000000004751|121:2026-08-16|261:101:元:元,100000000001098|121:2026-08-16|513:1,100000000001097|121:2026-08-16|261:108:%:%,100000000034044|121:2026-08-16",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000012603",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "麦格米特",
+              "shortName": "",
+              "matchWord": "麦格米特",
+              "secuCode": "002851",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000012603",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "麦格米特",
+                "shortName": "",
+                "matchWord": "麦格米特",
+                "secuCode": "002851",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-14": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "麦格米特",
+            "总市值收盘价涨跌幅市盈率PE(TTM)",
+            "2026-08-16至2026-08-16"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000012603",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "麦格米特",
+            "shortName": "",
+            "matchWord": "麦格米特",
+            "secuCode": "002851",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "a48e055c2b114f4993e940a5fdab59d7"
+}

@@ -1,0 +1,843 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "80dd1707-bd34-44cb-8631-bebce07dfcd7",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "aaa95ced-e29d-430a-a844-dbe7dd028652",
+        "dataTableDTOList": [
+          {
+            "code": "688676.SH",
+            "entityName": "金盘科技(688676.SH)",
+            "table": {
+              "326809": [
+                "322.9亿",
+                "330.4亿",
+                "318.4亿",
+                "316.3亿",
+                "321.8亿"
+              ],
+              "325898": [
+                "70.22元",
+                "71.85元",
+                "69.25元",
+                "68.79元",
+                "70元"
+              ],
+              "326865": [
+                "-2.269%",
+                "3.755%",
+                "0.6687%",
+                "-1.729%",
+                "0.9664%"
+              ],
+              "328773": [
+                "48.57倍",
+                "49.7倍",
+                "47.9倍",
+                "47.58倍",
+                "48.42倍"
+              ],
+              "headName": [
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "32286143216.94",
+                "33035593707.45",
+                "31840151207.25",
+                "31628649841.83",
+                "32184990390"
+              ],
+              "325898": [
+                "70.22",
+                "71.85",
+                "69.25",
+                "68.79",
+                "70.0"
+              ],
+              "326865": [
+                "-2.268615170494078800",
+                "3.75451263537905300",
+                "0.668701846198566200",
+                "-1.728571428571419600",
+                "0.966392615029571100"
+              ],
+              "328773": [
+                "48.57087102",
+                "49.69833499",
+                "47.89992621",
+                "47.58174619",
+                "48.41869797"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "325898": "收盘价",
+              "326865": "涨跌幅",
+              "328773": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "688676.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326865",
+                "returnName": "涨跌幅",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=2,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "100%",
+                "unitDesc": "100%",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "325898",
+              "326865",
+              "328773"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "金盘科技(688676.SH)的总市值、收盘价等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=688676.SH&indId=100000000004751|121:2026-08-16|261:101:元:元,100000000001098|121:2026-08-16|513:1,100000000001097|121:2026-08-16|261:108:%:%,100000000034044|121:2026-08-16",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1002240299",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "金盘科技",
+              "shortName": "",
+              "matchWord": "金盘科技",
+              "secuCode": "688676",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1002240299",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "金盘科技",
+                "shortName": "",
+                "matchWord": "金盘科技",
+                "secuCode": "688676",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-14": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          },
+          {
+            "code": "688676.SH",
+            "entityName": "类型",
+            "table": {
+              "headName": [
+                "主营构成",
+                "主营业务收入(元)",
+                "主营业务收入占比",
+                "主营成本(元)",
+                "主营成本占比",
+                "主营利润(元)",
+                "主营利润占比",
+                "毛利率"
+              ],
+              "0": [
+                "电气机械和器材制造业",
+                "71.2亿",
+                "97.60%",
+                "52.81亿",
+                "97.63%",
+                "18.39亿",
+                "97.49%",
+                "25.83%"
+              ],
+              "1": [
+                "专用设备制造业",
+                "1.124亿",
+                "1.54%",
+                "7645万",
+                "1.41%",
+                "3600万",
+                "1.91%",
+                "32.01%"
+              ],
+              "2": [
+                "其他业务",
+                "6299万",
+                "0.86%",
+                "5167万",
+                "0.96%",
+                "1132万",
+                "0.60%",
+                "17.97%"
+              ],
+              "3": [
+                "合计",
+                "72.95亿",
+                "100.00%",
+                "54.09亿",
+                "100.00%",
+                "18.86亿",
+                "100.00%",
+                "25.85%"
+              ],
+              "4": [
+                "电气设备系列",
+                "62.73亿",
+                "85.99%",
+                "45.06亿",
+                "83.31%",
+                "17.67亿",
+                "93.69%",
+                "28.17%"
+              ],
+              "5": [
+                "储能系列",
+                "6.208亿",
+                "8.51%",
+                "5.738亿",
+                "10.61%",
+                "4694万",
+                "2.49%",
+                "7.56%"
+              ],
+              "6": [
+                "数字化整体解决方案",
+                "1.124亿",
+                "1.54%",
+                "7645万",
+                "1.41%",
+                "3600万",
+                "1.91%",
+                "32.01%"
+              ],
+              "7": [
+                "其他主营业务",
+                "2.885亿",
+                "3.96%",
+                "2.524亿",
+                "4.67%",
+                "3614万",
+                "1.92%",
+                "12.53%"
+              ],
+              "8": [
+                "合计",
+                "72.95亿",
+                "100.00%",
+                "54.09亿",
+                "100.00%",
+                "18.86亿",
+                "100.00%",
+                "25.85%"
+              ],
+              "9": [
+                "全部地区",
+                "72.32亿",
+                "99.14%",
+                "53.57亿",
+                "99.04%",
+                "18.75亿",
+                "99.40%",
+                "25.92%"
+              ],
+              "10": [
+                "其他业务",
+                "6299万",
+                "0.86%",
+                "5167万",
+                "0.96%",
+                "1132万",
+                "0.60%",
+                "17.97%"
+              ],
+              "11": [
+                "合计",
+                "72.95亿",
+                "100.00%",
+                "54.09亿",
+                "100.00%",
+                "18.86亿",
+                "100.00%",
+                "25.85%"
+              ],
+              "12": [
+                "直销",
+                "71.2亿",
+                "97.60%",
+                "52.66亿",
+                "97.36%",
+                "18.54亿",
+                "98.30%",
+                "26.04%"
+              ],
+              "13": [
+                "经销",
+                "1.121亿",
+                "1.54%",
+                "9133万",
+                "1.69%",
+                "2078万",
+                "1.10%",
+                "18.54%"
+              ],
+              "14": [
+                "其他业务",
+                "6299万",
+                "0.86%",
+                "5167万",
+                "0.96%",
+                "1132万",
+                "0.60%",
+                "17.97%"
+              ],
+              "15": [
+                "合计",
+                "72.95亿",
+                "100.00%",
+                "54.09亿",
+                "100.00%",
+                "18.86亿",
+                "100.00%",
+                "25.85%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "主营构成",
+                "主营业务收入(元)",
+                "主营业务收入占比",
+                "主营成本(元)",
+                "主营成本占比",
+                "主营利润(元)",
+                "主营利润占比",
+                "毛利率"
+              ],
+              "0": [
+                "电气机械和器材制造业",
+                "7119550304.25",
+                "97.60%",
+                "5280894966.91",
+                "97.63%",
+                "1838655337.34",
+                "97.49%",
+                "25.83%"
+              ],
+              "1": [
+                "专用设备制造业",
+                "112445023.06",
+                "1.54%",
+                "76447439.69",
+                "1.41%",
+                "35997583.37",
+                "1.91%",
+                "32.01%"
+              ],
+              "2": [
+                "其他业务",
+                "62991309.1",
+                "0.86%",
+                "51671531.61",
+                "0.96%",
+                "11319777.49",
+                "0.60%",
+                "17.97%"
+              ],
+              "3": [
+                "合计",
+                "7294986636.41",
+                "100.00%",
+                "5409013938.21",
+                "100.00%",
+                "1885972698.2",
+                "100.00%",
+                "25.85%"
+              ],
+              "4": [
+                "电气设备系列",
+                "6273265672.27",
+                "85.99%",
+                "4506370606.14",
+                "83.31%",
+                "1766895066.13",
+                "93.69%",
+                "28.17%"
+              ],
+              "5": [
+                "储能系列",
+                "620767063.94",
+                "8.51%",
+                "573831986.04",
+                "10.61%",
+                "46935077.9",
+                "2.49%",
+                "7.56%"
+              ],
+              "6": [
+                "数字化整体解决方案",
+                "112445023.06",
+                "1.54%",
+                "76447439.69",
+                "1.41%",
+                "35997583.37",
+                "1.91%",
+                "32.01%"
+              ],
+              "7": [
+                "其他主营业务",
+                "288508877.14",
+                "3.95%",
+                "252363906.34",
+                "4.67%",
+                "36144970.8",
+                "1.92%",
+                "12.53%"
+              ],
+              "8": [
+                "合计",
+                "7294986636.41",
+                "100.00%",
+                "5409013938.21",
+                "100.00%",
+                "1885972698.2",
+                "100.00%",
+                "25.85%"
+              ],
+              "9": [
+                "全部地区",
+                "7231995327.31",
+                "99.14%",
+                "5357342406.6",
+                "99.04%",
+                "1874652920.71",
+                "99.40%",
+                "25.92%"
+              ],
+              "10": [
+                "其他业务",
+                "62991309.1",
+                "0.86%",
+                "51671531.61",
+                "0.96%",
+                "11319777.49",
+                "0.60%",
+                "17.97%"
+              ],
+              "11": [
+                "合计",
+                "7294986636.41",
+                "100.00%",
+                "5409013938.21",
+                "100.00%",
+                "1885972698.2",
+                "100.00%",
+                "25.85%"
+              ],
+              "12": [
+                "直销",
+                "7119881019.51",
+                "97.60%",
+                "5266009753.71",
+                "97.36%",
+                "1853871265.8",
+                "98.30%",
+                "26.04%"
+              ],
+              "13": [
+                "经销",
+                "112114307.8",
+                "1.54%",
+                "91332652.89",
+                "1.69%",
+                "20781654.91",
+                "1.10%",
+                "18.54%"
+              ],
+              "14": [
+                "其他业务",
+                "62991309.1",
+                "0.86%",
+                "51671531.61",
+                "0.96%",
+                "11319777.49",
+                "0.60%",
+                "17.97%"
+              ],
+              "15": [
+                "合计",
+                "7294986636.41",
+                "100.00%",
+                "5409013938.21",
+                "100.00%",
+                "1885972698.2",
+                "100.00%",
+                "25.85%"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "0": "行业",
+              "1": "",
+              "2": "",
+              "3": "",
+              "4": "产品",
+              "5": "",
+              "6": "",
+              "7": "",
+              "8": "",
+              "9": "地区",
+              "10": "",
+              "11": "",
+              "12": "销售模式",
+              "13": "",
+              "14": "",
+              "15": ""
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_HSF9_FN_MAINOPBUSINESS_NORMAL",
+              "returnName": "主营业务构成",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SecuCode,SECURITY_NAME_ABBR,SECURITY_CODE,ReportDate,STD_REPORT_NAME,ACT_REPORT_NAME,MAIN_BUSINESS_INCOME,MAIN_BUSINESS_COST,MAIN_BUSINESS_RPOFIT,MBI_RATIO,MBC_RATIO,MBR_RATIO,GROSS_RPOFIT_RATIO,STD_CLASSIFY_CODE,REPORT_TYPE,REPORT_YEAR,REPORT_CODE,Type,BELONG_TYPE_CODE,IS_MAXREPORTDATE,METHOD_TYPE,METHOD_CODE,CURRENCY,CURRENCY_CH",
+              "returnSourceName": "证券代码（带后缀）,证券简称,证券代码,报告日期,标准披露项目名称,实际披露项目名称,本期主营业务收入,本期主营业务成本,本期主营业务利润,收入构成,营业成本占比,利润构成,本期毛利率,项目编码,报告期类型,报告年度,报告期编码,分布类型,分布类型编码,是否最新报告期,计算方式类型,计算方式代码,币种(英文),币种(中文)",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_HSF9_FN_MAINOPBUSINESS_NORMAL",
+                "returnName": "主营业务构成",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SecuCode,SECURITY_NAME_ABBR,SECURITY_CODE,ReportDate,STD_REPORT_NAME,ACT_REPORT_NAME,MAIN_BUSINESS_INCOME,MAIN_BUSINESS_COST,MAIN_BUSINESS_RPOFIT,MBI_RATIO,MBC_RATIO,MBR_RATIO,GROSS_RPOFIT_RATIO,STD_CLASSIFY_CODE,REPORT_TYPE,REPORT_YEAR,REPORT_CODE,Type,BELONG_TYPE_CODE,IS_MAXREPORTDATE,METHOD_TYPE,METHOD_CODE,CURRENCY,CURRENCY_CH",
+                "returnSourceName": "证券代码（带后缀）,证券简称,证券代码,报告日期,标准披露项目名称,实际披露项目名称,本期主营业务收入,本期主营业务成本,本期主营业务利润,收入构成,营业成本占比,利润构成,本期毛利率,项目编码,报告期类型,报告年度,报告期编码,分布类型,分布类型编码,是否最新报告期,计算方式类型,计算方式代码,币种(英文),币种(中文)",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "金盘科技(688676.SH)主营构成分析(2025-12-31)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/mainCompositionByProjectName?securitycode=688676.SH",
+                "typeName": "F9深度资料",
+                "securityName": "金盘科技"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1002240299",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "金盘科技",
+              "shortName": "",
+              "matchWord": "金盘科技",
+              "secuCode": "688676",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1002240299",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "金盘科技",
+                "shortName": "",
+                "matchWord": "金盘科技",
+                "secuCode": "688676",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "金盘科技",
+            "frontendEntityCode": "688676.SH",
+            "frontendTitle": "主营构成分析(2025-12-31)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "金盘科技",
+            "总市值主营业务构成收盘价涨跌幅市盈率PE(TTM)",
+            "2026-08-16至2026-08-16"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1002240299",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "金盘科技",
+            "shortName": "",
+            "matchWord": "金盘科技",
+            "secuCode": "688676",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "222062bff47240dba0d7ab4a83d44b34"
+}

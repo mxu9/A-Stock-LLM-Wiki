@@ -1,0 +1,23 @@
+C:\Users\27494\miniconda3\Lib\site-packages\openpyxl\workbook\child.py:99: UserWarning: Title is more than 31 characters. Some applications may not be able to read the file
+  warnings.warn("Title is more than 31 characters. Some applications may not be able to read the file")
+**查询证券**:
+- 金盘科技 (688676) - A股
+
+**查询结果**: 2 个表，共 13 行数据
+
+**金盘科技(688676.SH)的总市值、收盘价等** (前20行预览):
+
+| date | 总市值 | 收盘价 | 涨跌幅 | 市盈率PE(TTM) |
+| --- | --- | --- | --- | --- |
+| 2026-08-14(日) | 322.9亿 | 70.22元 | -2.269% | 48.57倍 |
+| 2026-08-13(日) | 330.4亿 | 71.85元 | 3.755% | 49.7倍 |
+| 2026-08-12(日) | 318.4亿 | 69.25元 | 0.6687% | 47.9倍 |
+| 2026-08-11(日) | 316.3亿 | 68.79元 | -1.729% | 47.58倍 |
+| 2026-08-10(日) | 321.8亿 | 70元 | 0.9664% | 48.42倍 |
+
+*查询ID: aaa95ced-e29d-430a-a844-dbe7dd028652*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_金盘科技_最新价_涨跌幅_总市值_市盈率_主营业务.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_金盘科技_最新价_涨跌幅_总市值_市盈率_主营业务_description.txt
+📊 总行数: 13, 表数: 2
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_金盘科技_最新价_涨跌幅_总市值_市盈率_主营业务_raw.json

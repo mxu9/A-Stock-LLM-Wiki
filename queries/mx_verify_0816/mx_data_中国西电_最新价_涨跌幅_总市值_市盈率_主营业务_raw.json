@@ -1,0 +1,953 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "74201228-750d-4610-a92d-4bfdca2aa3a8",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "61a0c07f-a0fc-470b-bff2-c29bc7841853",
+        "dataTableDTOList": [
+          {
+            "code": "601179.SH",
+            "entityName": "中国西电(601179.SH)",
+            "table": {
+              "326809": [
+                "692.5亿",
+                "709.9亿",
+                "706.9亿",
+                "707.4亿",
+                "721.2亿"
+              ],
+              "325898": [
+                "13.51元",
+                "13.85元",
+                "13.79元",
+                "13.8元",
+                "14.07元"
+              ],
+              "326865": [
+                "-2.455%",
+                "0.4351%",
+                "-0.07246%",
+                "-1.919%",
+                "0%"
+              ],
+              "328773": [
+                "52.41倍",
+                "53.73倍",
+                "53.49倍",
+                "53.53倍",
+                "54.58倍"
+              ],
+              "headName": [
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "69250670575.52",
+                "70993470575.2",
+                "70685917634.08",
+                "70737176457.6",
+                "72121164692.64"
+              ],
+              "325898": [
+                "13.51",
+                "13.85",
+                "13.79",
+                "13.8",
+                "14.07"
+              ],
+              "326865": [
+                "-2.454873646209385400",
+                "0.435097897026834700",
+                "-0.0724637681159533500",
+                "-1.918976545842214500",
+                "0.0"
+              ],
+              "328773": [
+                "52.40734514",
+                "53.72625686",
+                "53.49350773",
+                "53.53229925",
+                "54.57967033"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "325898": "收盘价",
+              "326865": "涨跌幅",
+              "328773": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "601179.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326865",
+                "returnName": "涨跌幅",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=2,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "100%",
+                "unitDesc": "100%",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "325898",
+              "326865",
+              "328773"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "中国西电(601179.SH)的总市值、收盘价等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=601179.SH&indId=100000000004751|121:2026-08-16|261:101:元:元,100000000001098|121:2026-08-16|513:1,100000000001097|121:2026-08-16|261:108:%:%,100000000034044|121:2026-08-16",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000007970",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "中国西电",
+              "shortName": "",
+              "matchWord": "中国西电",
+              "secuCode": "601179",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000007970",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "中国西电",
+                "shortName": "",
+                "matchWord": "中国西电",
+                "secuCode": "601179",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-14": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          },
+          {
+            "code": "601179.SH",
+            "entityName": "类型",
+            "table": {
+              "headName": [
+                "主营构成",
+                "主营业务收入(元)",
+                "主营业务收入占比",
+                "主营成本(元)",
+                "主营成本占比",
+                "主营利润(元)",
+                "主营利润占比",
+                "毛利率"
+              ],
+              "0": [
+                "输变电设备制造行业",
+                "234.8亿",
+                "98.61%",
+                "181.8亿",
+                "99.08%",
+                "52.99亿",
+                "97.04%",
+                "22.57%"
+              ],
+              "1": [
+                "其他业务",
+                "2.737亿",
+                "1.15%",
+                "1.685亿",
+                "0.92%",
+                "1.053亿",
+                "1.93%",
+                "38.45%"
+              ],
+              "2": [
+                "其他项目",
+                "5658万",
+                "0.24%",
+                "-22.38",
+                "-0.00%",
+                "5658万",
+                "1.04%",
+                "-"
+              ],
+              "3": [
+                "合计",
+                "238.1亿",
+                "100.00%",
+                "183.5亿",
+                "100.00%",
+                "54.61亿",
+                "100.00%",
+                "22.93%"
+              ],
+              "4": [
+                "变压器",
+                "100.8亿",
+                "42.33%",
+                "82.22亿",
+                "44.80%",
+                "18.58亿",
+                "34.02%",
+                "18.43%"
+              ],
+              "5": [
+                "开关",
+                "87.01亿",
+                "36.54%",
+                "63.24亿",
+                "34.46%",
+                "23.77亿",
+                "43.53%",
+                "27.32%"
+              ],
+              "6": [
+                "电力电子",
+                "39.72亿",
+                "16.68%",
+                "33.17亿",
+                "18.08%",
+                "6.549亿",
+                "11.99%",
+                "16.49%"
+              ],
+              "7": [
+                "研发检测及二次设备",
+                "7.298亿",
+                "3.07%",
+                "3.207亿",
+                "1.75%",
+                "4.091亿",
+                "7.49%",
+                "56.06%"
+              ],
+              "8": [
+                "其他业务",
+                "2.737亿",
+                "1.15%",
+                "1.685亿",
+                "0.92%",
+                "1.053亿",
+                "1.93%",
+                "38.45%"
+              ],
+              "9": [
+                "其他项目",
+                "5658万",
+                "0.24%",
+                "77.62",
+                "0.00%",
+                "5658万",
+                "1.04%",
+                "-"
+              ],
+              "10": [
+                "合计",
+                "238.1亿",
+                "100.00%",
+                "183.5亿",
+                "100.00%",
+                "54.61亿",
+                "100.00%",
+                "22.93%"
+              ],
+              "11": [
+                "中国大陆",
+                "191.3亿",
+                "80.34%",
+                "143.5亿",
+                "78.21%",
+                "47.78亿",
+                "87.50%",
+                "24.98%"
+              ],
+              "12": [
+                "中国港澳台及海外地区",
+                "43.52亿",
+                "18.27%",
+                "38.31亿",
+                "20.88%",
+                "5.205亿",
+                "9.53%",
+                "11.96%"
+              ],
+              "13": [
+                "其他业务",
+                "2.737亿",
+                "1.15%",
+                "1.685亿",
+                "0.92%",
+                "1.053亿",
+                "1.93%",
+                "38.45%"
+              ],
+              "14": [
+                "其他项目",
+                "5658万",
+                "0.24%",
+                "-22.38",
+                "-0.00%",
+                "5658万",
+                "1.04%",
+                "-"
+              ],
+              "15": [
+                "合计",
+                "238.1亿",
+                "100.00%",
+                "183.5亿",
+                "100.00%",
+                "54.61亿",
+                "100.00%",
+                "22.93%"
+              ],
+              "16": [
+                "直销",
+                "228.3亿",
+                "95.89%",
+                "176.9亿",
+                "96.37%",
+                "51.48亿",
+                "94.27%",
+                "22.54%"
+              ],
+              "17": [
+                "代销",
+                "6.481亿",
+                "2.72%",
+                "4.968亿",
+                "2.71%",
+                "1.513亿",
+                "2.77%",
+                "23.34%"
+              ],
+              "18": [
+                "其他业务",
+                "2.737亿",
+                "1.15%",
+                "1.685亿",
+                "0.92%",
+                "1.053亿",
+                "1.93%",
+                "38.45%"
+              ],
+              "19": [
+                "其他项目",
+                "5658万",
+                "0.24%",
+                "-22.38",
+                "-0.00%",
+                "5658万",
+                "1.04%",
+                "-"
+              ],
+              "20": [
+                "合计",
+                "238.1亿",
+                "100.00%",
+                "183.5亿",
+                "100.00%",
+                "54.61亿",
+                "100.00%",
+                "22.93%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "主营构成",
+                "主营业务收入(元)",
+                "主营业务收入占比",
+                "主营成本(元)",
+                "主营成本占比",
+                "主营利润(元)",
+                "主营利润占比",
+                "毛利率"
+              ],
+              "0": [
+                "输变电设备制造行业",
+                "23482679500",
+                "98.61%",
+                "18183686200",
+                "99.08%",
+                "5298993300",
+                "97.04%",
+                "22.57%"
+              ],
+              "1": [
+                "其他业务",
+                "273739255.81",
+                "1.15%",
+                "168487976.19",
+                "0.92%",
+                "105251279.62",
+                "1.93%",
+                "38.45%"
+              ],
+              "2": [
+                "其他项目",
+                "56580225.94",
+                "0.24%",
+                "-22.38",
+                "-0.00%",
+                "56580248.32",
+                "1.04%",
+                "-"
+              ],
+              "3": [
+                "合计",
+                "23812998981.75",
+                "100.00%",
+                "18352174153.81",
+                "100.00%",
+                "5460824827.94",
+                "100.00%",
+                "22.93%"
+              ],
+              "4": [
+                "变压器",
+                "10079267600",
+                "42.33%",
+                "8221535300",
+                "44.80%",
+                "1857732300",
+                "34.02%",
+                "18.43%"
+              ],
+              "5": [
+                "开关",
+                "8701210600",
+                "36.54%",
+                "6323952300",
+                "34.46%",
+                "2377258300",
+                "43.53%",
+                "27.32%"
+              ],
+              "6": [
+                "电力电子",
+                "3972362000",
+                "16.68%",
+                "3317471900",
+                "18.08%",
+                "654890100",
+                "11.99%",
+                "16.49%"
+              ],
+              "7": [
+                "研发检测及二次设备",
+                "729839200",
+                "3.06%",
+                "320726600",
+                "1.75%",
+                "409112600",
+                "7.49%",
+                "56.06%"
+              ],
+              "8": [
+                "其他业务",
+                "273739255.81",
+                "1.15%",
+                "168487976.19",
+                "0.92%",
+                "105251279.62",
+                "1.93%",
+                "38.45%"
+              ],
+              "9": [
+                "其他项目",
+                "56580325.94",
+                "0.24%",
+                "77.62",
+                "0.00%",
+                "56580248.32",
+                "1.04%",
+                "-"
+              ],
+              "10": [
+                "合计",
+                "23812998981.75",
+                "100.00%",
+                "18352174153.81",
+                "100.00%",
+                "5460824827.94",
+                "100.00%",
+                "22.93%"
+              ],
+              "11": [
+                "中国大陆",
+                "19130892000",
+                "80.34%",
+                "14352407600",
+                "78.21%",
+                "4778484400",
+                "87.50%",
+                "24.98%"
+              ],
+              "12": [
+                "中国港澳台及海外地区",
+                "4351787400",
+                "18.27%",
+                "3831278600",
+                "20.88%",
+                "520508800",
+                "9.53%",
+                "11.96%"
+              ],
+              "13": [
+                "其他业务",
+                "273739255.81",
+                "1.15%",
+                "168487976.19",
+                "0.92%",
+                "105251279.62",
+                "1.93%",
+                "38.45%"
+              ],
+              "14": [
+                "其他项目",
+                "56580325.94",
+                "0.24%",
+                "-22.38",
+                "-0.00%",
+                "56580348.32",
+                "1.04%",
+                "-"
+              ],
+              "15": [
+                "合计",
+                "23812998981.75",
+                "100.00%",
+                "18352174153.81",
+                "100.00%",
+                "5460824827.94",
+                "100.00%",
+                "22.93%"
+              ],
+              "16": [
+                "直销",
+                "22834570800",
+                "95.89%",
+                "17686861300",
+                "96.37%",
+                "5147709500",
+                "94.27%",
+                "22.54%"
+              ],
+              "17": [
+                "代销",
+                "648108700",
+                "2.72%",
+                "496824900",
+                "2.71%",
+                "151283800",
+                "2.77%",
+                "23.34%"
+              ],
+              "18": [
+                "其他业务",
+                "273739255.81",
+                "1.15%",
+                "168487976.19",
+                "0.92%",
+                "105251279.62",
+                "1.93%",
+                "38.45%"
+              ],
+              "19": [
+                "其他项目",
+                "56580225.94",
+                "0.24%",
+                "-22.38",
+                "-0.00%",
+                "56580248.32",
+                "1.04%",
+                "-"
+              ],
+              "20": [
+                "合计",
+                "23812998981.75",
+                "100.00%",
+                "18352174153.81",
+                "100.00%",
+                "5460824827.94",
+                "100.00%",
+                "22.93%"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "0": "行业",
+              "1": "",
+              "2": "",
+              "3": "",
+              "4": "产品",
+              "5": "",
+              "6": "",
+              "7": "",
+              "8": "",
+              "9": "",
+              "10": "",
+              "11": "地区",
+              "12": "",
+              "13": "",
+              "14": "",
+              "15": "",
+              "16": "销售模式",
+              "17": "",
+              "18": "",
+              "19": "",
+              "20": ""
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_HSF9_FN_MAINOPBUSINESS_NORMAL",
+              "returnName": "主营业务构成",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SecuCode,SECURITY_NAME_ABBR,SECURITY_CODE,ReportDate,STD_REPORT_NAME,ACT_REPORT_NAME,MAIN_BUSINESS_INCOME,MAIN_BUSINESS_COST,MAIN_BUSINESS_RPOFIT,MBI_RATIO,MBC_RATIO,MBR_RATIO,GROSS_RPOFIT_RATIO,STD_CLASSIFY_CODE,REPORT_TYPE,REPORT_YEAR,REPORT_CODE,Type,BELONG_TYPE_CODE,IS_MAXREPORTDATE,METHOD_TYPE,METHOD_CODE,CURRENCY,CURRENCY_CH",
+              "returnSourceName": "证券代码（带后缀）,证券简称,证券代码,报告日期,标准披露项目名称,实际披露项目名称,本期主营业务收入,本期主营业务成本,本期主营业务利润,收入构成,营业成本占比,利润构成,本期毛利率,项目编码,报告期类型,报告年度,报告期编码,分布类型,分布类型编码,是否最新报告期,计算方式类型,计算方式代码,币种(英文),币种(中文)",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_HSF9_FN_MAINOPBUSINESS_NORMAL",
+                "returnName": "主营业务构成",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SecuCode,SECURITY_NAME_ABBR,SECURITY_CODE,ReportDate,STD_REPORT_NAME,ACT_REPORT_NAME,MAIN_BUSINESS_INCOME,MAIN_BUSINESS_COST,MAIN_BUSINESS_RPOFIT,MBI_RATIO,MBC_RATIO,MBR_RATIO,GROSS_RPOFIT_RATIO,STD_CLASSIFY_CODE,REPORT_TYPE,REPORT_YEAR,REPORT_CODE,Type,BELONG_TYPE_CODE,IS_MAXREPORTDATE,METHOD_TYPE,METHOD_CODE,CURRENCY,CURRENCY_CH",
+                "returnSourceName": "证券代码（带后缀）,证券简称,证券代码,报告日期,标准披露项目名称,实际披露项目名称,本期主营业务收入,本期主营业务成本,本期主营业务利润,收入构成,营业成本占比,利润构成,本期毛利率,项目编码,报告期类型,报告年度,报告期编码,分布类型,分布类型编码,是否最新报告期,计算方式类型,计算方式代码,币种(英文),币种(中文)",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "中国西电(601179.SH)主营构成分析(2025-12-31)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15",
+              "16",
+              "17",
+              "18",
+              "19",
+              "20"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/mainCompositionByProjectName?securitycode=601179.SH",
+                "typeName": "F9深度资料",
+                "securityName": "中国西电"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000007970",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "中国西电",
+              "shortName": "",
+              "matchWord": "中国西电",
+              "secuCode": "601179",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000007970",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "中国西电",
+                "shortName": "",
+                "matchWord": "中国西电",
+                "secuCode": "601179",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "中国西电",
+            "frontendEntityCode": "601179.SH",
+            "frontendTitle": "主营构成分析(2025-12-31)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "中国西电",
+            "总市值收盘价主营业务构成涨跌幅市盈率PE(TTM)",
+            "2026-08-16至2026-08-16"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000007970",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "中国西电",
+            "shortName": "",
+            "matchWord": "中国西电",
+            "secuCode": "601179",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "e1d0d8d2651e43c89d89d7c5c5982295"
+}

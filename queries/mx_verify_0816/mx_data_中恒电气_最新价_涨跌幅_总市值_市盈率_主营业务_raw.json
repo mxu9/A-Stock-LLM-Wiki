@@ -1,0 +1,887 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "94e79aa5-522d-4f7b-9d2a-5d7a5ece6d81",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "117a7fc3-539e-4b9b-aa4f-d8984dc4cc80",
+        "dataTableDTOList": [
+          {
+            "code": "002364.SZ",
+            "entityName": "中恒电气(002364.SZ)",
+            "table": {
+              "326809": [
+                "253.6亿",
+                "242.3亿",
+                "234.4亿",
+                "231.5亿",
+                "221.9亿"
+              ],
+              "325898": [
+                "45元",
+                "43元",
+                "41.59元",
+                "41.08元",
+                "39.37元"
+              ],
+              "326865": [
+                "4.651%",
+                "3.39%",
+                "1.241%",
+                "4.343%",
+                "-1.771%"
+              ],
+              "328773": [
+                "193.6倍",
+                "185倍",
+                "178.9倍",
+                "176.7倍",
+                "169.3倍"
+              ],
+              "headName": [
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "25360423200",
+                "24233293280",
+                "23438666686.4",
+                "23151248556.8",
+                "22187552475.2"
+              ],
+              "325898": [
+                "45.0",
+                "43.0",
+                "41.59",
+                "41.08",
+                "39.37"
+              ],
+              "326865": [
+                "4.651162790697674400",
+                "3.39023803798989300",
+                "1.241480038948405800",
+                "4.34340868681737600",
+                "-1.771457085828345400"
+              ],
+              "328773": [
+                "193.56288843",
+                "184.96009339",
+                "178.89512288",
+                "176.70141015",
+                "169.34602039"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "325898": "收盘价",
+              "326865": "涨跌幅",
+              "328773": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "002364.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326865",
+                "returnName": "涨跌幅",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=2,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "100%",
+                "unitDesc": "100%",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "325898",
+              "326865",
+              "328773"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "中恒电气(002364.SZ)的总市值、收盘价等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=002364.SZ&indId=100000000004751|121:2026-08-16|261:101:元:元,100000000001098|121:2026-08-16|513:1,100000000001097|121:2026-08-16|261:108:%:%,100000000034044|121:2026-08-16",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000007193",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "中恒电气",
+              "shortName": "",
+              "matchWord": "中恒电气",
+              "secuCode": "002364",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000007193",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "中恒电气",
+                "shortName": "",
+                "matchWord": "中恒电气",
+                "secuCode": "002364",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-14": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          },
+          {
+            "code": "002364.SZ",
+            "entityName": "类型",
+            "table": {
+              "headName": [
+                "主营构成",
+                "主营业务收入(元)",
+                "主营业务收入占比",
+                "主营成本(元)",
+                "主营成本占比",
+                "主营利润(元)",
+                "主营利润占比",
+                "毛利率"
+              ],
+              "0": [
+                "通信行业",
+                "11.6亿",
+                "54.28%",
+                "8.966亿",
+                "55.82%",
+                "2.634亿",
+                "49.61%",
+                "22.71%"
+              ],
+              "1": [
+                "电力行业",
+                "4.86亿",
+                "22.74%",
+                "3.662亿",
+                "22.80%",
+                "1.198亿",
+                "22.56%",
+                "24.65%"
+              ],
+              "2": [
+                "软件行业",
+                "4.189亿",
+                "19.60%",
+                "2.74亿",
+                "17.06%",
+                "1.449亿",
+                "27.28%",
+                "34.58%"
+              ],
+              "3": [
+                "其他",
+                "7230万",
+                "3.38%",
+                "6943万",
+                "4.32%",
+                "286.6万",
+                "0.54%",
+                "3.96%"
+              ],
+              "4": [
+                "合计",
+                "21.37亿",
+                "100.00%",
+                "16.06亿",
+                "100.00%",
+                "5.309亿",
+                "100.00%",
+                "24.84%"
+              ],
+              "5": [
+                "数据中心电源",
+                "7.758亿",
+                "36.30%",
+                "6.151亿",
+                "38.29%",
+                "1.606亿",
+                "30.26%",
+                "20.71%"
+              ],
+              "6": [
+                "电力操作电源系统",
+                "4.737亿",
+                "22.16%",
+                "3.591亿",
+                "22.35%",
+                "1.146亿",
+                "21.58%",
+                "24.19%"
+              ],
+              "7": [
+                "软件开发、销售及服务",
+                "4.189亿",
+                "19.60%",
+                "2.74亿",
+                "17.06%",
+                "1.449亿",
+                "27.28%",
+                "34.58%"
+              ],
+              "8": [
+                "通信电源系统",
+                "3.842亿",
+                "17.98%",
+                "2.815亿",
+                "17.52%",
+                "1.028亿",
+                "19.36%",
+                "26.75%"
+              ],
+              "9": [
+                "其他",
+                "7230万",
+                "3.38%",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+              ],
+              "10": [
+                "电力管理服务及工程(服务)",
+                "1236万",
+                "0.58%",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+              ],
+              "11": [
+                "其他项目",
+                "0",
+                "0.00%",
+                "7659万",
+                "4.77%",
+                "807万",
+                "1.52%",
+                "-"
+              ],
+              "12": [
+                "合计",
+                "21.37亿",
+                "100.00%",
+                "16.06亿",
+                "100.00%",
+                "5.309亿",
+                "100.00%",
+                "24.84%"
+              ],
+              "13": [
+                "中国大陆",
+                "20.5亿",
+                "95.90%",
+                "15.46亿",
+                "96.26%",
+                "5.035亿",
+                "94.83%",
+                "24.56%"
+              ],
+              "14": [
+                "境外",
+                "8755万",
+                "4.10%",
+                "6009万",
+                "3.74%",
+                "2746万",
+                "5.17%",
+                "31.36%"
+              ],
+              "15": [
+                "合计",
+                "21.37亿",
+                "100.00%",
+                "16.06亿",
+                "100.00%",
+                "5.309亿",
+                "100.00%",
+                "24.84%"
+              ],
+              "16": [
+                "直销",
+                "21.37亿",
+                "100.00%",
+                "16.06亿",
+                "100.00%",
+                "5.309亿",
+                "100.00%",
+                "24.84%"
+              ],
+              "17": [
+                "合计",
+                "21.37亿",
+                "100.00%",
+                "16.06亿",
+                "100.00%",
+                "5.309亿",
+                "100.00%",
+                "24.84%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "主营构成",
+                "主营业务收入(元)",
+                "主营业务收入占比",
+                "主营成本(元)",
+                "主营成本占比",
+                "主营利润(元)",
+                "主营利润占比",
+                "毛利率"
+              ],
+              "0": [
+                "通信行业",
+                "1159987183.54",
+                "54.28%",
+                "896573798.55",
+                "55.82%",
+                "263413384.99",
+                "49.61%",
+                "22.71%"
+              ],
+              "1": [
+                "电力行业",
+                "486040458.8",
+                "22.74%",
+                "366244071.19",
+                "22.80%",
+                "119796387.61",
+                "22.56%",
+                "24.65%"
+              ],
+              "2": [
+                "软件行业",
+                "418902082.85",
+                "19.60%",
+                "274042890.89",
+                "17.06%",
+                "144859191.96",
+                "27.28%",
+                "34.58%"
+              ],
+              "3": [
+                "其他",
+                "72298104.58",
+                "3.38%",
+                "69432120.79",
+                "4.32%",
+                "2865983.79",
+                "0.54%",
+                "3.96%"
+              ],
+              "4": [
+                "合计",
+                "2137227829.77",
+                "100.00%",
+                "1606292881.42",
+                "100.00%",
+                "530934948.35",
+                "100.00%",
+                "24.84%"
+              ],
+              "5": [
+                "数据中心电源",
+                "775760637.6",
+                "36.30%",
+                "615111451.42",
+                "38.29%",
+                "160649186.18",
+                "30.26%",
+                "20.71%"
+              ],
+              "6": [
+                "电力操作电源系统",
+                "473677203.64",
+                "22.16%",
+                "359084752.56",
+                "22.35%",
+                "114592451.08",
+                "21.58%",
+                "24.19%"
+              ],
+              "7": [
+                "软件开发、销售及服务",
+                "418902082.85",
+                "19.60%",
+                "274042890.89",
+                "17.06%",
+                "144859191.96",
+                "27.28%",
+                "34.58%"
+              ],
+              "8": [
+                "通信电源系统",
+                "384226545.94",
+                "17.98%",
+                "281462347.13",
+                "17.52%",
+                "102764198.81",
+                "19.36%",
+                "26.75%"
+              ],
+              "9": [
+                "其他",
+                "72298104.58",
+                "3.38%",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+              ],
+              "10": [
+                "电力管理服务及工程(服务)",
+                "12363255.16",
+                "0.58%",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+              ],
+              "11": [
+                "其他项目",
+                "0",
+                "0.00%",
+                "76591439.42",
+                "4.77%",
+                "8069920.32",
+                "1.52%",
+                "-"
+              ],
+              "12": [
+                "合计",
+                "2137227829.77",
+                "100.00%",
+                "1606292881.42",
+                "100.00%",
+                "530934948.35",
+                "100.00%",
+                "24.84%"
+              ],
+              "13": [
+                "中国大陆",
+                "2049673684.34",
+                "95.90%",
+                "1546197977.11",
+                "96.26%",
+                "503475707.23",
+                "94.83%",
+                "24.56%"
+              ],
+              "14": [
+                "境外",
+                "87554145.43",
+                "4.10%",
+                "60094904.31",
+                "3.74%",
+                "27459241.12",
+                "5.17%",
+                "31.36%"
+              ],
+              "15": [
+                "合计",
+                "2137227829.77",
+                "100.00%",
+                "1606292881.42",
+                "100.00%",
+                "530934948.35",
+                "100.00%",
+                "24.84%"
+              ],
+              "16": [
+                "直销",
+                "2137227829.77",
+                "100.00%",
+                "1606292881.42",
+                "100.00%",
+                "530934948.35",
+                "100.00%",
+                "24.84%"
+              ],
+              "17": [
+                "合计",
+                "2137227829.77",
+                "100.00%",
+                "1606292881.42",
+                "100.00%",
+                "530934948.35",
+                "100.00%",
+                "24.84%"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "0": "行业",
+              "1": "",
+              "2": "",
+              "3": "",
+              "4": "",
+              "5": "产品",
+              "6": "",
+              "7": "",
+              "8": "",
+              "9": "",
+              "10": "",
+              "11": "",
+              "12": "",
+              "13": "地区",
+              "14": "",
+              "15": "",
+              "16": "销售模式",
+              "17": ""
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_HSF9_FN_MAINOPBUSINESS_NORMAL",
+              "returnName": "主营业务构成",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-16 00:00:00",
+              "endDate": "2026-08-16 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SecuCode,SECURITY_NAME_ABBR,SECURITY_CODE,ReportDate,STD_REPORT_NAME,ACT_REPORT_NAME,MAIN_BUSINESS_INCOME,MAIN_BUSINESS_COST,MAIN_BUSINESS_RPOFIT,MBI_RATIO,MBC_RATIO,MBR_RATIO,GROSS_RPOFIT_RATIO,STD_CLASSIFY_CODE,REPORT_TYPE,REPORT_YEAR,REPORT_CODE,Type,BELONG_TYPE_CODE,IS_MAXREPORTDATE,METHOD_TYPE,METHOD_CODE,CURRENCY,CURRENCY_CH",
+              "returnSourceName": "证券代码（带后缀）,证券简称,证券代码,报告日期,标准披露项目名称,实际披露项目名称,本期主营业务收入,本期主营业务成本,本期主营业务利润,收入构成,营业成本占比,利润构成,本期毛利率,项目编码,报告期类型,报告年度,报告期编码,分布类型,分布类型编码,是否最新报告期,计算方式类型,计算方式代码,币种(英文),币种(中文)",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_HSF9_FN_MAINOPBUSINESS_NORMAL",
+                "returnName": "主营业务构成",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-16 00:00:00",
+                "endDate": "2026-08-16 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SecuCode,SECURITY_NAME_ABBR,SECURITY_CODE,ReportDate,STD_REPORT_NAME,ACT_REPORT_NAME,MAIN_BUSINESS_INCOME,MAIN_BUSINESS_COST,MAIN_BUSINESS_RPOFIT,MBI_RATIO,MBC_RATIO,MBR_RATIO,GROSS_RPOFIT_RATIO,STD_CLASSIFY_CODE,REPORT_TYPE,REPORT_YEAR,REPORT_CODE,Type,BELONG_TYPE_CODE,IS_MAXREPORTDATE,METHOD_TYPE,METHOD_CODE,CURRENCY,CURRENCY_CH",
+                "returnSourceName": "证券代码（带后缀）,证券简称,证券代码,报告日期,标准披露项目名称,实际披露项目名称,本期主营业务收入,本期主营业务成本,本期主营业务利润,收入构成,营业成本占比,利润构成,本期毛利率,项目编码,报告期类型,报告年度,报告期编码,分布类型,分布类型编码,是否最新报告期,计算方式类型,计算方式代码,币种(英文),币种(中文)",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "中恒电气(002364.SZ)主营构成分析(2025-12-31)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15",
+              "16",
+              "17"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/mainCompositionByProjectName?securitycode=002364.SZ",
+                "typeName": "F9深度资料",
+                "securityName": "中恒电气"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000007193",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "中恒电气",
+              "shortName": "",
+              "matchWord": "中恒电气",
+              "secuCode": "002364",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000007193",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "中恒电气",
+                "shortName": "",
+                "matchWord": "中恒电气",
+                "secuCode": "002364",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "中恒电气",
+            "frontendEntityCode": "002364.SZ",
+            "frontendTitle": "主营构成分析(2025-12-31)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "中恒电气",
+            "总市值主营业务构成收盘价涨跌幅市盈率PE(TTM)",
+            "2026-08-16至2026-08-16"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000007193",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "中恒电气",
+            "shortName": "",
+            "matchWord": "中恒电气",
+            "secuCode": "002364",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "5f409dd39ad9476fb6b2d62300497d89"
+}

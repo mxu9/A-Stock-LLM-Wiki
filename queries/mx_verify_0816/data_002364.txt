@@ -1,0 +1,23 @@
+C:\Users\27494\miniconda3\Lib\site-packages\openpyxl\workbook\child.py:99: UserWarning: Title is more than 31 characters. Some applications may not be able to read the file
+  warnings.warn("Title is more than 31 characters. Some applications may not be able to read the file")
+**查询证券**:
+- 中恒电气 (002364) - A股
+
+**查询结果**: 2 个表，共 13 行数据
+
+**中恒电气(002364.SZ)的总市值、收盘价等** (前20行预览):
+
+| date | 总市值 | 收盘价 | 涨跌幅 | 市盈率PE(TTM) |
+| --- | --- | --- | --- | --- |
+| 2026-08-14(日) | 253.6亿 | 45元 | 4.651% | 193.6倍 |
+| 2026-08-13(日) | 242.3亿 | 43元 | 3.39% | 185倍 |
+| 2026-08-12(日) | 234.4亿 | 41.59元 | 1.241% | 178.9倍 |
+| 2026-08-11(日) | 231.5亿 | 41.08元 | 4.343% | 176.7倍 |
+| 2026-08-10(日) | 221.9亿 | 39.37元 | -1.771% | 169.3倍 |
+
+*查询ID: 117a7fc3-539e-4b9b-aa4f-d8984dc4cc80*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_中恒电气_最新价_涨跌幅_总市值_市盈率_主营业务.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_中恒电气_最新价_涨跌幅_总市值_市盈率_主营业务_description.txt
+📊 总行数: 13, 表数: 2
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\mx_verify\mx_data_中恒电气_最新价_涨跌幅_总市值_市盈率_主营业务_raw.json
