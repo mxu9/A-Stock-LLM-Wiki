@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/ai-application/","title":"AI应用","tags":["AI","人工智能","应用","TMT","科技"],"dg-note-properties":{"title":"AI应用","slug":"ai-application","created":"2026-08-02","updated":"2026-08-15","type":"concept","tags":["AI","人工智能","应用","TMT","科技"],"sources":["reports/ZSXQ/知识星球_摘要_260814.md","reports/ZSXQ/知识星球_摘要_260813.md",{"mx-search 2026-08-01":"AI应用全产业链28只核心标的"},{"mx-search 2026-08-02":"东方/开源计算机周报"},{"mx-search 2026-08-02":"中信建投十大热门研报"},{"mx-search 2026-07-31":"A股AI应用全面走强"}]}}
+{"dg-publish":true,"permalink":"/concepts/ai-application/","title":"AI应用","tags":["AI","人工智能","应用","TMT","科技"],"dg-note-properties":{"title":"AI应用","slug":"ai-application","created":"2026-08-02","updated":"2026-08-16","type":"concept","tags":["AI","人工智能","应用","TMT","科技"],"sources":["reports/ZSXQ/知识星球_摘要_260815.md","reports/ZSXQ/知识星球_摘要_260814.md","reports/ZSXQ/知识星球_摘要_260813.md",{"mx-search 2026-08-01":"AI应用全产业链28只核心标的"},{"mx-search 2026-08-02":"东方/开源计算机周报"},{"mx-search 2026-08-02":"中信建投十大热门研报"},{"mx-search 2026-07-31":"A股AI应用全面走强"}]}}
 ---
 
 
@@ -102,6 +102,14 @@
 | 紫光股份 | 000938 | **+83-122%** | 智算基础设施 |
 | 中际旭创 | 300308 | — | 800G/1.6T光模块商用 |
 | 新易盛 | 300502 | — | 光模块高弹性 |
+
+## 🆕 8/15 最新动态
+
+| 事件 | 详情 |
+|------|------|
+| **网宿科技 26H1** | 调整后归母 +40.22%，多模态/Agent 边缘 AI 驱动安全业务高增（西部计算机） |
+| **大华股份 26H1** | 营收 167.04 亿(+10%)，扣非稳健增长，AI+创新业务打开成长空间（申万 TMT） |
+| **GLM-5.3 口碑发酵** | 性能被称远超美国公开模型；申万周报聚焦华为超节点+国产大模型 |
 
 ## 🆕 8/14 最新动态
 

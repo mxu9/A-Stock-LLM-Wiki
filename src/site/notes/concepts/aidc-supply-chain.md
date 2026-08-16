@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/aidc-supply-chain/","title":"AIDC 产业链","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"dg-note-properties":{"title":"AIDC 产业链","slug":"aidc-supply-chain","created":"2026-07-01","updated":"2026-08-15","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260814.md","reports/ZSXQ/知识星球_摘要_260812.md","reports/ZSXQ/知识星球_摘要_260811.md","reports/ZSXQ/知识星球_摘要_260810.md","reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","raw/reports/ZSXQ/知识星球_摘要_260710.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC产业链全搜索"},"知识星球 调研纪要【黑金会员】2026-07-01",{"mx-search 2026-07-12":"AIDC产业链最新事件（中信建投缺电+ZSXQ华西柴发）"},{"知识星球 topic_id=82255488452488812 2026-07-11":"AIDC建设高景气柴发受益"},{"mx-search 2026-07-13":"AIDC进入GW时代/2026年规模化交付元年"},{"mx-search 2026-07-14":"思源电气AIDC超容从选配走向标配，阳光电源SST新品发布"},{"mx-search 2026-07-15":"杰瑞/冰轮北美AIDC突破，曙光数创成立基础设施专委会"},{"mx-search 2026-07-17":"AIDC步入GW时代系列报道；威尔高AI服务器电源PCB定增"},{"知识星球 2026-07-22~08-08":"AIDC电力周度跟踪/Rubin批量交付/800V HVDC分层"},{"知识星球 2026-08-05":null},{"知识星球 2026-08-08":"阳光电源NV储能认证/玉柴柴发1800台/星际之门30亿"}]}}
+{"dg-publish":true,"permalink":"/concepts/aidc-supply-chain/","title":"AIDC 产业链","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"dg-note-properties":{"title":"AIDC 产业链","slug":"aidc-supply-chain","created":"2026-07-01","updated":"2026-08-16","sources_zsxq":["reports/ZSXQ/知识星球_摘要_260815.md","reports/ZSXQ/知识星球_摘要_260814.md","reports/ZSXQ/知识星球_摘要_260812.md","reports/ZSXQ/知识星球_摘要_260811.md","reports/ZSXQ/知识星球_摘要_260810.md","reports/ZSXQ/知识星球_摘要_260807.md","reports/ZSXQ/知识星球_摘要_260805.md","reports/ZSXQ/知识星球_摘要_260716.md","reports/ZSXQ/知识星球_摘要_260715.md","reports/ZSXQ/知识星球_摘要_260702.md","reports/ZSXQ/知识星球_摘要_260701.md","raw/reports/ZSXQ/知识星球_摘要_260710.md","reports/ZSXQ/知识星球_摘要_260808.md"],"type":"concept","tags":["AIDC","AI数据中心","800V","HVDC","SST","固态变压器","液冷","供电架构"],"sources":["reports/ZSXQ/知识星球_摘要_260717.md","reports/260701/AIDC产业链_行业分析_260701.md",{"mx-search 2026-07-01":"AIDC产业链全搜索"},"知识星球 调研纪要【黑金会员】2026-07-01",{"mx-search 2026-07-12":"AIDC产业链最新事件（中信建投缺电+ZSXQ华西柴发）"},{"知识星球 topic_id=82255488452488812 2026-07-11":"AIDC建设高景气柴发受益"},{"mx-search 2026-07-13":"AIDC进入GW时代/2026年规模化交付元年"},{"mx-search 2026-07-14":"思源电气AIDC超容从选配走向标配，阳光电源SST新品发布"},{"mx-search 2026-07-15":"杰瑞/冰轮北美AIDC突破，曙光数创成立基础设施专委会"},{"mx-search 2026-07-17":"AIDC步入GW时代系列报道；威尔高AI服务器电源PCB定增"},{"知识星球 2026-07-22~08-08":"AIDC电力周度跟踪/Rubin批量交付/800V HVDC分层"},{"知识星球 2026-08-05":null},{"知识星球 2026-08-08":"阳光电源NV储能认证/玉柴柴发1800台/星际之门30亿"}]}}
 ---
 
 
@@ -175,6 +175,7 @@ AIDC（AI 数据中心）是当前 AI 算力基础设施投资最大的环节，
 
 ## 📡 最新事件追踪 (更新于 2026-08-11)
 
+| 2026-08-15 | zsxq | 英伟达新云（neocloud）商业模式：初始投资兜底换云业务收入分成，5000 亿计划+OpenAI 2500 亿担保缩减；锐捷网络 Q2 营收 +41.81%（AI 数据中心交换机驱动，归母 +65.66%）；新墨西哥天然气管道推迟影响甲骨文 AI 数据中心燃料 |
 | 2026-08-14 | zsxq | 英伟达 Spectrum-X 以太网 CPO 交换机全面量产；锐捷网络 H1 收入 88.3 亿(+33%) AI 交换机放量；协创数据 H1 营收 126.4 亿(+156%) 算力扩表；龙旗科技 11.2 亿收购安瑞可切入 AIDC 基础设施 |
 | 2026-08-10 | zsxq | 潍柴重机5.38亿扩产大功率天然气内燃机发电机组（6-7MW用于北美数据中心）；潍柴动力27年AIDC电力利润70亿+（柴发37亿+气发25亿+SOFC 10亿）；申菱环境AWS 27年框架订单上修30-50亿 |
 | 2026-08-10 | zsxq | 英伟达拟最高30亿美元入股Lancium（首期20亿获20%股权、追加后30%，估值100亿美元），首次重金布局电力基础设施；800VDC+SST加速落地（Rubin/MW级机架推进）；xAI燃气轮机现裂缝→燃机配储势在必行；阿里云模块化AIDC 100天交付、全球产能提升2倍+ |
@@ -260,6 +261,8 @@ AIDC（AI 数据中心）是当前 AI 算力基础设施投资最大的环节，
 
 | 日期 | 更新内容 | 来源 |
 |------|---------|------|
+| 08/16 | 科威尔(688551)新建：AI服务器电源测试(PSU/HVDC/SST/BBU)国产替代，送样验证完成 | mx-search 08/16 |
+| 08/16 | 金盘科技(688676)全面更新：AIDC收入26Q1 +104%，海外在手51.4亿(+82.5%)，直接对接北美CSP | mx-search 08/16 |
 | 08/15 | 京泉华(002885)全面分析：SST-MFT 伊顿独家配套+SOFC-BE 90%主供双主线 | mx-search 08/15 |
 | 08/10 | 图谱下方新增发电侧说明+[[concepts/gas-turbine\|gas-turbine]] wikilink；关联概念补充燃气轮机 | 知识星球 6/18-8/8 |
 | 08/10 | 产业链图谱升级为5层：新增发电侧(柴发玉柴/Generac+燃机GEV/涛涛)、HVDC按柜内/柜外细分、液冷新增冰轮/金富/五洋、元器件新增中熔/宏发 | 知识星球 7/22-8/8 |
