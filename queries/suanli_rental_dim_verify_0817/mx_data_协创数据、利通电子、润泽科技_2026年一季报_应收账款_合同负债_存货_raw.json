@@ -1,0 +1,1622 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "b757395e-eb3e-4b39-87a4-1ddfaf518da3",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "125f22d6-eeeb-421a-bfe9-098efc549637",
+        "dataTableDTOList": [
+          {
+            "code": "300857.SZ",
+            "entityName": "2026一季报",
+            "table": {
+              "100000000023116": [
+                "6.17亿元",
+                "-",
+                "21.72亿元",
+                "-",
+                "689.1万元"
+              ],
+              "100000000000130": [
+                "42.61亿元",
+                "-",
+                "27.19亿元",
+                "-",
+                "3872万元"
+              ],
+              "100000000023561": [
+                "-",
+                "38.22亿元",
+                "-",
+                "9.264亿元",
+                "-"
+              ],
+              "headName": [
+                "协创数据(300857.SZ)",
+                "协创数据技术股份有限公司",
+                "利通电子(603629.SH)",
+                "江苏利通电子股份有限公司",
+                "润泽科技(300442.SZ)"
+              ]
+            },
+            "rawTable": {
+              "100000000023116": [
+                "617015499.06",
+                "-",
+                "2171846557.61",
+                "-",
+                "6891417.69"
+              ],
+              "100000000000130": [
+                "4261206152.79",
+                "-",
+                "2718726839.84",
+                "-",
+                "38724608.19"
+              ],
+              "100000000023561": [
+                "-",
+                "3821506871.78",
+                "-",
+                "926416603.8",
+                "-"
+              ],
+              "headName": [
+                "协创数据(300857.SZ)",
+                "协创数据技术股份有限公司",
+                "利通电子(603629.SH)",
+                "江苏利通电子股份有限公司",
+                "润泽科技(300442.SZ)"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000023116": "合同负债",
+              "headNameSub": "数据来源",
+              "100000000000130": "存货",
+              "securityName": "股票名称",
+              "100000000023561": "应收票据及应收账款"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000023116",
+              "returnName": "合同负债",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-03-31 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "type=1,ItemsCode=213",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "CONTRACTLIAB",
+              "returnSourceName": "合同负债",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "元",
+              "unitDesc": "101:元:元",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {
+              "协创数据(300857.SZ)": {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "协创数据技术股份有限公司": {
+                "entityId": "10000015918FXR",
+                "entityType": "FXR",
+                "entityTypeCode": "FXR",
+                "entityTypeName": "发行人",
+                "classCode": "016001",
+                "className": "股票发行人",
+                "fullName": "协创数据技术股份有限公司",
+                "shortName": "协创数据",
+                "secuCode": "",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": true
+              },
+              "利通电子(603629.SH)": {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "江苏利通电子股份有限公司": {
+                "entityId": "10685275FXR",
+                "entityType": "FXR",
+                "entityTypeCode": "FXR",
+                "entityTypeName": "发行人",
+                "classCode": "016001",
+                "className": "股票发行人",
+                "fullName": "江苏利通电子股份有限公司",
+                "shortName": "利通电子",
+                "secuCode": "",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": true
+              },
+              "润泽科技(300442.SZ)": {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            },
+            "entityCodes": [
+              "300857.SZ",
+              "10000015918.FXR",
+              "603629.SH",
+              "10685275.FXR",
+              "300442.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000023116",
+                "returnName": "合同负债",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=213",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "CONTRACTLIAB",
+                "returnSourceName": "合同负债",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "100000000023561",
+                "returnName": "应收票据及应收账款",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=216",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "YSPJJYSZK",
+                "returnSourceName": "应收票据及应收账款",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "100000000000130",
+                "returnName": "存货",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=17",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "INVENTORY",
+                "returnSourceName": "存货",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000023116",
+              "100000000000130",
+              "100000000023561"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "协创数据(300857.SZ)等的合同负债、存货等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftEntityTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=Issuer&code=10000015918.FXR,10685275.FXR&indId=100000000023561|100:2026-03-31|115:1",
+                "typeName": "数据浏览器"
+              },
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300857.SZ,603629.SH,300442.SZ&indId=100000000023116|100:2026-03-31|115:1,100000000000130|100:2026-03-31|115:1",
+                "typeName": "数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001867298",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "协创数据",
+              "shortName": "",
+              "matchWord": "协创数据",
+              "secuCode": "300857",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "10000015918FXR",
+                "entityType": "FXR",
+                "entityTypeCode": "FXR",
+                "entityTypeName": "发行人",
+                "classCode": "016001",
+                "className": "股票发行人",
+                "fullName": "协创数据技术股份有限公司",
+                "shortName": "协创数据",
+                "secuCode": "",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": true
+              },
+              {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "10685275FXR",
+                "entityType": "FXR",
+                "entityTypeCode": "FXR",
+                "entityTypeName": "发行人",
+                "classCode": "016001",
+                "className": "股票发行人",
+                "fullName": "江苏利通电子股份有限公司",
+                "shortName": "利通电子",
+                "secuCode": "",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": true
+              },
+              {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026一季报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "300857.SZ",
+            "entityName": "账龄",
+            "table": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "25.87亿",
+                "97.95%",
+                "-",
+                "-"
+              ],
+              "1": [
+                "3491万",
+                "1.32%",
+                "-",
+                "-"
+              ],
+              "2": [
+                "775.7万",
+                "0.29%",
+                "-",
+                "-"
+              ],
+              "3": [
+                "380.7万",
+                "0.14%",
+                "-",
+                "-"
+              ],
+              "4": [
+                "376.1万",
+                "0.14%",
+                "-",
+                "-"
+              ],
+              "5": [
+                "402万",
+                "0.15%",
+                "-",
+                "-"
+              ],
+              "6": [
+                "26.42亿",
+                "100.00%",
+                "1.637亿",
+                "6.20%"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "7": [
+                "390.2万",
+                "0.15%",
+                "390.2万",
+                "100.00%"
+              ],
+              "8": [
+                "26.38亿",
+                "99.85%",
+                "1.598亿",
+                "6.06%"
+              ],
+              "9": [
+                "25.86亿",
+                "97.88%",
+                "1.271亿",
+                "4.92%"
+              ],
+              "10": [
+                "3491万",
+                "1.32%",
+                "1546万",
+                "44.30%"
+              ],
+              "11": [
+                "697.5万",
+                "0.26%",
+                "697.5万",
+                "100.00%"
+              ],
+              "12": [
+                "354万",
+                "0.13%",
+                "354万",
+                "100.00%"
+              ],
+              "13": [
+                "282.5万",
+                "0.11%",
+                "282.5万",
+                "100.00%"
+              ],
+              "14": [
+                "390.1万",
+                "0.15%",
+                "390.1万",
+                "100.00%"
+              ],
+              "15": [
+                "26.38亿",
+                "99.85%",
+                "1.598亿",
+                "6.06%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "2587378278.99",
+                "97.95",
+                "-",
+                "-"
+              ],
+              "1": [
+                "34906940.01",
+                "1.32",
+                "-",
+                "-"
+              ],
+              "2": [
+                "7756505.07",
+                "0.29",
+                "-",
+                "-"
+              ],
+              "3": [
+                "3806925.84",
+                "0.14",
+                "-",
+                "-"
+              ],
+              "4": [
+                "3761125.71",
+                "0.14",
+                "-",
+                "-"
+              ],
+              "5": [
+                "4019964.58",
+                "0.15",
+                "-",
+                "-"
+              ],
+              "6": [
+                "2641629740.2",
+                "100",
+                "163692208.52",
+                "6.2"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "7": [
+                "3902423.04",
+                "0.15",
+                "3902423.04",
+                "100"
+              ],
+              "8": [
+                "2637727317.16",
+                "99.85",
+                "159789785.48",
+                "6.06"
+              ],
+              "9": [
+                "2585579872.29",
+                "97.88",
+                "127085748.03",
+                "4.92"
+              ],
+              "10": [
+                "34906940.01",
+                "1.32",
+                "15463532.59",
+                "44.3"
+              ],
+              "11": [
+                "6975148.42",
+                "0.26",
+                "6975148.42",
+                "100"
+              ],
+              "12": [
+                "3540225.13",
+                "0.13",
+                "3540225.13",
+                "100"
+              ],
+              "13": [
+                "2824549.94",
+                "0.11",
+                "2824549.94",
+                "100"
+              ],
+              "14": [
+                "3900581.37",
+                "0.15",
+                "3900581.37",
+                "100"
+              ],
+              "15": [
+                "2637727317.16",
+                "99.85",
+                "159789785.48",
+                "6.06"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "headName": "headName",
+              "0": "1年以内",
+              "1": "1-2年",
+              "2": "2-3年",
+              "3": "3-4年",
+              "4": "4-5年",
+              "5": "5年以上",
+              "6": "合计",
+              "7": "按单项计提坏账准备",
+              "8": "按组合计提坏账准备",
+              "9": "    1年以内",
+              "10": "    1-2年",
+              "11": "    2-3年",
+              "12": "    3-4年",
+              "13": "    4-5年",
+              "14": "    5年以上",
+              "15": "    合计"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+              "returnName": "应收账款账龄结构",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-03-31 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+              "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+                "returnName": "应收账款账龄结构",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+                "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "协创数据(300857.SZ)应收账款账龄结构(2025年年报)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "按账龄",
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "按坏账计提方法",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/ReceivableAccountAge?securitycode=300857.SZ",
+                "typeName": "F9深度资料",
+                "securityName": "协创数据"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001867298",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "协创数据",
+              "shortName": "",
+              "matchWord": "协创数据",
+              "secuCode": "300857",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "协创数据",
+            "frontendEntityCode": "300857.SZ",
+            "frontendTitle": "应收账款账龄结构(2025年年报)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "603629.SH",
+            "entityName": "账龄",
+            "table": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "10.02亿",
+                "98.87%",
+                "-",
+                "-"
+              ],
+              "1": [
+                "220.9万",
+                "0.22%",
+                "-",
+                "-"
+              ],
+              "2": [
+                "333.2万",
+                "0.33%",
+                "-",
+                "-"
+              ],
+              "3": [
+                "591.8万",
+                "0.58%",
+                "-",
+                "-"
+              ],
+              "4": [
+                "10.14亿",
+                "100.00%",
+                "4644万",
+                "4.58%"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "5": [
+                "123.5万",
+                "0.12%",
+                "123.5万",
+                "100.00%"
+              ],
+              "6": [
+                "10.12亿",
+                "99.88%",
+                "4521万",
+                "4.47%"
+              ],
+              "7": [
+                "10.12亿",
+                "99.88%",
+                "4521万",
+                "4.47%"
+              ],
+              "8": [
+                "10.12亿",
+                "99.88%",
+                "4521万",
+                "4.47%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "1002168799.03",
+                "98.87",
+                "-",
+                "-"
+              ],
+              "1": [
+                "2208941.22",
+                "0.22",
+                "-",
+                "-"
+              ],
+              "2": [
+                "3332014.51",
+                "0.33",
+                "-",
+                "-"
+              ],
+              "3": [
+                "5918127.59",
+                "0.58",
+                "-",
+                "-"
+              ],
+              "4": [
+                "1013627882.35",
+                "100",
+                "46443411.74",
+                "4.58"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "5": [
+                "1234689.5",
+                "0.12",
+                "1234689.5",
+                "100"
+              ],
+              "6": [
+                "1012393192.85",
+                "99.88",
+                "45208722.24",
+                "4.47"
+              ],
+              "7": [
+                "1012393192.85",
+                "99.88",
+                "45208722.24",
+                "4.47"
+              ],
+              "8": [
+                "1012393192.85",
+                "99.88",
+                "45208722.24",
+                "4.47"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "headName": "headName",
+              "0": "1年以内",
+              "1": "1-2年",
+              "2": "2-3年",
+              "3": "3年以上",
+              "4": "合计",
+              "5": "按单项计提坏账准备",
+              "6": "按组合计提坏账准备",
+              "7": "    账龄分析法组合",
+              "8": "    合计"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+              "returnName": "应收账款账龄结构",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-03-31 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+              "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+                "returnName": "应收账款账龄结构",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+                "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "利通电子(603629.SH)应收账款账龄结构(2025年年报)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "按账龄",
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "按坏账计提方法",
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/ReceivableAccountAge?securitycode=603629.SH",
+                "typeName": "F9深度资料",
+                "securityName": "利通电子"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001030420",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "利通电子",
+              "shortName": "",
+              "matchWord": "利通电子",
+              "secuCode": "603629",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "利通电子",
+            "frontendEntityCode": "603629.SH",
+            "frontendTitle": "应收账款账龄结构(2025年年报)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "300442.SZ",
+            "entityName": "账龄",
+            "table": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "17.51亿",
+                "99.37%",
+                "-",
+                "-"
+              ],
+              "1": [
+                "711.9万",
+                "0.40%",
+                "-",
+                "-"
+              ],
+              "2": [
+                "96万",
+                "0.050%",
+                "-",
+                "-"
+              ],
+              "3": [
+                "123万",
+                "0.070%",
+                "-",
+                "-"
+              ],
+              "4": [
+                "173.2万",
+                "0.10%",
+                "-",
+                "-"
+              ],
+              "5": [
+                "17.62亿",
+                "100.00%",
+                "3137万",
+                "1.78%"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "6": [
+                "77.24万",
+                "0.040%",
+                "77.24万",
+                "100.00%"
+              ],
+              "7": [
+                "17.62亿",
+                "99.96%",
+                "3060万",
+                "1.74%"
+              ],
+              "8": [
+                "13.19亿",
+                "74.84%",
+                "659.4万",
+                "0.50%"
+              ],
+              "9": [
+                "4.324亿",
+                "24.54%",
+                "2162万",
+                "5.00%"
+              ],
+              "10": [
+                "711.9万",
+                "0.40%",
+                "71.19万",
+                "10.00%"
+              ],
+              "11": [
+                "96万",
+                "0.050%",
+                "28.8万",
+                "30.00%"
+              ],
+              "12": [
+                "123万",
+                "0.070%",
+                "61.5万",
+                "50.00%"
+              ],
+              "13": [
+                "96万",
+                "0.050%",
+                "76.8万",
+                "80.00%"
+              ],
+              "14": [
+                "17.62亿",
+                "99.96%",
+                "3060万",
+                "1.74%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "1751291531.19",
+                "99.37",
+                "-",
+                "-"
+              ],
+              "1": [
+                "7119357.27",
+                "0.4",
+                "-",
+                "-"
+              ],
+              "2": [
+                "960000",
+                "0.05",
+                "-",
+                "-"
+              ],
+              "3": [
+                "1230000",
+                "0.07",
+                "-",
+                "-"
+              ],
+              "4": [
+                "1732400",
+                "0.1",
+                "-",
+                "-"
+              ],
+              "5": [
+                "1762333288.46",
+                "100",
+                "31369980.11",
+                "1.78"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "6": [
+                "772400",
+                "0.04",
+                "772400",
+                "100"
+              ],
+              "7": [
+                "1761560888.46",
+                "99.96",
+                "30597580.11",
+                "1.74"
+              ],
+              "8": [
+                "1318887382.37",
+                "74.84",
+                "6594436.93",
+                "0.5"
+              ],
+              "9": [
+                "432404148.82",
+                "24.54",
+                "21620207.45",
+                "5"
+              ],
+              "10": [
+                "7119357.27",
+                "0.4",
+                "711935.73",
+                "10"
+              ],
+              "11": [
+                "960000",
+                "0.05",
+                "288000",
+                "30"
+              ],
+              "12": [
+                "1230000",
+                "0.07",
+                "615000",
+                "50"
+              ],
+              "13": [
+                "960000",
+                "0.05",
+                "768000",
+                "80"
+              ],
+              "14": [
+                "1761560888.46",
+                "99.96",
+                "30597580.11",
+                "1.74"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "headName": "headName",
+              "0": "1年以内",
+              "1": "1-2年",
+              "2": "2-3年",
+              "3": "3-4年",
+              "4": "4-5年",
+              "5": "合计",
+              "6": "按单项计提坏账准备",
+              "7": "按组合计提坏账准备",
+              "8": "    0-6个月",
+              "9": "    7-12个月",
+              "10": "    1-2年",
+              "11": "    2-3年",
+              "12": "    3-4年",
+              "13": "    4-5年",
+              "14": "    合计"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+              "returnName": "应收账款账龄结构",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-03-31 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+              "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+                "returnName": "应收账款账龄结构",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+                "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "润泽科技(300442.SZ)应收账款账龄结构(2025年年报)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "按账龄",
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "按坏账计提方法",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/ReceivableAccountAge?securitycode=300442.SZ",
+                "typeName": "F9深度资料",
+                "securityName": "润泽科技"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000316971",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "润泽科技",
+              "shortName": "",
+              "matchWord": "润泽科技",
+              "secuCode": "300442",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "润泽科技",
+            "frontendEntityCode": "300442.SZ",
+            "frontendTitle": "应收账款账龄结构(2025年年报)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_2": [
+            "协创数据协创数据技术股份有限公司",
+            "合同负债应收账款账龄结构存货应收票据及应收账款",
+            "2026-01-01至2026-03-31"
+          ],
+          "search_data_task_1": [
+            "利通电子江苏利通电子股份有限公司",
+            "合同负债应收账款账龄结构存货应收票据及应收账款",
+            "2026-01-01至2026-03-31"
+          ],
+          "search_data_task_0": [
+            "润泽科技",
+            "合同负债应收账款账龄结构存货",
+            "2026-01-01至2026-03-31"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1001867298",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "协创数据",
+            "shortName": "",
+            "matchWord": "协创数据",
+            "secuCode": "300857",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "10000015918FXR",
+            "entityType": "FXR",
+            "entityTypeCode": "FXR",
+            "entityTypeName": "发行人",
+            "classCode": "016001",
+            "className": "股票发行人",
+            "fullName": "协创数据技术股份有限公司",
+            "shortName": "协创数据",
+            "secuCode": "",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": true
+          },
+          {
+            "entityId": "1001030420",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "利通电子",
+            "shortName": "",
+            "matchWord": "利通电子",
+            "secuCode": "603629",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "10685275FXR",
+            "entityType": "FXR",
+            "entityTypeCode": "FXR",
+            "entityTypeName": "发行人",
+            "classCode": "016001",
+            "className": "股票发行人",
+            "fullName": "江苏利通电子股份有限公司",
+            "shortName": "利通电子",
+            "secuCode": "",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": true
+          },
+          {
+            "entityId": "1000316971",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "润泽科技",
+            "shortName": "",
+            "matchWord": "润泽科技",
+            "secuCode": "300442",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "cf9e6a26463e49d3be88d9ea977d1b13"
+}

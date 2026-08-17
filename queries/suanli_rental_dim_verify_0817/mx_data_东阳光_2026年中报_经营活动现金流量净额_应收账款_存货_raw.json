@@ -1,0 +1,723 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "996c3cae-497f-45ff-bd50-74f9ddbe89fc",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "e6665950-3e34-438f-9106-e280de6a1b85",
+        "dataTableDTOList": [
+          {
+            "code": "600673.SH",
+            "entityName": "东阳光(600673.SH)",
+            "table": {
+              "100000000000130": [
+                "20.26亿元",
+                "20.77亿元"
+              ],
+              "100000000000259": [
+                "25.12亿元",
+                "1.642亿元"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报"
+              ]
+            },
+            "rawTable": {
+              "100000000000130": [
+                "2026379741.87",
+                "2076806097.22"
+              ],
+              "100000000000259": [
+                "2512140048.78",
+                "164217679.13"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000000130": "存货",
+              "headNameSub": "数据来源",
+              "100000000000259": "经营活动产生的现金流量净额"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000000130",
+              "returnName": "存货",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "type=1,ItemsCode=17",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "INVENTORY",
+              "returnSourceName": "存货",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "元",
+              "unitDesc": "101:元:元",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "600673.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000000130",
+                "returnName": "存货",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=17",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "INVENTORY",
+                "returnSourceName": "存货",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "100000000000259",
+                "returnName": "经营活动产生的现金流量净额",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=39",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "NETOPERATECASHFLOW",
+                "returnSourceName": "经营活动产生的现金流量净额",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000000130",
+              "100000000000259"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "东阳光(600673.SH)的存货、经营活动产生的现金流量净额",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=600673.SH&indId=100000000000130|100:2026-03-31|115:1,100000000000130|100:2026-06-30|115:1,100000000000259|100:2026-03-31|115:1,100000000000259|100:2026-06-30|115:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009463",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "东阳光",
+              "shortName": "",
+              "matchWord": "东阳光",
+              "secuCode": "600673",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009463",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "东阳光",
+                "shortName": "",
+                "matchWord": "东阳光",
+                "secuCode": "600673",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026中报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "10003983.FXR",
+            "entityName": "广东东阳光科技控股股份有限公司",
+            "table": {
+              "100000000023561": [
+                "40.04亿元",
+                "37.35亿元"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报"
+              ]
+            },
+            "rawTable": {
+              "100000000023561": [
+                "4003594120.02",
+                "3735380356.34"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000023561": "应收票据及应收账款",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000023561",
+              "returnName": "应收票据及应收账款",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "type=1,ItemsCode=216",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "YSPJJYSZK",
+              "returnSourceName": "应收票据及应收账款",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "元",
+              "unitDesc": "101:元:元",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "10003983.FXR"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000023561",
+                "returnName": "应收票据及应收账款",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=216",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "YSPJJYSZK",
+                "returnSourceName": "应收票据及应收账款",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000023561"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "广东东阳光科技控股股份有限公司的应收票据及应收账款",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=Issuer&code=10003983.FXR&indId=100000000023561|100:2026-03-31|115:1,100000000023561|100:2026-06-30|115:1",
+                "typeName": "发行人浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "10003983FXR",
+              "entityType": "FXR",
+              "entityTypeCode": "FXR",
+              "entityTypeName": "发行人",
+              "classCode": "016001",
+              "className": "股票发行人",
+              "fullName": "广东东阳光科技控股股份有限公司",
+              "shortName": "东阳光",
+              "secuCode": "",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": true
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "10003983FXR",
+                "entityType": "FXR",
+                "entityTypeCode": "FXR",
+                "entityTypeName": "发行人",
+                "classCode": "016001",
+                "className": "股票发行人",
+                "fullName": "广东东阳光科技控股股份有限公司",
+                "shortName": "东阳光",
+                "secuCode": "",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": true
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026中报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "600673.SH",
+            "entityName": "账龄",
+            "table": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "40.62亿",
+                "98.96%",
+                "-",
+                "-"
+              ],
+              "1": [
+                "1173万",
+                "0.29%",
+                "-",
+                "-"
+              ],
+              "2": [
+                "232.2万",
+                "0.060%",
+                "-",
+                "-"
+              ],
+              "3": [
+                "343.9万",
+                "0.080%",
+                "-",
+                "-"
+              ],
+              "4": [
+                "742.5万",
+                "0.18%",
+                "-",
+                "-"
+              ],
+              "5": [
+                "1760万",
+                "0.43%",
+                "-",
+                "-"
+              ],
+              "6": [
+                "41.04亿",
+                "100.00%",
+                "1.141亿",
+                "2.78%"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "7": [
+                "2346万",
+                "0.57%",
+                "2346万",
+                "100.00%"
+              ],
+              "8": [
+                "40.81亿",
+                "99.43%",
+                "9066万",
+                "2.22%"
+              ]
+            },
+            "rawTable": {
+              "headName": [
+                "应收账款金额(元)",
+                "占总应收款比例(%)",
+                "提取的坏账准备(元)",
+                "坏账准备计提比例(%)"
+              ],
+              "按账龄": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "0": [
+                "4061635760.4",
+                "98.96",
+                "-",
+                "-"
+              ],
+              "1": [
+                "11733154.32",
+                "0.29",
+                "-",
+                "-"
+              ],
+              "2": [
+                "2322187.93",
+                "0.06",
+                "-",
+                "-"
+              ],
+              "3": [
+                "3439325.12",
+                "0.08",
+                "-",
+                "-"
+              ],
+              "4": [
+                "7424959.55",
+                "0.18",
+                "-",
+                "-"
+              ],
+              "5": [
+                "17595095.61",
+                "0.43",
+                "-",
+                "-"
+              ],
+              "6": [
+                "4104150482.93",
+                "100",
+                "114115466.72",
+                "2.78"
+              ],
+              "按坏账计提方法": [
+                "",
+                "",
+                "",
+                ""
+              ],
+              "7": [
+                "23458071.69",
+                "0.57",
+                "23458071.69",
+                "100"
+              ],
+              "8": [
+                "4080692411.24",
+                "99.43",
+                "90657395.03",
+                "2.22"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "headName": "headName",
+              "0": "1年以内",
+              "1": "1-2年",
+              "2": "2-3年",
+              "3": "3-4年",
+              "4": "4-5年",
+              "5": "5年以上",
+              "6": "合计",
+              "7": "按单项计提坏账准备",
+              "8": "按组合计提坏账准备"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+              "returnName": "应收账款账龄结构",
+              "classCode": "007202",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "isGroup": false,
+              "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+              "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+              "tableType": "10",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "RPT_CUSTOM_F9_BASICINFO_SKBD_JOIN_BDSK_FN_ARSN",
+                "returnName": "应收账款账龄结构",
+                "classCode": "007202",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "isGroup": false,
+                "returnSourceCode": "SECUCODE,SECURITY_NAME_ABBR,;IS_MAXREPORTDATE,REPORT_DATE,REPORT_TYPE_CODE,REPORT_TYPE,REPORTDATE,AGEING_TYPE,RANK_NUM,STD_AGEING_NAME,ACCOUNTS_RECE,ACCOUNTS_RECE_RATIO,BADDEBT_PROVISION,BADDEBT_PROVISION_RATIO",
+                "returnSourceName": "证券代码（带后缀）,证券简称,是否最新报告期,报告期,报告期类型,报表类型,报告期(文字),账龄类型,排序,账龄,应收账款金额,占总应收款比例,提取的坏账准备,坏账准备计提比例",
+                "tableType": "10",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "F10_TABLE",
+            "inputTitle": "东阳光(600673.SH)应收账款账龄结构(2026年中报)",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "按账龄",
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "按坏账计提方法",
+              "7",
+              "8"
+            ],
+            "tipFlags": [],
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "https://choicewzp2.eastmoney.com/stock/cn/f9/index.html#/ReceivableAccountAge?securitycode=600673.SH",
+                "typeName": "F9深度资料",
+                "securityName": "东阳光"
+              }
+            ],
+            "dataTypeEnum": "F9",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009463",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "东阳光",
+              "shortName": "",
+              "matchWord": "东阳光",
+              "secuCode": "600673",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009463",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "东阳光",
+                "shortName": "",
+                "matchWord": "东阳光",
+                "secuCode": "600673",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {},
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "东阳光",
+            "frontendEntityCode": "600673.SH",
+            "frontendTitle": "应收账款账龄结构(2026年中报)",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "东阳光广东东阳光科技控股股份有限公司",
+            "应收账款账龄结构存货经营活动产生的现金流量净额应收票据及应收账款",
+            "2026-01-01至2026-06-30"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000009463",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "东阳光",
+            "shortName": "",
+            "matchWord": "东阳光",
+            "secuCode": "600673",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "10003983FXR",
+            "entityType": "FXR",
+            "entityTypeCode": "FXR",
+            "entityTypeName": "发行人",
+            "classCode": "016001",
+            "className": "股票发行人",
+            "fullName": "广东东阳光科技控股股份有限公司",
+            "shortName": "东阳光",
+            "secuCode": "",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": true
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "05b8a7b74ba64e86866a9fcb1042f583"
+}

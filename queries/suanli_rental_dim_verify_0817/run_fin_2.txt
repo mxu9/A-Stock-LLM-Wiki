@@ -1,0 +1,24 @@
+C:\Users\27494\miniconda3\Lib\site-packages\openpyxl\workbook\child.py:99: UserWarning: Title is more than 31 characters. Some applications may not be able to read the file
+  warnings.warn("Title is more than 31 characters. Some applications may not be able to read the file")
+**查询证券**:
+- 智微智能 (001339) - A股
+- 深圳市智微智能科技股份有限公司 () - 发行人
+- 协创数据 (300857) - A股
+- 利通电子 (603629) - A股
+- 润泽科技 (300442) - A股
+
+**查询结果**: 7 个表，共 23 行数据
+
+**智微智能(001339.SZ)的合同负债、存货** (前20行预览):
+
+| date | 合同负债 | 存货 |
+| --- | --- | --- |
+| 2026中报 | 5.166亿元 | 47.67亿元 |
+| 2026一季报 | 8.651亿元 | 33.72亿元 |
+
+*查询ID: 0f9bb461-4742-4d58-9663-1ea405e6ec08*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_智微智能、协创数据、利通电子、润泽科技_2026年中报_应收账款_合同负债_存货.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_智微智能、协创数据、利通电子、润泽科技_2026年中报_应收账款_合同负债_存货_description.txt
+📊 总行数: 23, 表数: 7
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_智微智能、协创数据、利通电子、润泽科技_2026年中报_应收账款_合同负债_存货_raw.json

@@ -1,0 +1,458 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "17707cd5-8991-40af-bf88-bd61d04f7442",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "dd13318c-f866-4308-9f1b-4418d19c910d",
+        "dataTableDTOList": [
+          {
+            "code": "001339.SZ",
+            "entityName": "经营活动产生的现金流量净额",
+            "table": {
+              "智微智能(001339.SZ)": [
+                "9.677亿元",
+                "-5.303亿元"
+              ],
+              "协创数据(300857.SZ)": [
+                "-",
+                "2.723亿元"
+              ],
+              "利通电子(603629.SH)": [
+                "-",
+                "6.07亿元"
+              ],
+              "润泽科技(300442.SZ)": [
+                "-",
+                "13.16亿元"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报"
+              ]
+            },
+            "rawTable": {
+              "智微智能(001339.SZ)": [
+                "967694543.92",
+                "-530341395.92"
+              ],
+              "协创数据(300857.SZ)": [
+                "-",
+                "272260496.73"
+              ],
+              "利通电子(603629.SH)": [
+                "-",
+                "606970706.36"
+              ],
+              "润泽科技(300442.SZ)": [
+                "-",
+                "1315853368.89"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000000259": "经营活动产生的现金流量净额",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000000259",
+              "returnName": "经营活动产生的现金流量净额",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "type=1,ItemsCode=39",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "NETOPERATECASHFLOW",
+              "returnSourceName": "经营活动产生的现金流量净额",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "元",
+              "unitDesc": "101:元:元",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {
+              "智微智能(001339.SZ)": {
+                "entityId": "1002686336",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "智微智能",
+                "shortName": "",
+                "matchWord": "智微智能",
+                "secuCode": "001339",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "协创数据(300857.SZ)": {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "利通电子(603629.SH)": {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "润泽科技(300442.SZ)": {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            },
+            "entityCodes": [
+              "001339.SZ",
+              "300857.SZ",
+              "603629.SH",
+              "300442.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000000259",
+                "returnName": "经营活动产生的现金流量净额",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=39",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "NETOPERATECASHFLOW",
+                "returnSourceName": "经营活动产生的现金流量净额",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "智微智能(001339.SZ)",
+              "协创数据(300857.SZ)",
+              "利通电子(603629.SH)",
+              "润泽科技(300442.SZ)"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "智微智能(001339.SZ)等的经营活动产生的现金流量净额",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "EntityLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=001339.SZ,300857.SZ,603629.SH,300442.SZ&indId=100000000000259|100:2026-03-31|115:1,100000000000259|100:2026-06-30|115:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1002686336",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "智微智能",
+              "shortName": "",
+              "matchWord": "智微智能",
+              "secuCode": "001339",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1002686336",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "智微智能",
+                "shortName": "",
+                "matchWord": "智微智能",
+                "secuCode": "001339",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026中报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_1": [
+            "智微智能",
+            "经营活动产生的现金流量净额",
+            "2026-01-01至2026-06-30"
+          ],
+          "search_data_task_3": [
+            "协创数据",
+            "经营活动产生的现金流量净额",
+            "2026-01-01至2026-06-30"
+          ],
+          "search_data_task_0": [
+            "利通电子",
+            "经营活动产生的现金流量净额",
+            "2026-01-01至2026-06-30"
+          ],
+          "search_data_task_2": [
+            "润泽科技",
+            "经营活动产生的现金流量净额",
+            "2026-01-01至2026-06-30"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1002686336",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "智微智能",
+            "shortName": "",
+            "matchWord": "智微智能",
+            "secuCode": "001339",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "1001867298",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "协创数据",
+            "shortName": "",
+            "matchWord": "协创数据",
+            "secuCode": "300857",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "1001030420",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "利通电子",
+            "shortName": "",
+            "matchWord": "利通电子",
+            "secuCode": "603629",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "1000316971",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "润泽科技",
+            "shortName": "",
+            "matchWord": "润泽科技",
+            "secuCode": "300442",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "1fa9393545ad42aa943263234cb5dae0"
+}

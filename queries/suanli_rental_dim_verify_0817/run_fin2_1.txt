@@ -1,0 +1,19 @@
+**查询证券**:
+- 东阳光 (600673) - A股
+- 广东东阳光科技控股股份有限公司 () - 发行人
+
+**查询结果**: 3 个表，共 8 行数据
+
+**东阳光(600673.SH)的存货、经营活动产生的现金流量净额** (前20行预览):
+
+| date | 存货 | 经营活动产生的现金流量净额 |
+| --- | --- | --- |
+| 2026中报 | 20.26亿元 | 25.12亿元 |
+| 2026一季报 | 20.77亿元 | 1.642亿元 |
+
+*查询ID: e6665950-3e34-438f-9106-e280de6a1b85*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_东阳光_2026年中报_经营活动现金流量净额_应收账款_存货.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_东阳光_2026年中报_经营活动现金流量净额_应收账款_存货_description.txt
+📊 总行数: 8, 表数: 3
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_东阳光_2026年中报_经营活动现金流量净额_应收账款_存货_raw.json

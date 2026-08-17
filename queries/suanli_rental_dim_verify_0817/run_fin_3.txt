@@ -1,0 +1,23 @@
+C:\Users\27494\miniconda3\Lib\site-packages\openpyxl\workbook\child.py:99: UserWarning: Title is more than 31 characters. Some applications may not be able to read the file
+  warnings.warn("Title is more than 31 characters. Some applications may not be able to read the file")
+**查询证券**:
+- 智微智能 (001339) - A股
+- 协创数据 (300857) - A股
+- 利通电子 (603629) - A股
+- 润泽科技 (300442) - A股
+
+**查询结果**: 3 个表，共 8 行数据
+
+**智微智能(001339.SZ)的营业收入、归属于母公司股东的净利润等** (前20行预览):
+
+| date | 营业收入 | 归属于母公司股东的净利润 | 销售毛利率 | 营业总收入 | 营业总收入同比增长率 | 单季度.营业总收入 | 单季度.营业总收入同比增长率 | 归属母公司股东的净利润同比增长率 | 单季度.归属母公司股东的净利润 | 单季度.归属母公司股东的净利润同比增长率 | 扣除非经常性损益后归属于母公司股东的净利润 | 归属母公司股东的净利润同比增长率(扣除非经常性损益) | 单季度.扣除非经常损益后的净利润 | 单季度.扣除非经常损益后的净利润同比增长率 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026中报 | 30.5亿元 | 3.885亿元 | 39.52% | 30.5亿元 | 56.64% | 17.47亿元 | 59.51% | 281.9% | 2.793亿元 | 368.7% | 3.724亿元 | 324.6% | 2.723亿元 | 427.2% |
+| 2026一季报 | 13.03亿元 | 1.091亿元 | 31.02% | 13.03亿元 | 52.96% | 13.03亿元 | 52.96% | 159.1% | 1.091亿元 | 159.1% | 1.002亿元 | 177.7% | 1.002亿元 | 177.7% |
+
+*查询ID: 7101ecac-130e-4c4d-808e-e6bd943af2fd*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_智微智能、协创数据、利通电子、润泽科技_2026年中报_营业收入_归母净利润_毛利率.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_智微智能、协创数据、利通电子、润泽科技_2026年中报_营业收入_归母净利润_毛利率_description.txt
+📊 总行数: 8, 表数: 3
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_智微智能、协创数据、利通电子、润泽科技_2026年中报_营业收入_归母净利润_毛利率_raw.json

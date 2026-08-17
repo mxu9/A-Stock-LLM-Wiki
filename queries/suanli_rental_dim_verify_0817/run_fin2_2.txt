@@ -1,0 +1,27 @@
+C:\Users\27494\miniconda3\Lib\site-packages\openpyxl\workbook\child.py:99: UserWarning: Title is more than 31 characters. Some applications may not be able to read the file
+  warnings.warn("Title is more than 31 characters. Some applications may not be able to read the file")
+**查询证券**:
+- 协创数据 (300857) - A股
+- 协创数据技术股份有限公司 () - 发行人
+- 利通电子 (603629) - A股
+- 江苏利通电子股份有限公司 () - 发行人
+- 润泽科技 (300442) - A股
+
+**查询结果**: 4 个表，共 17 行数据
+
+**协创数据(300857.SZ)等的合同负债、存货等** (前20行预览):
+
+| date | 合同负债 | 存货 | 应收票据及应收账款 |
+| --- | --- | --- | --- |
+| 协创数据(300857.SZ) | 6.17亿元 | 42.61亿元 | - |
+| 协创数据技术股份有限公司 | - | - | 38.22亿元 |
+| 利通电子(603629.SH) | 21.72亿元 | 27.19亿元 | - |
+| 江苏利通电子股份有限公司 | - | - | 9.264亿元 |
+| 润泽科技(300442.SZ) | 689.1万元 | 3872万元 | - |
+
+*查询ID: 125f22d6-eeeb-421a-bfe9-098efc549637*
+
+✅ Excel 文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_协创数据、利通电子、润泽科技_2026年一季报_应收账款_合同负债_存货.xlsx
+📄 描述文件: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_协创数据、利通电子、润泽科技_2026年一季报_应收账款_合同负债_存货_description.txt
+📊 总行数: 17, 表数: 4
+📄 原始JSON: Z:\A-Stock-Ubuntu-22.04\queries\suanli_rental_dim_verify_0817\mx_data_协创数据、利通电子、润泽科技_2026年一季报_应收账款_合同负债_存货_raw.json
