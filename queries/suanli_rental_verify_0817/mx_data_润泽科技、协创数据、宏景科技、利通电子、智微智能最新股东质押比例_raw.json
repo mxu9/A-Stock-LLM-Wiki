@@ -1,0 +1,602 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "bf528d34-0d19-437c-b5d3-a438ed1bcbd2",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "6ef39987-06e1-4fc0-b52d-9268aced93ac",
+        "dataTableDTOList": [
+          {
+            "code": "300442.SZ",
+            "entityName": "质押比例",
+            "table": {
+              "润泽科技(300442.SZ)": [
+                "3.7"
+              ],
+              "利通电子(603629.SH)": [
+                "8.02"
+              ],
+              "headName": [
+                "2026-08-17"
+              ]
+            },
+            "rawTable": {
+              "润泽科技(300442.SZ)": [
+                "3.7"
+              ],
+              "利通电子(603629.SH)": [
+                "8.02"
+              ],
+              "headName": [
+                "2026-08-17"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000022830": "质押比例",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000022830",
+              "returnName": "质押比例",
+              "classCode": "007102",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "Period=1",
+              "quantType": "2",
+              "isGroup": false,
+              "returnSourceCode": "AMTSHARERATIOM",
+              "returnSourceName": "质押比例",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {
+              "润泽科技(300442.SZ)": {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "利通电子(603629.SH)": {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            },
+            "entityCodes": [
+              "300442.SZ",
+              "603629.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000022830",
+                "returnName": "质押比例",
+                "classCode": "007102",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "quantType": "2",
+                "isGroup": false,
+                "returnSourceCode": "AMTSHARERATIOM",
+                "returnSourceName": "质押比例",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "润泽科技(300442.SZ)",
+              "利通电子(603629.SH)"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "润泽科技(300442.SZ)等的质押比例",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "EntityLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300442.SZ,603629.SH&indId=100000000022819",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000316971",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "润泽科技",
+              "shortName": "",
+              "matchWord": "润泽科技",
+              "secuCode": "300442",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000316971",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "润泽科技",
+                "shortName": "",
+                "matchWord": "润泽科技",
+                "secuCode": "300442",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-17": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          },
+          {
+            "code": "300857.SZ",
+            "entityName": "累计质押数量占总股本比例",
+            "table": {
+              "协创数据(300857.SZ)": [
+                "7.34%",
+                "7.34%",
+                "7.34%",
+                "7.34%",
+                "7.34%"
+              ],
+              "宏景科技(301396.SZ)": [
+                "20.59%",
+                "20.59%",
+                "20.59%",
+                "20.59%",
+                "20.59%"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "rawTable": {
+              "协创数据(300857.SZ)": [
+                "7.34",
+                "7.34",
+                "7.34",
+                "7.34",
+                "7.34"
+              ],
+              "宏景科技(301396.SZ)": [
+                "20.59",
+                "20.59",
+                "20.59",
+                "20.59",
+                "20.59"
+              ],
+              "headName": [
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000019013": "累计质押数量占总股本比例",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000019013",
+              "returnName": "累计质押数量占总股本比例",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "FROZENAMTSHARERATIO",
+              "returnSourceName": "累计质押数量占总股本比例",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "108:%:%",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {
+              "协创数据(300857.SZ)": {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              "宏景科技(301396.SZ)": {
+                "entityId": "1002681439",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "宏景科技",
+                "shortName": "",
+                "matchWord": "宏景科技",
+                "secuCode": "301396",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            },
+            "entityCodes": [
+              "300857.SZ",
+              "301396.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000019013",
+                "returnName": "累计质押数量占总股本比例",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "FROZENAMTSHARERATIO",
+                "returnSourceName": "累计质押数量占总股本比例",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "协创数据(300857.SZ)",
+              "宏景科技(301396.SZ)"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "协创数据(300857.SZ)等的累计质押数量占总股本比例",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "EntityLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300857.SZ,301396.SZ&indId=100000000019013|119:2026-08-10,100000000019013|119:2026-08-11,100000000019013|119:2026-08-12,100000000019013|119:2026-08-13,100000000019013|119:2026-08-14",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001867298",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "协创数据",
+              "shortName": "",
+              "matchWord": "协创数据",
+              "secuCode": "300857",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              },
+              {
+                "entityId": "1002681439",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "宏景科技",
+                "shortName": "",
+                "matchWord": "宏景科技",
+                "secuCode": "301396",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-14": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "润泽科技",
+            "质押比例",
+            "2026-08-17至2026-08-17"
+          ],
+          "search_data_task_1": [
+            "协创数据",
+            "累计质押数量占总股本比例",
+            "2026-08-17至2026-08-17"
+          ],
+          "search_data_task_3": [
+            "宏景科技",
+            "累计质押数量占总股本比例",
+            "2026-08-17至2026-08-17"
+          ],
+          "search_data_task_2": [
+            "利通电子",
+            "质押比例",
+            "2026-08-17至2026-08-17"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000316971",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "润泽科技",
+            "shortName": "",
+            "matchWord": "润泽科技",
+            "secuCode": "300442",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "1001030420",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "利通电子",
+            "shortName": "",
+            "matchWord": "利通电子",
+            "secuCode": "603629",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "1001867298",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "协创数据",
+            "shortName": "",
+            "matchWord": "协创数据",
+            "secuCode": "300857",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          },
+          {
+            "entityId": "1002681439",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "宏景科技",
+            "shortName": "",
+            "matchWord": "宏景科技",
+            "secuCode": "301396",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "0e385e657a7f493a8c1a313cb1419566"
+}

@@ -1,0 +1,238 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "222fc377-6ded-4635-81b3-3a2d8e504c0b",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "76a5b773-1aee-4982-bd76-97a20fb10584",
+        "dataTableDTOList": [
+          {
+            "code": "600673.SH",
+            "entityName": "东阳光(600673.SH)",
+            "table": {
+              "100000000044473": [
+                "71.26%",
+                "67%",
+                "66.07%",
+                "65.52%",
+                "66.45%",
+                "65.18%"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报",
+                "2025年报",
+                "2025三季报",
+                "2025中报",
+                "2025一季报"
+              ]
+            },
+            "rawTable": {
+              "100000000044473": [
+                "71.256463133800",
+                "66.998369406900",
+                "66.067897256300",
+                "65.52359896300",
+                "66.453174024700",
+                "65.177562476600"
+              ],
+              "headName": [
+                "2026中报",
+                "2026一季报",
+                "2025年报",
+                "2025三季报",
+                "2025中报",
+                "2025一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000044473": "资产负债率",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000044473",
+              "returnName": "资产负债率",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "QUARTER",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "Type=1",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "DEBTTOASSETS2",
+              "returnSourceName": "资产负债率",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "10802:%:%",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "600673.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000044473",
+                "returnName": "资产负债率",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "QUARTER",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Type=1",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "DEBTTOASSETS2",
+                "returnSourceName": "资产负债率",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "10802:%:%",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000044473"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "东阳光(600673.SH)的资产负债率",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=600673.SH&indId=100000000044473|115:1|100:2025-03-31,100000000044473|115:1|100:2025-06-30,100000000044473|115:1|100:2025-09-30,100000000044473|115:1|100:2025-12-31,100000000044473|115:1|100:2026-03-31,100000000044473|115:1|100:2026-06-30",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009463",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "东阳光",
+              "shortName": "",
+              "matchWord": "东阳光600673",
+              "secuCode": "600673",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009463",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "东阳光",
+                "shortName": "",
+                "matchWord": "东阳光600673",
+                "secuCode": "600673",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026中报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "东阳光",
+            "资产负债率",
+            "2026-08-17至2026-08-17"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000009463",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "东阳光",
+            "shortName": "",
+            "matchWord": "东阳光600673",
+            "secuCode": "600673",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "66f465abc2bb449d94728c18350396d1"
+}

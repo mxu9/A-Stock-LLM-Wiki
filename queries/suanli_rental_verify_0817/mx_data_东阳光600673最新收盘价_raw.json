@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "32584a2f-47a3-4b50-a407-b6d3602974ae",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "7b3e91d6-682e-4d79-8aba-a49bb625239d",
+        "dataTableDTOList": [
+          {
+            "code": "600673.SH",
+            "entityName": "东阳光(600673.SH)",
+            "table": {
+              "325898": [
+                "37.57元",
+                "36.45元",
+                "34.48元",
+                "34.11元",
+                "32.7元",
+                "33.28元"
+              ],
+              "headName": [
+                "2026-08-17(日)",
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "325898": [
+                "37.57",
+                "36.45",
+                "34.48",
+                "34.11",
+                "32.7",
+                "33.28"
+              ],
+              "headName": [
+                "2026-08-17",
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "325898": "收盘价",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "325898",
+              "returnName": "收盘价",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "CLOSE",
+              "returnSourceName": "收盘价",
+              "graph": "2",
+              "unit": "2",
+              "tableType": "20",
+              "unitName": "元",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "325898"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "东阳光(600673.SH)的收盘价",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=600673.SH&indId=100000000001098|121:2026-08-17|513:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009463",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "东阳光",
+              "shortName": "",
+              "matchWord": "东阳光600673",
+              "secuCode": "600673",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009463",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "东阳光",
+                "shortName": "",
+                "matchWord": "东阳光600673",
+                "secuCode": "600673",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-17": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "东阳光",
+            "收盘价",
+            "2026-08-17至2026-08-17"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000009463",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "东阳光",
+            "shortName": "",
+            "matchWord": "东阳光600673",
+            "secuCode": "600673",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "19304f5f932a4c4aa874bff2d2846a3e"
+}

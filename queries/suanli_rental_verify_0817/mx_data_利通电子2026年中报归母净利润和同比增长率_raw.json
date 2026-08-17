@@ -1,0 +1,247 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "07e1e804-8b66-4e8f-9930-e9d80b4059c8",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "992a6cfa-a551-44a1-b3b3-9ad3e4e527ef",
+        "dataTableDTOList": [
+          {
+            "code": "603629.SH",
+            "entityName": "利通电子(603629.SH)",
+            "table": {
+              "100000000004686": [
+                "821.1%"
+              ],
+              "100000000000308": [
+                "2.713亿元"
+              ],
+              "headName": [
+                "2026一季报"
+              ]
+            },
+            "rawTable": {
+              "100000000004686": [
+                "821.08330365483400"
+              ],
+              "100000000000308": [
+                "271272956.39"
+              ],
+              "headName": [
+                "2026一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000004686": "归属母公司股东的净利润同比增长率",
+              "headNameSub": "数据来源",
+              "100000000000308": "归属于母公司股东的净利润"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000004686",
+              "returnName": "归属母公司股东的净利润同比增长率",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "SJLTZ",
+              "returnSourceName": "归属母公司股东的净利润同比增长率",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "10802:%:%",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "603629.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000000308",
+                "returnName": "归属于母公司股东的净利润",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=61",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "PARENTNETPROFIT",
+                "returnSourceName": "归属于母公司股东的净利润",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "100000000004686",
+                "returnName": "归属母公司股东的净利润同比增长率",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "SJLTZ",
+                "returnSourceName": "归属母公司股东的净利润同比增长率",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "10802:%:%",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000004686",
+              "100000000000308"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "利通电子(603629.SH)的归属母公司股东的净利润同比增长率、归属于母公司股东的净利润",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=603629.SH&indId=100000000004686|100:2026-03-31,100000000000308|100:2026-03-31|115:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001030420",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "利通电子",
+              "shortName": "",
+              "matchWord": "利通电子",
+              "secuCode": "603629",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026一季报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "利通电子",
+            "归属母公司股东的净利润同比增长率归属于母公司股东的净利润",
+            "2026-01-01至2026-06-30"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1001030420",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "利通电子",
+            "shortName": "",
+            "matchWord": "利通电子",
+            "secuCode": "603629",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "c7d9f2b2927b4703ad8c0480636c298d"
+}

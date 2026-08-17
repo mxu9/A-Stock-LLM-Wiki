@@ -195,3 +195,9 @@
 - entities/300319.md：TLVR 行补 ⚠️未获 AVL
 - concepts/800v-hvdc.md：改「媒体口径」，加注⚠️公司澄清未获AVL、小批量试产
 - 已修正页面：aidc-power.md(2处)、800v-hvdc.md、entities/300319.md、可信度评估报告
+
+## [2026-08-17] analysis | 算力租赁 3-6个月投资筛选
+- 新增报告：reports/260817/算力租赁_3-6个月投资筛选_260817.md
+- 刷新核心6标的8/17行情、H1业绩口径、负债率、质押与PE
+- 硬闸结论：智微智能可分批；协创/利通/润泽等验证；宏景/东阳光不参与
+- 更新 concepts/suanli-rental.md、comparisons/suanli-rental-six-stocks.md、reports.md

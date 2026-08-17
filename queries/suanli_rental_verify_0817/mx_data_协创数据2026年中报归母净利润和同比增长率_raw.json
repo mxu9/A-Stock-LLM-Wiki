@@ -1,0 +1,247 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "a1f17bdd-d516-4d6c-a1c6-cc95ef07f65b",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "612da05f-bc3b-4da2-9ef6-c314cb27b287",
+        "dataTableDTOList": [
+          {
+            "code": "300857.SZ",
+            "entityName": "协创数据(300857.SZ)",
+            "table": {
+              "100000000004686": [
+                "343.4%"
+              ],
+              "100000000000308": [
+                "7.504亿元"
+              ],
+              "headName": [
+                "2026一季报"
+              ]
+            },
+            "rawTable": {
+              "100000000004686": [
+                "343.4455103341852200"
+              ],
+              "100000000000308": [
+                "750356502.2"
+              ],
+              "headName": [
+                "2026一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000004686": "归属母公司股东的净利润同比增长率",
+              "headNameSub": "数据来源",
+              "100000000000308": "归属于母公司股东的净利润"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000004686",
+              "returnName": "归属母公司股东的净利润同比增长率",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "SJLTZ",
+              "returnSourceName": "归属母公司股东的净利润同比增长率",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "10802:%:%",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "300857.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000000308",
+                "returnName": "归属于母公司股东的净利润",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=61",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "PARENTNETPROFIT",
+                "returnSourceName": "归属于母公司股东的净利润",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "100000000004686",
+                "returnName": "归属母公司股东的净利润同比增长率",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "SJLTZ",
+                "returnSourceName": "归属母公司股东的净利润同比增长率",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "10802:%:%",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000004686",
+              "100000000000308"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "协创数据(300857.SZ)的归属母公司股东的净利润同比增长率、归属于母公司股东的净利润",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300857.SZ&indId=100000000004686|100:2026-03-31,100000000000308|100:2026-03-31|115:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001867298",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "协创数据",
+              "shortName": "",
+              "matchWord": "协创数据",
+              "secuCode": "300857",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001867298",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "协创数据",
+                "shortName": "",
+                "matchWord": "协创数据",
+                "secuCode": "300857",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026一季报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "协创数据",
+            "归属母公司股东的净利润同比增长率归属于母公司股东的净利润",
+            "2026-01-01至2026-06-30"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1001867298",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "协创数据",
+            "shortName": "",
+            "matchWord": "协创数据",
+            "secuCode": "300857",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "41df44ccde654e0a97b537bfba6ba32e"
+}

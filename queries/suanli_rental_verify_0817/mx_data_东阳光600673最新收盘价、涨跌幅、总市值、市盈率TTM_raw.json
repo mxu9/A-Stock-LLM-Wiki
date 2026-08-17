@@ -1,0 +1,562 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "e08a6227-f7b3-4a07-81c5-a033fc4d9e6a",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "88a524f1-196c-4b1a-9ee0-d1ab1c78a82c",
+        "dataTableDTOList": [
+          {
+            "code": "600673.SH",
+            "entityName": "东阳光(600673.SH)",
+            "table": {
+              "ZSZ_f20_3": [
+                "1131亿"
+              ],
+              "ZDF_f3_3": [
+                "3.07%"
+              ],
+              "SYLTTM_f115_3": [
+                "2170"
+              ],
+              "headName": [
+                "2026-08-17 20:03"
+              ]
+            },
+            "rawTable": {
+              "ZSZ_f20_3": [
+                "113068983567"
+              ],
+              "ZDF_f3_3": [
+                "3.07"
+              ],
+              "SYLTTM_f115_3": [
+                "2170.31"
+              ],
+              "headName": [
+                "2026-08-17 20:03"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "ZSZ_f20_3": "总市值",
+              "headNameSub": "数据来源",
+              "ZDF_f3_3": "涨跌幅",
+              "SYLTTM_f115_3": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "ZSZ_f20_3",
+              "returnName": "总市值",
+              "classCode": "007001",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "apiCode": "3",
+              "isGroup": false,
+              "returnSourceCode": "f20",
+              "returnSourceName": "总市值",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "2",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "600673.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "ZSZ_f20_3",
+                "returnName": "总市值",
+                "classCode": "007001",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "apiCode": "3",
+                "isGroup": false,
+                "returnSourceCode": "f20",
+                "returnSourceName": "总市值",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "2",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "ZDF_f3_3",
+                "returnName": "涨跌幅",
+                "classCode": "007001",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "apiCode": "3",
+                "isGroup": false,
+                "returnSourceCode": "f3",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "2",
+                "unitName": "%",
+                "unitDesc": "901:%:%",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "SYLTTM_f115_3",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007001",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "apiCode": "3",
+                "isGroup": false,
+                "returnSourceCode": "f115",
+                "returnSourceName": "市盈率(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "2",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "ZSZ_f20_3",
+              "ZDF_f3_3",
+              "SYLTTM_f115_3"
+            ],
+            "tipFlags": [
+              "0"
+            ],
+            "dataType": "行情数据",
+            "title": "东阳光(600673.SH)当前的总市值、涨跌幅等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [],
+            "dataTypeEnum": "HQ",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009463",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "东阳光",
+              "shortName": "",
+              "matchWord": "东阳光600673",
+              "secuCode": "600673",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009463",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "东阳光",
+                "shortName": "",
+                "matchWord": "东阳光600673",
+                "secuCode": "600673",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-17 20:03": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "600673.SH",
+            "entityName": "东阳光(600673.SH)",
+            "table": {
+              "326809": [
+                "1131亿",
+                "1097亿",
+                "1038亿",
+                "1027亿",
+                "984.1亿",
+                "1002亿"
+              ],
+              "326865": [
+                "3.073%",
+                "5.713%",
+                "1.085%",
+                "4.312%",
+                "-1.743%",
+                "1.124%"
+              ],
+              "328773": [
+                "968.9倍",
+                "940倍",
+                "889.2倍",
+                "879.6倍",
+                "843.3倍",
+                "858.2倍"
+              ],
+              "325898": [
+                "37.57元",
+                "36.45元",
+                "34.48元",
+                "34.11元",
+                "32.7元",
+                "33.28元"
+              ],
+              "headName": [
+                "2026-08-17(日)",
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "113068983566.63",
+                "109698281900.55",
+                "103769458434.32",
+                "102655923062.49",
+                "98412450429.3",
+                "100157992363.52"
+              ],
+              "326865": [
+                "3.07270233196158400",
+                "5.71345707656614300",
+                "1.084725886836697200",
+                "4.31192660550457600",
+                "-1.742788461538456400",
+                "1.124278334852642400"
+              ],
+              "328773": [
+                "968.85584958",
+                "939.97326902",
+                "889.17087286",
+                "879.62930607",
+                "843.26820019",
+                "858.22525084"
+              ],
+              "325898": [
+                "37.57",
+                "36.45",
+                "34.48",
+                "34.11",
+                "32.7",
+                "33.28"
+              ],
+              "headName": [
+                "2026-08-17",
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "326865": "涨跌幅",
+              "328773": "市盈率PE(TTM)",
+              "325898": "收盘价"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "600673.SH"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "325898",
+                "returnName": "收盘价",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "2",
+                "tableType": "20",
+                "unitName": "元",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "326865",
+                "returnName": "涨跌幅",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "AdjustFlag=1,CurType=2,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "100%",
+                "unitDesc": "100%",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "326865",
+              "328773",
+              "325898"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "东阳光(600673.SH)的总市值、涨跌幅等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=600673.SH&indId=100000000004751|121:2026-08-17|261:101:元:元,100000000001097|121:2026-08-17|261:108:%:%,100000000034044|121:2026-08-17,100000000001098|121:2026-08-17|513:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009463",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "东阳光",
+              "shortName": "",
+              "matchWord": "东阳光600673",
+              "secuCode": "600673",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009463",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "东阳光",
+                "shortName": "",
+                "matchWord": "东阳光600673",
+                "secuCode": "600673",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-17": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "东阳光",
+            "总市值涨跌幅市盈率PE(TTM)收盘价",
+            "2026-08-17至2026-08-17"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000009463",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "东阳光",
+            "shortName": "",
+            "matchWord": "东阳光600673",
+            "secuCode": "600673",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "a67a565b6a814ffb9b17150df490640c"
+}

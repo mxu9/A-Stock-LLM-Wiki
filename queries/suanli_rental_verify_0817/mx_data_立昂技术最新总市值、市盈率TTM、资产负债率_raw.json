@@ -1,0 +1,635 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "c593f41b-f96f-4f12-ba8c-8a83aebfd121",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "4d32d06a-0351-4076-bfc0-38eefb46cc2a",
+        "dataTableDTOList": [
+          {
+            "code": "300603.SZ",
+            "entityName": "立昂技术(300603.SZ)",
+            "table": {
+              "ZSZ_f20_3": [
+                "40.86亿"
+              ],
+              "SYLTTM_f115_3": [
+                "-22.78"
+              ],
+              "headName": [
+                "2026-08-17 20:10"
+              ]
+            },
+            "rawTable": {
+              "ZSZ_f20_3": [
+                "4085576450"
+              ],
+              "SYLTTM_f115_3": [
+                "-22.78"
+              ],
+              "headName": [
+                "2026-08-17 20:10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "ZSZ_f20_3": "总市值",
+              "headNameSub": "数据来源",
+              "SYLTTM_f115_3": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "ZSZ_f20_3",
+              "returnName": "总市值",
+              "classCode": "007001",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "apiCode": "3",
+              "isGroup": false,
+              "returnSourceCode": "f20",
+              "returnSourceName": "总市值",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "2",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "300603.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "ZSZ_f20_3",
+                "returnName": "总市值",
+                "classCode": "007001",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "apiCode": "3",
+                "isGroup": false,
+                "returnSourceCode": "f20",
+                "returnSourceName": "总市值",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "2",
+                "dcsdField": false
+              },
+              {
+                "returnCode": "SYLTTM_f115_3",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007001",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "apiCode": "3",
+                "isGroup": false,
+                "returnSourceCode": "f115",
+                "returnSourceName": "市盈率(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "2",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "ZSZ_f20_3",
+              "SYLTTM_f115_3"
+            ],
+            "tipFlags": [
+              "0"
+            ],
+            "dataType": "行情数据",
+            "title": "立昂技术(300603.SZ)当前的总市值、市盈率PE(TTM)",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [],
+            "dataTypeEnum": "HQ",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000576684",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "立昂技术",
+              "shortName": "",
+              "matchWord": "立昂技术",
+              "secuCode": "300603",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000576684",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "立昂技术",
+                "shortName": "",
+                "matchWord": "立昂技术",
+                "secuCode": "300603",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-17 20:10": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "300603.SZ",
+            "entityName": "立昂技术(300603.SZ)",
+            "table": {
+              "326809": [
+                "40.86亿",
+                "41.37亿",
+                "44.16亿",
+                "37.32亿",
+                "36.86亿",
+                "37亿"
+              ],
+              "328773": [
+                "-22.78倍",
+                "-23.07倍",
+                "-24.62倍",
+                "-20.81倍",
+                "-20.55倍",
+                "-20.63倍"
+              ],
+              "headName": [
+                "2026-08-17(日)",
+                "2026-08-14(日)",
+                "2026-08-13(日)",
+                "2026-08-12(日)",
+                "2026-08-11(日)",
+                "2026-08-10(日)"
+              ]
+            },
+            "rawTable": {
+              "326809": [
+                "4085576450.49",
+                "4136704255.9",
+                "4415583194.5",
+                "3732329794.93",
+                "3685849971.83",
+                "3699793918.76"
+              ],
+              "328773": [
+                "-22.7811668",
+                "-23.06625535",
+                "-24.6212838",
+                "-20.8114641",
+                "-20.55229269",
+                "-20.63004411"
+              ],
+              "headName": [
+                "2026-08-17",
+                "2026-08-14",
+                "2026-08-13",
+                "2026-08-12",
+                "2026-08-11",
+                "2026-08-10"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "326809": "总市值",
+              "headNameSub": "数据来源",
+              "328773": "市盈率PE(TTM)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "326809",
+              "returnName": "总市值",
+              "classCode": "007121",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-08-17 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=1,Period=1",
+              "isGroup": false,
+              "returnSourceCode": "MV",
+              "returnSourceName": "总市值",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "20",
+              "dcsdField": true
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "300603.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "326809",
+                "returnName": "总市值",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=1,Period=1",
+                "isGroup": false,
+                "returnSourceCode": "MV",
+                "returnSourceName": "总市值",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "dcsdField": true
+              },
+              {
+                "returnCode": "328773",
+                "returnName": "市盈率PE(TTM)",
+                "classCode": "007121",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-08-17 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1",
+                "isGroup": false,
+                "returnSourceCode": "PETTM",
+                "returnSourceName": "市盈率PE(TTM)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "20",
+                "unitName": "倍",
+                "unitDesc": "倍",
+                "dcsdField": true
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "326809",
+              "328773"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "立昂技术(300603.SZ)的总市值、市盈率PE(TTM)",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300603.SZ&indId=100000000004751|121:2026-08-17|261:101:元:元,100000000034044|121:2026-08-17",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000576684",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "立昂技术",
+              "shortName": "",
+              "matchWord": "立昂技术",
+              "secuCode": "300603",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000576684",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "立昂技术",
+                "shortName": "",
+                "matchWord": "立昂技术",
+                "secuCode": "300603",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-08-17": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "TDAY"
+          },
+          {
+            "code": "300603.SZ",
+            "entityName": "立昂技术(300603.SZ)",
+            "table": {
+              "100000000044473": [
+                "39.05%",
+                "39.13%",
+                "35.39%",
+                "32.72%",
+                "31.46%",
+                "31.85%"
+              ],
+              "headName": [
+                "2026一季报",
+                "2025年报",
+                "2025三季报",
+                "2025中报",
+                "2025一季报",
+                "2024年报"
+              ]
+            },
+            "rawTable": {
+              "100000000044473": [
+                "39.049837443600",
+                "39.133884847900",
+                "35.388336938200",
+                "32.723832736800",
+                "31.462766407800",
+                "31.847726838900"
+              ],
+              "headName": [
+                "2026一季报",
+                "2025年报",
+                "2025三季报",
+                "2025中报",
+                "2025一季报",
+                "2024年报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000044473": "资产负债率",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000044473",
+              "returnName": "资产负债率",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-08-17 00:00:00",
+              "endDate": "2026-03-31 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "QUARTER",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "Type=1",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "DEBTTOASSETS2",
+              "returnSourceName": "资产负债率",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "10802:%:%",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "entityCodes": [
+              "300603.SZ"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000044473",
+                "returnName": "资产负债率",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-08-17 00:00:00",
+                "endDate": "2026-03-31 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "QUARTER",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Type=1",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "DEBTTOASSETS2",
+                "returnSourceName": "资产负债率",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "10802:%:%",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000044473"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "立昂技术(300603.SZ)的资产负债率",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300603.SZ&indId=100000000044473|115:1|100:2024-12-31,100000000044473|115:1|100:2025-03-31,100000000044473|115:1|100:2025-06-30,100000000044473|115:1|100:2025-09-30,100000000044473|115:1|100:2025-12-31,100000000044473|115:1|100:2026-03-31",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000576684",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "立昂技术",
+              "shortName": "",
+              "matchWord": "立昂技术",
+              "secuCode": "300603",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000576684",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "立昂技术",
+                "shortName": "",
+                "matchWord": "立昂技术",
+                "secuCode": "300603",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026一季报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "立昂技术",
+            "总市值资产负债率市盈率PE(TTM)",
+            "2026-08-17至2026-08-17"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000576684",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "立昂技术",
+            "shortName": "",
+            "matchWord": "立昂技术",
+            "secuCode": "300603",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "51a326f3a80e4f049e338d813af79b43"
+}

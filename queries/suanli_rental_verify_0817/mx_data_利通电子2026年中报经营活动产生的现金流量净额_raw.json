@@ -1,0 +1,215 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "df932913-8e02-4d2a-bee4-914decaf1a84",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "2b148c41-5d3a-49c0-8437-a232a847c0f7",
+        "dataTableDTOList": [
+          {
+            "code": "603629.SH",
+            "entityName": "利通电子(603629.SH)",
+            "table": {
+              "100000000000259": [
+                "6.07亿元"
+              ],
+              "headName": [
+                "2026一季报"
+              ]
+            },
+            "rawTable": {
+              "100000000000259": [
+                "606970706.36"
+              ],
+              "headName": [
+                "2026一季报"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000000259": "经营活动产生的现金流量净额",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000000259",
+              "returnName": "经营活动产生的现金流量净额",
+              "classCode": "007101",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-01-01 00:00:00",
+              "endDate": "2026-06-30 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "FISCAL_QUARTER",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "type=1,ItemsCode=39",
+              "quantType": "1",
+              "isGroup": false,
+              "returnSourceCode": "NETOPERATECASHFLOW",
+              "returnSourceName": "经营活动产生的现金流量净额",
+              "graph": "1",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "元",
+              "unitDesc": "101:元:元",
+              "dcsdField": false
+            },
+            "entityName2TagMap": {},
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000000259",
+                "returnName": "经营活动产生的现金流量净额",
+                "classCode": "007101",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-01-01 00:00:00",
+                "endDate": "2026-06-30 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "FISCAL_QUARTER",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "type=1,ItemsCode=39",
+                "quantType": "1",
+                "isGroup": false,
+                "returnSourceCode": "NETOPERATECASHFLOW",
+                "returnSourceName": "经营活动产生的现金流量净额",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元",
+                "dcsdField": false
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000000259"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "利通电子(603629.SH)的经营活动产生的现金流量净额",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=603629.SH&indId=100000000000259|100:2026-03-31|115:1",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001030420",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "利通电子",
+              "shortName": "",
+              "matchWord": "利通电子",
+              "secuCode": "603629",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "hasKLine": false,
+              "valuation": false,
+              "relatedEntity": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001030420",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "利通电子",
+                "shortName": "",
+                "matchWord": "利通电子",
+                "secuCode": "603629",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "hasKLine": false,
+                "valuation": false,
+                "relatedEntity": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026一季报": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "利通电子",
+            "经营活动产生的现金流量净额",
+            "2026-01-01至2026-06-30"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1001030420",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "利通电子",
+            "shortName": "",
+            "matchWord": "利通电子",
+            "secuCode": "603629",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "hasKLine": false,
+            "valuation": false,
+            "relatedEntity": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "79b3a74177344d67a0f4c3b063d5227b"
+}
