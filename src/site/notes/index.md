@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-16 | Total pages: 269 | 216 entities + 49 concepts + 4 comparisons
+> Last updated: 2026-08-19 | Total pages: 274 | 220 entities + 50 concepts + 4 comparisons
 
-## Entities (个股) — 216 stocks
+## Entities (个股) — 220 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -93,6 +93,7 @@
 | [[entities/688551\|688551]] | 科威尔 | 1 |
 | [[entities/688663\|688663]] 🆕 | 新风光 | — |
 | [[entities/688676\|688676]] 🆕 | 金盘科技 | — |
+| [[entities/301120\|301120]] 🆕 | 新特电气 | — |
 
 | [[entities/300274\|300274]] 🆕 | 阳光电源 | 1 |
 
@@ -104,6 +105,9 @@
 | [[entities/002138\|002138]] 🆕 | 顺络电子 | — |
 | [[entities/002436\|002436]] 🆕 | 兴森科技 | — |
 | [[entities/002782\|002782]] | 可立克 | 3 |
+| [[entities/002902\|002902]] 🆕 | 铭普光磁 | — |
+| [[entities/300811\|300811]] 🆕 | 铂科新材 | 1 |
+| [[entities/688190\|688190]] 🆕 | 云路股份 | — |
 | [[entities/002819\|002819]] | 东方中科 | 1 |
 | [[entities/002916\|002916]] 🆕 | 深南电路 | — |
 | [[entities/003031\|003031]] | 中瓷电子 🆕 | — |
@@ -266,7 +270,7 @@
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 | [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 49 topics
+## Concepts (行业/概念/产业链) — 50 topics
 
 - [[concepts/npo-optical-interconnect\|npo-optical-interconnect]] 🆕 — NPO近封装光学（传统可插拔与CPO间过渡方案，12寸硅光价值量+4倍、TIA/Driver+3倍，2027爬坡；光引擎/高密度连接/FAU/光源/先进封装全环节，东北证券深度报告）
 - [[concepts/tantalum-capacitor\|tantalum-capacitor]] 🆕 — 钽电容/压电陶瓷（AI服务器单机用量20-40倍于传统、钽价年内+138%、刚果金供给集中，星源材质控股邦瓷电子/顺络电子/振华科技）
@@ -295,6 +299,7 @@
 - [[concepts/aidc-power\|aidc-power]] 🆕 — AIDC电源总览（供电链路：HVDC/SST/PSU/柴发/元器件，2026-2028黄金窗口）
 - [[concepts/aidc-supply-chain\|aidc-supply-chain]] 🆕 — AIDC 全产业链（SST/HVDC/液冷/元器件，英伟达800V架构变革）
 - [[concepts/solid-state-transformer\|solid-state-transformer]] — 固态变压器(SST)
+- [[concepts/high-frequency-transformer\|high-frequency-transformer]] 🆕 — 高频变压器（SST核心部件/磁性元件，可立克/京泉华/伊戈尔/新特电气，台达与伊顿双链卡位）
 - [[concepts/sic-supply-chain\|sic-supply-chain]] 🆕 — 碳化硅(SiC)产业链
 - [[concepts/aidc-liquid-cooling\|aidc-liquid-cooling]] — AIDC液冷产业链
 - [[concepts/hbm-supply-chain\|hbm-supply-chain]] — HBM存储产业链
