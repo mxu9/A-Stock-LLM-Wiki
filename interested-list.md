@@ -9,7 +9,6 @@
 - [[power-semiconductor]]
 - [[sic-supply-chain]]
 - [[solid-state-transformer]]
-- [[commercial-space]]
 - [[pig-cycle]]
 - [[innovative-drugs]]
 - [[semianalysis]]
@@ -17,8 +16,5 @@
 ## entities (标的)
 - [[002782|可立克]]
 - [[002706|良信股份]]
-- [[600118|中国卫星]]
-- [[300136|信维通信]]
-- [[300900|广联航空]]
 - [[601126|四方股份]]
 - [[688469|芯联集成]]
