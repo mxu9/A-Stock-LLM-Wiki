@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-27 | Total pages: 281 | 226 entities + 51 concepts + 4 comparisons
+> Last updated: 2026-08-27 | Total pages: 285 | 229 entities + 52 concepts + 4 comparisons
 
-## Entities (个股) — 226 stocks
+## Entities (个股) — 229 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -178,6 +178,9 @@
 ### 有色
 | 代码 | 名称 | 报告数 |
 |------|------|--------|
+| [[entities/000603\|000603]] 🆕 | 盛达资源 | — |
+| [[entities/000426\|000426]] 🆕 | 兴业银锡 | — |
+| [[entities/002716\|002716]] 🆕 | 湖南白银 | — |
 | [[entities/000657\|000657]] | 中钨高新 🆕 | — |
 | [[entities/000831\|000831]] | 中国稀土 🆕 | — |
 | [[entities/002167\|002167]] | 东方锆业 🆕 | — |
@@ -278,7 +281,10 @@
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 | [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 51 topics
+## Concepts (行业/概念/产业链) — 52 topics
+
+- [[concepts/silver\|silver]] 🆕 — 白银（金融+工业双属性，26H1银价+141%驱动业绩爆发：盛达资源高品位矿产+456%/兴业银锡资源储量第一/湖南白银冶炼龙头）
+
 
 - [[concepts/sugar\|sugar]] 🆕 — 白糖（周期底部"弱现实+强预期"：厄尔尼诺>90%威胁印度/泰国减产 vs 国内增产高库存；中粮糖业全产业链龙头18%份额，冠农成本标杆，广农*ST退市风险）
 
