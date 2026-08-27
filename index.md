@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-19 | Total pages: 274 | 220 entities + 50 concepts + 4 comparisons
+> Last updated: 2026-08-27 | Total pages: 281 | 226 entities + 51 concepts + 4 comparisons
 
-## Entities (个股) — 220 stocks
+## Entities (个股) — 226 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -209,6 +209,14 @@ dg-publish: true
 | [[300498]] 🆕 | 温氏股份 | — |
 | [[02419]] 🆕 | 德康农牧 | 1 |
 
+### 农产品/白糖
+| 代码 | 名称 | 报告数 |
+|------|------|--------|
+| [[600737]] 🆕 | 中粮糖业 | — |
+| [[000911]] 🆕 | 广农糖业(*ST) | — |
+| [[000833]] 🆕 | 粤桂股份 | — |
+| [[600251]] 🆕 | 冠农股份 | — |
+| [[600191]] 🆕 | 华资实业 | — |
 ### 机械设备/燃气轮机
 | 代码 | 名称 | 报告数 |
 |------|------|--------|
@@ -271,7 +279,10 @@ dg-publish: true
 | [[300975]] 🆕 | 商络电子 | — |
 | [[688256]] 🆕 | 寒武纪 | — |
 
-## Concepts (行业/概念/产业链) — 50 topics
+## Concepts (行业/概念/产业链) — 51 topics
+
+- [[sugar]] 🆕 — 白糖（周期底部"弱现实+强预期"：厄尔尼诺>90%威胁印度/泰国减产 vs 国内增产高库存；中粮糖业全产业链龙头18%份额，冠农成本标杆，广农*ST退市风险）
+
 
 - [[npo-optical-interconnect]] 🆕 — NPO近封装光学（传统可插拔与CPO间过渡方案，12寸硅光价值量+4倍、TIA/Driver+3倍，2027爬坡；光引擎/高密度连接/FAU/光源/先进封装全环节，东北证券深度报告）
 - [[tantalum-capacitor]] 🆕 — 钽电容/压电陶瓷（AI服务器单机用量20-40倍于传统、钽价年内+138%、刚果金供给集中，星源材质控股邦瓷电子/顺络电子/振华科技）
