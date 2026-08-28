@@ -8,8 +8,8 @@ type: concept
 tags: [黄金, 资源股, 有色金属, 避险, 涨价]
 sources:
   - reports/ZSXQ/知识星球_摘要_260815.md
-    - reports/ZSXQ/知识星球_摘要_260812.md
-- reports/ZSXQ/知识星球_摘要_260809.md
+  - reports/ZSXQ/知识星球_摘要_260812.md
+  - reports/ZSXQ/知识星球_摘要_260809.md
   - reports/ZSXQ/知识星球_摘要_260807.md
   - reports/ZSXQ/知识星球_摘要_260805.md
   - mx-search 2026-08-05: 黄金股板块动态+机构观点
