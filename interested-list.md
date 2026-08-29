@@ -12,6 +12,7 @@
 - [[pig-cycle]]
 - [[innovative-drugs]]
 - [[semianalysis]]
+- [[drmos]] 🆕
 
 ## entities (标的)
 - [[002706|良信股份]]

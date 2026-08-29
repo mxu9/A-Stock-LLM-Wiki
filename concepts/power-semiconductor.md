@@ -131,6 +131,7 @@ dg-publish: true
 - [[sic-supply-chain]] — 碳化硅(SiC)产业链
 - [[mlcc-capacitor]] — MLCC/被动元件（功率配套）
 - [[semiconductor-price-cycle]] — 半导体涨价周期
+- [[drmos]] — DrMOS/AI服务器供电功率级（三次电源）
 
 ## 相关报告
 - [[reports/260701/功率半导体_行业分析_260701.md|功率半导体 行业分析 260701]]
