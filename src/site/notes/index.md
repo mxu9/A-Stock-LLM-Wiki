@@ -6,9 +6,9 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-27 | Total pages: 285 | 229 entities + 52 concepts + 4 comparisons
+> Last updated: 2026-08-29 | Total pages: 287 | 230 entities + 53 concepts + 4 comparisons
 
-## Entities (个股) — 229 stocks
+## Entities (个股) — 230 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -203,6 +203,7 @@
 | [[entities/600759\|600759]] 🆕 | ST洲际 | 油气 | 1 |
 | [[entities/600901\|600901]] | 江苏金租 | 金融 | 2 |
 | [[entities/002749\|002749]] | 国光股份 | 农业 | 1 |
+| [[entities/000333\|000333]] 🆕 | 美的集团 | 家电 | — |
 
 ### 农林牧渔/畜禽养殖
 | 代码 | 名称 | 报告数 |
@@ -280,8 +281,12 @@
 | [[entities/603986\|603986]] 🆕 | 兆易创新 | — |
 | [[entities/300975\|300975]] 🆕 | 商络电子 | — |
 | [[entities/688256\|688256]] 🆕 | 寒武纪 | — |
+| [[entities/688141\|688141]] 🆕 | 杰华特 | — |
+| [[entities/688368\|688368]] 🆕 | 晶丰明源 | — |
+| [[entities/688508\|688508]] 🆕 | 芯朋微 | — |
+| [[entities/688484\|688484]] 🆕 | 南芯科技 | — |
 
-## Concepts (行业/概念/产业链) — 52 topics
+## Concepts (行业/概念/产业链) — 53 topics
 
 - [[concepts/silver\|silver]] 🆕 — 白银（金融+工业双属性，26H1银价+141%驱动业绩爆发：盛达资源高品位矿产+456%/兴业银锡资源储量第一/湖南白银冶炼龙头）
 
@@ -291,6 +296,7 @@
 
 - [[concepts/npo-optical-interconnect\|npo-optical-interconnect]] 🆕 — NPO近封装光学（传统可插拔与CPO间过渡方案，12寸硅光价值量+4倍、TIA/Driver+3倍，2027爬坡；光引擎/高密度连接/FAU/光源/先进封装全环节，东北证券深度报告）
 - [[concepts/tantalum-capacitor\|tantalum-capacitor]] 🆕 — 钽电容/压电陶瓷（AI服务器单机用量20-40倍于传统、钽价年内+138%、刚果金供给集中，星源材质控股邦瓷电子/顺络电子/振华科技）
+- [[concepts/drmos\|drmos]] 🆕 — DrMOS/AI服务器供电功率级（量价齐升+国产替代：单机用量640-720颗、前四大海外85%/国产仅7%，杰华特90A量产/晶丰AMD AVL/南芯60A发布）
 - [[concepts/sofc-fuel-cell\|sofc-fuel-cell]] 🆕 — SOFC固体氧化物燃料电池（数据中心供电快速部署90天 vs 电网5-7年，Bloom Energy在手订单200亿美元+，三环集团/潍柴动力/京泉华/佛燃能源/壹石通）
 - [[concepts/ai-application\|ai-application]] — AI应用（2026 AI应用爆发元年，Token日调用200万亿次，金山办公/浪潮/泛微/致远）
 - [[concepts/dividend-etf\|dividend-etf]] — 红利ETF（红利择时模型8月中证红利推荐仓位100%）
