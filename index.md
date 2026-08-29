@@ -7,9 +7,9 @@ dg-publish: true
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-27 | Total pages: 285 | 229 entities + 52 concepts + 4 comparisons
+> Last updated: 2026-08-29 | Total pages: 286 | 230 entities + 52 concepts + 4 comparisons
 
-## Entities (个股) — 229 stocks
+## Entities (个股) — 230 stocks
 
 ### 字节AI电源/AIDC液冷
 | 代码 | 名称 | 报告数 |
@@ -204,6 +204,7 @@ dg-publish: true
 | [[600759]] 🆕 | ST洲际 | 油气 | 1 |
 | [[600901]] | 江苏金租 | 金融 | 2 |
 | [[002749]] | 国光股份 | 农业 | 1 |
+| [[000333]] 🆕 | 美的集团 | 家电 | — |
 
 ### 农林牧渔/畜禽养殖
 | 代码 | 名称 | 报告数 |
